@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-10T20:19:24.488Z",
+  "fetchedAt": "2026-11-10T21:00:00.659Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -553,7 +553,7 @@
           "guild": null,
           "ruleset": "Normal",
           "itemLevel": 21,
-          "lastUpdated": 1794339851000,
+          "lastUpdated": 1794342614000,
           "honorableKills": 1
         },
         "talents": [
@@ -815,7 +815,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-10T19:54:12.713Z",
+        "summary": "2026-11-10T21:00:00.659Z",
         "talents": "2026-11-10T19:54:12.713Z",
         "equipment": "2026-11-10T19:54:12.713Z",
         "professions": "2026-11-10T19:54:12.713Z",
@@ -1888,6 +1888,280 @@
         "equipment": "2026-11-10T20:19:24.488Z",
         "professions": "2026-11-10T20:19:24.488Z",
         "media": "2026-11-10T20:19:24.488Z"
+      },
+      "error": null
+    },
+    {
+      "slug": "alex-dotcom",
+      "character": "Alex Dotcom",
+      "sections": {
+        "summary": {
+          "name": "Alex",
+          "surname": "Dotcom",
+          "level": 24,
+          "race": "Orc",
+          "class": "Warrior",
+          "faction": "Horde",
+          "guild": null,
+          "ruleset": "Normal",
+          "itemLevel": 16,
+          "lastUpdated": 1794290718000,
+          "honorableKills": 0
+        },
+        "talents": [
+          {
+            "name": "Fury",
+            "points": 15
+          }
+        ],
+        "equipment": [
+          {
+            "slot": "Head",
+            "slotType": "HEAD",
+            "id": 250528,
+            "name": "Veteran's Silvered Chain Helm",
+            "quality": "RARE",
+            "itemLevel": 25,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133141.jpg",
+            "stats": [
+              "+10 Strength",
+              "+9 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Shoulders",
+            "slotType": "SHOULDER",
+            "id": 3481,
+            "name": "Silvered Bronze Shoulders",
+            "quality": "UNCOMMON",
+            "itemLevel": 25,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135040.jpg",
+            "stats": [
+              "+3 Strength",
+              "+3 Stamina",
+              "+3 Spirit"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Back",
+            "slotType": "BACK",
+            "id": 5343,
+            "name": "Barkeeper's Cloak",
+            "quality": "UNCOMMON",
+            "itemLevel": 18,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133755.jpg",
+            "stats": [
+              "+3 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Chest",
+            "slotType": "CHEST",
+            "id": 9783,
+            "name": "Raider's Chestpiece of Arcane Protection",
+            "quality": "UNCOMMON",
+            "itemLevel": 20,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132629.jpg",
+            "stats": [
+              "+4 Stamina",
+              "+4 Arcane Resistance"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Shirt",
+            "slotType": "SHIRT",
+            "id": 6125,
+            "name": "Brawler's Harness",
+            "quality": "COMMON",
+            "itemLevel": 1,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132719.jpg",
+            "stats": [],
+            "enchants": []
+          },
+          {
+            "slot": "Wrist",
+            "slotType": "WRIST",
+            "id": 15507,
+            "name": "Grunt's Bracers of the Gorilla",
+            "quality": "UNCOMMON",
+            "itemLevel": 19,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132608.jpg",
+            "stats": [
+              "+2 Intellect",
+              "+2 Strength"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Hands",
+            "slotType": "HANDS",
+            "id": 3472,
+            "name": "Runed Copper Gauntlets",
+            "quality": "UNCOMMON",
+            "itemLevel": 12,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132938.jpg",
+            "stats": [
+              "+1 Strength",
+              "+1 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Waist",
+            "slotType": "WAIST",
+            "id": 15510,
+            "name": "Grunt's Belt of the Gorilla",
+            "quality": "UNCOMMON",
+            "itemLevel": 20,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132504.jpg",
+            "stats": [
+              "+3 Intellect",
+              "+3 Strength"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Legs",
+            "slotType": "LEGS",
+            "id": 14727,
+            "name": "War Paint Legguards",
+            "quality": "UNCOMMON",
+            "itemLevel": 19,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134585.jpg",
+            "stats": [
+              "+1 Agility",
+              "+3 Strength",
+              "+4 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Feet",
+            "slotType": "FEET",
+            "id": 271211,
+            "name": "Vilewalkers",
+            "quality": "RARE",
+            "itemLevel": 22,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132551.jpg",
+            "stats": [
+              "+7 Strength",
+              "+5 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 1",
+            "slotType": "FINGER_1",
+            "id": 281268,
+            "name": "Depleted Ritual Band",
+            "quality": "COMMON",
+            "itemLevel": 9,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133348.jpg",
+            "stats": [
+              "+1 Bonus Armor"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 2",
+            "slotType": "FINGER_2",
+            "id": 279867,
+            "name": "Slain Baron's Signet",
+            "quality": "UNCOMMON",
+            "itemLevel": 23,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133361.jpg",
+            "stats": [
+              "+3 Stamina",
+              "+1 Defense"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Main Hand",
+            "slotType": "MAIN_HAND",
+            "id": 15212,
+            "name": "Fighter Broadsword of the Bear",
+            "quality": "UNCOMMON",
+            "itemLevel": 27,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135356.jpg",
+            "stats": [
+              "+3 Strength",
+              "+3 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Off Hand",
+            "slotType": "OFF_HAND",
+            "id": 5191,
+            "name": "Cruel Barb",
+            "quality": "RARE",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135325.jpg",
+            "stats": [
+              "+12 Attack Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ranged",
+            "slotType": "RANGED",
+            "id": 281660,
+            "name": "Iron Star",
+            "quality": "UNCOMMON",
+            "itemLevel": 27,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132330.jpg",
+            "stats": [
+              "+3 Agility"
+            ],
+            "enchants": []
+          }
+        ],
+        "professions": [
+          {
+            "name": "Mining",
+            "skill": 99,
+            "max": 150,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136248.jpg",
+            "primary": true
+          },
+          {
+            "name": "Blacksmithing",
+            "skill": 96,
+            "max": 150,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136241.jpg",
+            "primary": true
+          },
+          {
+            "name": "Cooking",
+            "skill": 14,
+            "max": 75,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133971.jpg",
+            "primary": false
+          },
+          {
+            "name": "First Aid",
+            "skill": 65,
+            "max": 150,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135966.jpg",
+            "primary": false
+          }
+        ],
+        "media": {
+          "avatar": "https://render.worldofwarcraft.com/forever-us/character/88/6986840-avatar.jpg",
+          "render": "https://render.worldofwarcraft.com/forever-us/character/88/6986840-main-raw.png"
+        }
+      },
+      "updated": {
+        "summary": "2026-11-10T21:00:00.659Z",
+        "talents": "2026-11-10T21:00:00.659Z",
+        "equipment": "2026-11-10T21:00:00.659Z",
+        "professions": "2026-11-10T21:00:00.659Z",
+        "media": "2026-11-10T21:00:00.659Z"
       },
       "error": null
     }
