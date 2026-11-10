@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-10T20:11:13.720Z",
+  "fetchedAt": "2026-11-10T20:19:24.488Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -820,6 +820,1074 @@
         "equipment": "2026-11-10T19:54:12.713Z",
         "professions": "2026-11-10T19:54:12.713Z",
         "media": "2026-11-10T19:54:12.713Z"
+      },
+      "error": null
+    },
+    {
+      "slug": "cannon-eye",
+      "character": "Cannon Eye",
+      "sections": {
+        "summary": {
+          "name": "Cannon",
+          "surname": "Eye",
+          "level": 24,
+          "race": "Undead",
+          "class": "Priest",
+          "faction": "Horde",
+          "guild": null,
+          "ruleset": "Normal",
+          "itemLevel": 20,
+          "lastUpdated": 1794330691000,
+          "honorableKills": 0
+        },
+        "talents": [
+          {
+            "name": "Holy",
+            "points": 6
+          },
+          {
+            "name": "Shadow Magic",
+            "points": 5
+          },
+          {
+            "name": "Discipline",
+            "points": 2
+          }
+        ],
+        "equipment": [
+          {
+            "slot": "Neck",
+            "slotType": "NECK",
+            "id": 281265,
+            "name": "Roadwatcher's Confidence",
+            "quality": "UNCOMMON",
+            "itemLevel": 20,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133288.jpg",
+            "stats": [
+              "+3 Spirit"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Shoulders",
+            "slotType": "SHOULDER",
+            "id": 3748,
+            "name": "Feline Mantle",
+            "quality": "RARE",
+            "itemLevel": 28,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135036.jpg",
+            "stats": [
+              "+8 Intellect",
+              "+2 Agility",
+              "+4 Spell Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Back",
+            "slotType": "BACK",
+            "id": 6542,
+            "name": "Willow Cape of Holy Wrath",
+            "quality": "UNCOMMON",
+            "itemLevel": 15,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133769.jpg",
+            "stats": [
+              "+3 Holy Damage"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Chest",
+            "slotType": "CHEST",
+            "id": 286978,
+            "name": "Rotmender's Garb",
+            "quality": "RARE",
+            "itemLevel": 23,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135008.jpg",
+            "stats": [
+              "+10 Intellect",
+              "+4 Spell Damage",
+              "+11 Spell Healing"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Shirt",
+            "slotType": "SHIRT",
+            "id": 53,
+            "name": "Neophyte's Shirt",
+            "quality": "COMMON",
+            "itemLevel": 1,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135005.jpg",
+            "stats": [],
+            "enchants": []
+          },
+          {
+            "slot": "Wrist",
+            "slotType": "WRIST",
+            "id": 251486,
+            "name": "Tabitha's Cuffs",
+            "quality": "UNCOMMON",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132609.jpg",
+            "stats": [
+              "+4 Stamina",
+              "+3 Spell Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Hands",
+            "slotType": "HANDS",
+            "id": 286979,
+            "name": "Rotmender's Gloves",
+            "quality": "RARE",
+            "itemLevel": 22,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132956.jpg",
+            "stats": [
+              "+3 Intellect",
+              "+8 Spirit"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Waist",
+            "slotType": "WAIST",
+            "id": 286980,
+            "name": "Rotmender's Sash",
+            "quality": "RARE",
+            "itemLevel": 22,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132500.jpg",
+            "stats": [
+              "+6 Intellect",
+              "+6 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Legs",
+            "slotType": "LEGS",
+            "id": 271207,
+            "name": "Rotmender's Leggings",
+            "quality": "RARE",
+            "itemLevel": 22,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134599.jpg",
+            "stats": [
+              "+5 Stamina",
+              "+4 Mana Regeneration per 5 sec"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Feet",
+            "slotType": "FEET",
+            "id": 271214,
+            "name": "Rotmender's Treads",
+            "quality": "RARE",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132539.jpg",
+            "stats": [
+              "+7 Stamina",
+              "+5 Spell Damage",
+              "+15 Spell Healing"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 1",
+            "slotType": "FINGER_1",
+            "id": 279867,
+            "name": "Slain Baron's Signet",
+            "quality": "UNCOMMON",
+            "itemLevel": 23,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133361.jpg",
+            "stats": [
+              "+3 Stamina",
+              "+1 Defense"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 2",
+            "slotType": "FINGER_2",
+            "id": 6414,
+            "name": "Seal of Sylvanas",
+            "quality": "RARE",
+            "itemLevel": 29,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133357.jpg",
+            "stats": [
+              "+8 Stamina",
+              "+6 Attack Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Trinket 1",
+            "slotType": "TRINKET_1",
+            "id": 273643,
+            "name": "Worgenbane Talisman",
+            "quality": "RARE",
+            "itemLevel": 26,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133439.jpg",
+            "stats": [
+              "+2 Mana Regeneration per 5 sec"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Main Hand",
+            "slotType": "MAIN_HAND",
+            "id": 6631,
+            "name": "Living Root",
+            "quality": "RARE",
+            "itemLevel": 23,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135162.jpg",
+            "stats": [
+              "+2 Stamina",
+              "+9 Nature Resistance",
+              "+5 Spirit"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ranged",
+            "slotType": "RANGED",
+            "id": 8071,
+            "name": "Sizzle Stick",
+            "quality": "UNCOMMON",
+            "itemLevel": 23,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135139.jpg",
+            "stats": [
+              "+2 Spell Power"
+            ],
+            "enchants": []
+          }
+        ],
+        "professions": [
+          {
+            "name": "Tailoring",
+            "skill": 77,
+            "max": 150,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
+            "primary": true
+          },
+          {
+            "name": "Skinning",
+            "skill": 150,
+            "max": 150,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
+            "primary": true
+          },
+          {
+            "name": "Cooking",
+            "skill": 1,
+            "max": 75,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133971.jpg",
+            "primary": false
+          }
+        ],
+        "media": {
+          "avatar": "https://render.worldofwarcraft.com/forever-us/character/227/5028067-avatar.jpg",
+          "render": "https://render.worldofwarcraft.com/forever-us/character/227/5028067-main-raw.png"
+        }
+      },
+      "updated": {
+        "summary": "2026-11-10T20:19:24.488Z",
+        "talents": "2026-11-10T20:19:24.488Z",
+        "equipment": "2026-11-10T20:19:24.488Z",
+        "professions": "2026-11-10T20:19:24.488Z",
+        "media": "2026-11-10T20:19:24.488Z"
+      },
+      "error": null
+    },
+    {
+      "slug": "hunting-crooner",
+      "character": "Hunting Crooner",
+      "sections": {
+        "summary": {
+          "name": "Hunting",
+          "surname": "Crooner",
+          "level": 26,
+          "race": "Orc",
+          "class": "Hunter",
+          "faction": "Horde",
+          "guild": null,
+          "ruleset": "Normal",
+          "itemLevel": 20,
+          "lastUpdated": 1794330684000,
+          "honorableKills": 0
+        },
+        "talents": [
+          {
+            "name": "Beast Mastery",
+            "points": 17
+          }
+        ],
+        "equipment": [
+          {
+            "slot": "Head",
+            "slotType": "HEAD",
+            "id": 7048,
+            "name": "Azure Silk Hood",
+            "quality": "UNCOMMON",
+            "itemLevel": 29,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133131.jpg",
+            "stats": [
+              "+8 Stamina",
+              "+10 Frost Damage"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Shoulders",
+            "slotType": "SHOULDER",
+            "id": 270023,
+            "name": "Tanned Shoulderpads",
+            "quality": "UNCOMMON",
+            "itemLevel": 27,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135058.jpg",
+            "stats": [
+              "+6 Intellect",
+              "+3 Strength"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Back",
+            "slotType": "BACK",
+            "id": 6340,
+            "name": "Fenrus' Hide",
+            "quality": "RARE",
+            "itemLevel": 27,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134367.jpg",
+            "stats": [
+              "+4 Agility",
+              "+6 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Chest",
+            "slotType": "CHEST",
+            "id": 271212,
+            "name": "Bloodied Chestwraps",
+            "quality": "RARE",
+            "itemLevel": 22,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133684.jpg",
+            "stats": [
+              "+7 Agility",
+              "+9 Spirit"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Shirt",
+            "slotType": "SHIRT",
+            "id": 127,
+            "name": "Trapper's Shirt",
+            "quality": "COMMON",
+            "itemLevel": 1,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135011.jpg",
+            "stats": [],
+            "enchants": []
+          },
+          {
+            "slot": "Wrist",
+            "slotType": "WRIST",
+            "id": 279875,
+            "name": "Spare Part Bindings",
+            "quality": "UNCOMMON",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132606.jpg",
+            "stats": [
+              "+3 Agility",
+              "+3 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Hands",
+            "slotType": "HANDS",
+            "id": 270008,
+            "name": "Heat Resistant Mitts",
+            "quality": "UNCOMMON",
+            "itemLevel": 20,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132949.jpg",
+            "stats": [
+              "+4 Agility",
+              "+1 Stamina"
+            ],
+            "enchants": [
+              "Enchanted: Stamina +1 and Armor +8"
+            ]
+          },
+          {
+            "slot": "Waist",
+            "slotType": "WAIST",
+            "id": 6319,
+            "name": "Girdle of the Blindwatcher",
+            "quality": "RARE",
+            "itemLevel": 26,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132492.jpg",
+            "stats": [
+              "+5 Stamina",
+              "+7 Spell Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Legs",
+            "slotType": "LEGS",
+            "id": 14565,
+            "name": "Prospector's Woolies",
+            "quality": "UNCOMMON",
+            "itemLevel": 21,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134582.jpg",
+            "stats": [
+              "+6 Agility",
+              "+1 Strength"
+            ],
+            "enchants": [
+              "Enchanted: Stamina +1 and Armor +8"
+            ]
+          },
+          {
+            "slot": "Feet",
+            "slotType": "FEET",
+            "id": 3741,
+            "name": "Stomping Boots",
+            "quality": "UNCOMMON",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132542.jpg",
+            "stats": [
+              "+4 Agility",
+              "+4 Strength"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 1",
+            "slotType": "FINGER_1",
+            "id": 3739,
+            "name": "Skull Ring",
+            "quality": "UNCOMMON",
+            "itemLevel": 25,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132501.jpg",
+            "stats": [
+              "+3 Intellect",
+              "+3 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 2",
+            "slotType": "FINGER_2",
+            "id": 6414,
+            "name": "Seal of Sylvanas",
+            "quality": "RARE",
+            "itemLevel": 29,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133357.jpg",
+            "stats": [
+              "+8 Stamina",
+              "+6 Attack Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Main Hand",
+            "slotType": "MAIN_HAND",
+            "id": 6220,
+            "name": "Meteor Shard",
+            "quality": "RARE",
+            "itemLevel": 28,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135661.jpg",
+            "stats": [
+              "+3 Fire Resistance"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Off Hand",
+            "slotType": "OFF_HAND",
+            "id": 1292,
+            "name": "Butcher's Cleaver",
+            "quality": "RARE",
+            "itemLevel": 25,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132417.jpg",
+            "stats": [
+              "+2 Agility",
+              "+5 Strength"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ranged",
+            "slotType": "RANGED",
+            "id": 11304,
+            "name": "Fine Longbow",
+            "quality": "UNCOMMON",
+            "itemLevel": 19,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135490.jpg",
+            "stats": [
+              "+4 Attack Power"
+            ],
+            "enchants": []
+          }
+        ],
+        "professions": [
+          {
+            "name": "Leatherworking",
+            "skill": 71,
+            "max": 150,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136247.jpg",
+            "primary": true
+          },
+          {
+            "name": "Skinning",
+            "skill": 174,
+            "max": 225,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
+            "primary": true
+          },
+          {
+            "name": "Cooking",
+            "skill": 4,
+            "max": 75,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133971.jpg",
+            "primary": false
+          },
+          {
+            "name": "Fishing",
+            "skill": 15,
+            "max": 75,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136245.jpg",
+            "primary": false
+          },
+          {
+            "name": "First Aid",
+            "skill": 79,
+            "max": 150,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135966.jpg",
+            "primary": false
+          }
+        ],
+        "media": {
+          "avatar": "https://render.worldofwarcraft.com/forever-us/character/158/9371294-avatar.jpg",
+          "render": "https://render.worldofwarcraft.com/forever-us/character/158/9371294-main-raw.png"
+        }
+      },
+      "updated": {
+        "summary": "2026-11-10T20:19:24.488Z",
+        "talents": "2026-11-10T20:19:24.488Z",
+        "equipment": "2026-11-10T20:19:24.488Z",
+        "professions": "2026-11-10T20:19:24.488Z",
+        "media": "2026-11-10T20:19:24.488Z"
+      },
+      "error": null
+    },
+    {
+      "slug": "wagwan-mebrudduh",
+      "character": "Wagwan Mebrudduh",
+      "sections": {
+        "summary": {
+          "name": "Wagwan",
+          "surname": "Mebrudduh",
+          "level": 19,
+          "race": "Troll",
+          "class": "Warlock",
+          "faction": "Horde",
+          "guild": null,
+          "ruleset": "Normal",
+          "itemLevel": 11,
+          "lastUpdated": 1794335491000,
+          "honorableKills": 0
+        },
+        "talents": [
+          {
+            "name": "Affliction",
+            "points": 10
+          }
+        ],
+        "equipment": [
+          {
+            "slot": "Shoulders",
+            "slotType": "SHOULDER",
+            "id": 10657,
+            "name": "Talbar Mantle",
+            "quality": "UNCOMMON",
+            "itemLevel": 26,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135040.jpg",
+            "stats": [
+              "+4 Intellect",
+              "+2 Stamina",
+              "+1 Mana Regeneration per 5 sec"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Back",
+            "slotType": "BACK",
+            "id": 14149,
+            "name": "Subterranean Cape",
+            "quality": "RARE",
+            "itemLevel": 18,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133770.jpg",
+            "stats": [
+              "+3 Strength",
+              "+5 Health Per 5 Sec."
+            ],
+            "enchants": [
+              "Enchanted: +2 All Resistances"
+            ]
+          },
+          {
+            "slot": "Chest",
+            "slotType": "CHEST",
+            "id": 2578,
+            "name": "Barbaric Linen Vest",
+            "quality": "UNCOMMON",
+            "itemLevel": 14,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132715.jpg",
+            "stats": [
+              "+2 Stamina",
+              "+2 Spell Power"
+            ],
+            "enchants": [
+              "Enchanted: Stamina +2"
+            ]
+          },
+          {
+            "slot": "Shirt",
+            "slotType": "SHIRT",
+            "id": 5107,
+            "name": "Deckhand's Shirt",
+            "quality": "COMMON",
+            "itemLevel": 14,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135016.jpg",
+            "stats": [],
+            "enchants": []
+          },
+          {
+            "slot": "Wrist",
+            "slotType": "WRIST",
+            "id": 15452,
+            "name": "Featherbead Bracers",
+            "quality": "UNCOMMON",
+            "itemLevel": 18,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132607.jpg",
+            "stats": [
+              "+3 Intellect"
+            ],
+            "enchants": [
+              "Enchanted: Defense +3"
+            ]
+          },
+          {
+            "slot": "Hands",
+            "slotType": "HANDS",
+            "id": 6565,
+            "name": "Shimmering Gloves of Spirit",
+            "quality": "UNCOMMON",
+            "itemLevel": 22,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132950.jpg",
+            "stats": [
+              "+5 Spirit"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Waist",
+            "slotType": "WAIST",
+            "id": 273089,
+            "name": "Slither Cord",
+            "quality": "RARE",
+            "itemLevel": 22,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132510.jpg",
+            "stats": [
+              "+3 Mana Regeneration per 5 sec"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Legs",
+            "slotType": "LEGS",
+            "id": 15449,
+            "name": "Ghastly Trousers",
+            "quality": "UNCOMMON",
+            "itemLevel": 18,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134594.jpg",
+            "stats": [
+              "+3 Intellect",
+              "+3 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Feet",
+            "slotType": "FEET",
+            "id": 1764,
+            "name": "Canvas Shoes",
+            "quality": "POOR",
+            "itemLevel": 17,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132543.jpg",
+            "stats": [],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 1",
+            "slotType": "FINGER_1",
+            "id": 281268,
+            "name": "Depleted Ritual Band",
+            "quality": "COMMON",
+            "itemLevel": 9,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133348.jpg",
+            "stats": [
+              "+1 Bonus Armor"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Main Hand",
+            "slotType": "MAIN_HAND",
+            "id": 276888,
+            "name": "Quilboar Toothpick",
+            "quality": "UNCOMMON",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135637.jpg",
+            "stats": [
+              "+2 Intellect",
+              "+2 Spirit"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Off Hand",
+            "slotType": "OFF_HAND",
+            "id": 15933,
+            "name": "Simple Branch of the Eagle",
+            "quality": "UNCOMMON",
+            "itemLevel": 15,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135139.jpg",
+            "stats": [
+              "+1 Intellect",
+              "+1 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ranged",
+            "slotType": "RANGED",
+            "id": 8071,
+            "name": "Sizzle Stick",
+            "quality": "UNCOMMON",
+            "itemLevel": 23,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135139.jpg",
+            "stats": [
+              "+2 Spell Power"
+            ],
+            "enchants": []
+          }
+        ],
+        "professions": [
+          {
+            "name": "Tailoring",
+            "skill": 63,
+            "max": 75,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
+            "primary": true
+          },
+          {
+            "name": "Enchanting",
+            "skill": 47,
+            "max": 75,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136244.jpg",
+            "primary": true
+          },
+          {
+            "name": "Cooking",
+            "skill": 3,
+            "max": 75,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133971.jpg",
+            "primary": false
+          }
+        ],
+        "media": {
+          "avatar": "https://render.worldofwarcraft.com/forever-us/character/128/7404160-avatar.jpg",
+          "render": "https://render.worldofwarcraft.com/forever-us/character/128/7404160-main-raw.png"
+        }
+      },
+      "updated": {
+        "summary": "2026-11-10T20:19:24.488Z",
+        "talents": "2026-11-10T20:19:24.488Z",
+        "equipment": "2026-11-10T20:19:24.488Z",
+        "professions": "2026-11-10T20:19:24.488Z",
+        "media": "2026-11-10T20:19:24.488Z"
+      },
+      "error": null
+    },
+    {
+      "slug": "chubarious-hubbarious",
+      "character": "Chubarious Hubbarious",
+      "sections": {
+        "summary": {
+          "name": "Chubarious",
+          "surname": "Hubbarious",
+          "level": 26,
+          "race": "Troll",
+          "class": "Shaman",
+          "faction": "Horde",
+          "guild": "Midwest Retirement Home",
+          "ruleset": "Normal",
+          "itemLevel": 19,
+          "lastUpdated": 1794341769000,
+          "honorableKills": 0
+        },
+        "talents": [
+          {
+            "name": "Enhancement",
+            "points": 17
+          }
+        ],
+        "equipment": [
+          {
+            "slot": "Neck",
+            "slotType": "NECK",
+            "id": 273088,
+            "name": "Snake Eye Kaleidoscope",
+            "quality": "RARE",
+            "itemLevel": 22,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133884.jpg",
+            "stats": [
+              "+1 Intellect",
+              "+1 Agility",
+              "+1 Strength",
+              "+1 Stamina",
+              "+1 to All Resistances",
+              "+1 Fire Resistance",
+              "+1 Frost Resistance",
+              "+1 Shadow Resistance",
+              "+1 Nature Resistance",
+              "+1 Arcane Resistance",
+              "+1 Spirit"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Shoulders",
+            "slotType": "SHOULDER",
+            "id": 270023,
+            "name": "Tanned Shoulderpads",
+            "quality": "UNCOMMON",
+            "itemLevel": 27,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135058.jpg",
+            "stats": [
+              "+6 Intellect",
+              "+3 Strength"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Back",
+            "slotType": "BACK",
+            "id": 9794,
+            "name": "Ivycloth Cloak of the Bear",
+            "quality": "UNCOMMON",
+            "itemLevel": 25,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133767.jpg",
+            "stats": [
+              "+3 Strength",
+              "+3 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Chest",
+            "slotType": "CHEST",
+            "id": 9809,
+            "name": "Superior Tunic of Strength",
+            "quality": "UNCOMMON",
+            "itemLevel": 28,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132725.jpg",
+            "stats": [
+              "+10 Strength"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Shirt",
+            "slotType": "SHIRT",
+            "id": 6134,
+            "name": "Primitive Mantle",
+            "quality": "COMMON",
+            "itemLevel": 1,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133765.jpg",
+            "stats": [],
+            "enchants": []
+          },
+          {
+            "slot": "Wrist",
+            "slotType": "WRIST",
+            "id": 279875,
+            "name": "Spare Part Bindings",
+            "quality": "UNCOMMON",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132606.jpg",
+            "stats": [
+              "+3 Agility",
+              "+3 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Hands",
+            "slotType": "HANDS",
+            "id": 9780,
+            "name": "Bandit Gloves of Magic",
+            "quality": "UNCOMMON",
+            "itemLevel": 20,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132949.jpg",
+            "stats": [
+              "+6 Spell Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Waist",
+            "slotType": "WAIST",
+            "id": 6319,
+            "name": "Girdle of the Blindwatcher",
+            "quality": "RARE",
+            "itemLevel": 26,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132492.jpg",
+            "stats": [
+              "+5 Stamina",
+              "+7 Spell Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Legs",
+            "slotType": "LEGS",
+            "id": 6480,
+            "name": "Slick Deviate Leggings",
+            "quality": "UNCOMMON",
+            "itemLevel": 20,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134582.jpg",
+            "stats": [
+              "+4 Agility",
+              "+4 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Feet",
+            "slotType": "FEET",
+            "id": 3741,
+            "name": "Stomping Boots",
+            "quality": "UNCOMMON",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132542.jpg",
+            "stats": [
+              "+4 Agility",
+              "+4 Strength"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 1",
+            "slotType": "FINGER_1",
+            "id": 6414,
+            "name": "Seal of Sylvanas",
+            "quality": "RARE",
+            "itemLevel": 29,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133357.jpg",
+            "stats": [
+              "+8 Stamina",
+              "+6 Attack Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 2",
+            "slotType": "FINGER_2",
+            "id": 6321,
+            "name": "Silverlaine's Family Seal",
+            "quality": "RARE",
+            "itemLevel": 26,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132518.jpg",
+            "stats": [
+              "+5 Strength",
+              "+2 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Main Hand",
+            "slotType": "MAIN_HAND",
+            "id": 270018,
+            "name": "Hammerbone",
+            "quality": "RARE",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133052.jpg",
+            "stats": [
+              "+7 Strength",
+              "+10 Spirit"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ranged",
+            "slotType": "RANGED",
+            "id": 263412,
+            "name": "Totem of Charged Flames",
+            "quality": "UNCOMMON",
+            "itemLevel": 10,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134919.jpg",
+            "stats": [],
+            "enchants": []
+          }
+        ],
+        "professions": [
+          {
+            "name": "Alchemy",
+            "skill": 93,
+            "max": 150,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136240.jpg",
+            "primary": true
+          },
+          {
+            "name": "Herbalism",
+            "skill": 84,
+            "max": 150,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
+            "primary": true
+          },
+          {
+            "name": "Cooking",
+            "skill": 150,
+            "max": 150,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133971.jpg",
+            "primary": false
+          },
+          {
+            "name": "Fishing",
+            "skill": 225,
+            "max": 225,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136245.jpg",
+            "primary": false
+          }
+        ],
+        "media": {
+          "avatar": "https://render.worldofwarcraft.com/forever-us/character/181/5879221-avatar.jpg",
+          "render": "https://render.worldofwarcraft.com/forever-us/character/181/5879221-main-raw.png"
+        }
+      },
+      "updated": {
+        "summary": "2026-11-10T20:19:24.488Z",
+        "talents": "2026-11-10T20:19:24.488Z",
+        "equipment": "2026-11-10T20:19:24.488Z",
+        "professions": "2026-11-10T20:19:24.488Z",
+        "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
     }
