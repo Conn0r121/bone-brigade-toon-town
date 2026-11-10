@@ -1,0 +1,288 @@
+/* Classic-WoW-inspired skin: dark leather backdrop, gold-trimmed frames, tooltip-style gear lists,
+   blue skill bars and a segmented purple XP bar. Everything is drawn in CSS; no game assets are used. */
+
+:root {
+  color-scheme: dark;
+  --bg: #0c0907;
+  --text: #f4eee0;
+  --muted: #a8a196;
+  --gold: #ffd100; /* the classic interface's label gold */
+  --metal-hi: #f3d68c;
+  --metal: #b8913c;
+  --metal-lo: #5a3f14;
+  --frame-top: rgba(36, 25, 13, 0.97);
+  --frame-bottom: rgba(12, 9, 6, 0.97);
+  --tooltip: rgba(8, 9, 28, 0.95);
+  --tooltip-edge: #a3a3ae;
+  --green: #1eff00;
+  --warn: #ff7a45;
+  --radius: 6px;
+  --ui: "Marcellus", "Palatino Linotype", Palatino, Georgia, serif;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--text);
+  font: 15px/1.45 var(--ui);
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.9);
+  background-color: var(--bg);
+  background-image:
+    radial-gradient(1100px 520px at 50% -160px, rgba(160, 95, 25, 0.3), transparent 70%),
+    radial-gradient(1400px 900px at 50% 120%, rgba(0, 0, 0, 0.85), transparent 60%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.42 0 0 0 0 0.3 0 0 0 0 0.18 0 0 0 0.32 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-repeat: no-repeat, no-repeat, repeat;
+}
+img { display: block; }
+
+.wrap { max-width: 1140px; margin: 0 auto; padding: 36px 16px 64px; }
+
+/* Header */
+header { display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-end; justify-content: space-between; margin-bottom: 24px; }
+h1 {
+  margin: 0;
+  font-family: "Cinzel", Georgia, serif;
+  font-weight: 900;
+  font-size: clamp(28px, 5vw, 42px);
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  background: linear-gradient(180deg, #fff6cf 0%, #ffd100 48%, #b9780e 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: none;
+  filter: drop-shadow(0 2px 0 #000) drop-shadow(0 0 14px rgba(255, 160, 0, 0.25));
+}
+.sub { margin: 6px 0 0; color: var(--muted); font-size: 14px; }
+.muted { color: var(--muted); }
+
+/* Gold-trimmed frame shared by the leader cards and the roster */
+.card, .table-wrap {
+  border: 2px solid transparent;
+  border-radius: var(--radius);
+  background:
+    linear-gradient(180deg, var(--frame-top), var(--frame-bottom)) padding-box,
+    linear-gradient(180deg, var(--metal-hi), var(--metal) 35%, var(--metal-lo) 70%, var(--metal) 100%) border-box;
+  box-shadow:
+    0 0 0 1px #000,
+    inset 0 0 0 1px #000,
+    inset 0 0 0 2px rgba(255, 214, 120, 0.12),
+    0 10px 24px rgba(0, 0, 0, 0.55);
+}
+
+/* Leader cards */
+.leaders { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin-bottom: 24px; }
+.card { padding: 14px 16px; min-width: 0; }
+.card-label { color: var(--gold); font-size: 13px; letter-spacing: 0.03em; }
+.card-label::after {
+  content: "";
+  display: block;
+  height: 1px;
+  margin-top: 5px;
+  background: linear-gradient(90deg, rgba(255, 209, 0, 0.5), transparent);
+}
+.card-name { margin-top: 6px; font-size: 18px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.card-value { color: var(--text); opacity: 0.85; font-size: 14px; font-variant-numeric: tabular-nums; }
+
+/* Roster table */
+.table-wrap { overflow-x: auto; }
+table { width: 100%; min-width: 880px; border-collapse: collapse; }
+th, td { padding: 11px 12px; text-align: left; vertical-align: middle; }
+th {
+  background: linear-gradient(180deg, #3f2c13 0%, #22180a 100%);
+  border-bottom: 1px solid #000;
+  box-shadow: inset 0 -1px 0 rgba(255, 209, 0, 0.3);
+  color: var(--gold);
+  font-size: 13.5px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+th button { all: unset; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+th button:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 3px; }
+th[aria-sort] button { color: #fff; }
+th[aria-sort="ascending"] button::after { content: "▲"; font-size: 8px; color: var(--gold); }
+th[aria-sort="descending"] button::after { content: "▼"; font-size: 8px; color: var(--gold); }
+.num { text-align: right; }
+th.num button { flex-direction: row-reverse; }
+td { border-bottom: 1px solid rgba(255, 209, 0, 0.1); font-variant-numeric: tabular-nums; white-space: nowrap; }
+tr.detail td, .chips { white-space: normal; }
+tbody tr:last-child td { border-bottom: 0; }
+tr.row { cursor: pointer; }
+tr.row:hover td { background: rgba(255, 215, 120, 0.06); }
+tr.row[aria-expanded="true"] td { background: rgba(255, 209, 0, 0.11); }
+tr.row:focus-visible { outline: 2px solid var(--gold); outline-offset: -2px; }
+.dash { color: var(--muted); }
+
+/* Portrait in a gold ring */
+.who { display: flex; align-items: center; gap: 12px; min-width: 0; }
+.avatar {
+  flex: none;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 2px solid var(--metal);
+  background: #120d07;
+  box-shadow: 0 0 0 1px #000, inset 0 0 6px rgba(0, 0, 0, 0.8);
+  object-fit: cover;
+}
+.avatar.blank { display: grid; place-items: center; }
+.name { font-size: 16px; white-space: nowrap; }
+.meta { color: var(--muted); font-size: 13px; white-space: nowrap; }
+.warn { color: var(--warn); font-size: 13px; }
+
+/* Level shown as a segmented XP bar */
+.level { display: flex; align-items: center; gap: 10px; min-width: 96px; }
+.level b { min-width: 2ch; font-weight: 400; font-size: 16px; color: #fff; }
+.bar {
+  position: relative;
+  display: block;
+  flex: 1;
+  height: 8px;
+  background: #0b0910;
+  border: 1px solid #000;
+  box-shadow: 0 0 0 1px var(--metal-lo);
+  overflow: hidden;
+}
+.bar i { display: block; height: 100%; background: linear-gradient(180deg, #c98af5 0%, #8b2fd2 50%, #57138f 100%); }
+.bar::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(90deg, transparent 0 calc(10% - 1px), rgba(0, 0, 0, 0.75) calc(10% - 1px) 10%);
+}
+
+/* Profession chips in the table */
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  padding: 2px 9px;
+  border: 1px solid #4a3818;
+  border-radius: 3px;
+  background: linear-gradient(180deg, #1d150b, #100b06);
+  box-shadow: inset 0 1px 0 rgba(255, 220, 140, 0.08);
+  font-size: 13px;
+  white-space: nowrap;
+}
+.chip b { color: var(--gold); font-weight: 400; }
+
+/* Expanded character */
+tr.detail td { padding: 20px 20px 24px; background: rgba(0, 0, 0, 0.42); box-shadow: inset 0 1px 0 rgba(255, 209, 0, 0.18); }
+.detail-grid { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 28px; }
+.detail-grid.has-render { grid-template-columns: 190px minmax(0, 1.25fr) minmax(0, 1fr); }
+.render {
+  border-radius: 4px;
+  background: radial-gradient(ellipse at 50% 62%, rgba(150, 100, 40, 0.35), transparent 70%), #07060a;
+  box-shadow: 0 0 0 1px #000, 0 0 0 2px var(--metal-lo), inset 0 0 30px #000;
+  overflow: hidden;
+}
+/* The Armory render is a wide transparent PNG with the character in the middle; crop to the character. */
+.render img { width: 100%; height: 380px; object-fit: cover; object-position: 50% 40%; }
+h3 {
+  margin: 0 0 10px;
+  padding-bottom: 4px;
+  color: var(--gold);
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  border-bottom: 1px solid;
+  border-image: linear-gradient(90deg, rgba(255, 209, 0, 0.45), transparent) 1;
+}
+section h3:not(:first-child) { margin-top: 22px; }
+.note { margin: 0; color: var(--muted); font-size: 14px; }
+.note.warn-note { margin-bottom: 16px; color: var(--warn); }
+
+.icon {
+  flex: none;
+  width: 30px;
+  height: 30px;
+  border-radius: 3px;
+  border: 1px solid #3a3a3a;
+  background: #111;
+  box-shadow: 0 0 0 1px #000;
+}
+
+/* Gear list styled like an item tooltip */
+.gear, .profs { list-style: none; margin: 0; padding: 0; display: grid; }
+.gear {
+  padding: 4px 12px;
+  border: 1px solid var(--tooltip-edge);
+  border-radius: 5px;
+  background: var(--tooltip);
+  box-shadow: 0 0 0 1px #000, inset 0 0 0 1px rgba(255, 255, 255, 0.07), 0 6px 16px rgba(0, 0, 0, 0.55);
+}
+.gear li { display: flex; gap: 10px; padding: 6px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.06); }
+.gear li:last-child { border-bottom: 0; }
+.gear-text { flex: 1; min-width: 0; }
+.gear-top { display: flex; justify-content: space-between; gap: 10px; }
+.item { font-size: 14.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ilvl { color: var(--gold); font-size: 13px; }
+.gear-sub {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: #d2d2d2;
+  font-size: 12.5px;
+}
+.ench { color: var(--green); font-size: 12.5px; }
+
+/* Professions as classic skill bars */
+.profs { gap: 10px; }
+.profs li { display: flex; gap: 10px; align-items: center; }
+.skillbar {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  height: 24px;
+  padding: 0 8px;
+  border: 1px solid #000;
+  border-radius: 2px;
+  background: #0a0a16;
+  box-shadow: 0 0 0 1px var(--metal-lo), inset 0 1px 3px rgba(0, 0, 0, 0.8);
+  font-size: 13.5px;
+  overflow: hidden;
+}
+.skillbar i { position: absolute; inset: 0 auto 0 0; background: linear-gradient(180deg, #4777e6 0%, #1f40ad 55%, #10246a 100%); }
+.profs li.secondary .skillbar i { background: linear-gradient(180deg, #3a5aa6 0%, #1b2f6e 55%, #0e1a40 100%); }
+.skillbar span { position: relative; white-space: nowrap; }
+.skillbar span:last-child { color: #fff; }
+
+.talents { margin: 0; font-size: 14.5px; }
+.talents b { color: var(--gold); font-weight: 400; }
+.facts { display: grid; grid-template-columns: auto 1fr; gap: 6px 16px; margin: 0; font-size: 14.5px; }
+.facts dt { color: var(--gold); }
+.facts dd { margin: 0; }
+
+.empty { padding: 48px 16px; text-align: center; color: var(--muted); }
+footer { margin-top: 24px; color: var(--muted); font-size: 13px; line-height: 1.6; }
+
+@media (max-width: 960px) {
+  table { min-width: 0; }
+  .hide-md { display: none; }
+}
+
+@media (max-width: 760px) {
+  .wrap { padding-top: 24px; }
+  .leaders { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .card { padding: 12px; }
+  .card-name { font-size: 15px; }
+  th, td { padding: 10px 6px; }
+  th:first-child, td:first-child { padding-left: 10px; }
+  th:last-child, td:last-child { padding-right: 10px; }
+  th { white-space: normal; letter-spacing: 0.01em; }
+  .hide-sm { display: none; }
+  .level { min-width: 0; }
+  .level .bar { display: none; }
+  .avatar { width: 32px; height: 32px; }
+  .who { gap: 8px; }
+  .name, .meta { white-space: normal; }
+  tr.detail td { padding: 16px 12px 20px; }
+  .detail-grid, .detail-grid.has-render { grid-template-columns: 1fr; gap: 22px; }
+  .render img { height: 260px; }
+}

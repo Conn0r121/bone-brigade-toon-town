@@ -1,0 +1,56 @@
+name: Update and deploy
+
+on:
+  schedule:
+    - cron: '17 */3 * * *' # every 3 hours (GitHub sometimes runs scheduled jobs a little late)
+  workflow_dispatch: # adds a "Run workflow" button on the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write # commit refreshed data.json
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch characters from the Armory
+        id: fetch
+        run: node scripts/fetch.mjs
+        env:
+          CHARACTERS: ${{ vars.CHARACTERS }}
+
+      - name: Commit new data
+        if: steps.fetch.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json
+          git commit -m "Update character data"
+          git pull --rebase
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
