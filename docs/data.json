@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-11T01:15:04.686Z",
+  "fetchedAt": "2026-11-11T10:58:18.795Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -10,14 +10,14 @@
         "summary": {
           "name": "Stardew",
           "surname": "Honeymelon",
-          "level": 28,
+          "level": 29,
           "race": "Undead",
           "class": "Paladin",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
-          "itemLevel": 19,
-          "lastUpdated": 1794359366000,
+          "itemLevel": 20,
+          "lastUpdated": 1794379300000,
           "honorableKills": 0
         },
         "talents": [
@@ -27,7 +27,7 @@
           },
           {
             "name": "Holy",
-            "points": 6
+            "points": 7
           }
         ],
         "equipment": [
@@ -230,13 +230,15 @@
           {
             "slot": "Off Hand",
             "slotType": "OFF_HAND",
-            "id": 13245,
-            "name": "Kresh's Back",
+            "id": 7002,
+            "name": "Arctic Buckler",
             "quality": "RARE",
-            "itemLevel": 23,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134964.jpg",
+            "itemLevel": 29,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134948.jpg",
             "stats": [
-              "+5 Defense"
+              "+8 Stamina",
+              "+5 Frost Resistance",
+              "+3 Spirit"
             ],
             "enchants": []
           }
@@ -244,7 +246,7 @@
         "professions": [
           {
             "name": "Mining",
-            "skill": 137,
+            "skill": 139,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136248.jpg",
             "primary": true
@@ -272,7 +274,7 @@
           },
           {
             "name": "First Aid",
-            "skill": 144,
+            "skill": 150,
             "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135966.jpg",
             "primary": false
@@ -284,10 +286,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-11T01:15:04.686Z",
-        "talents": "2026-11-11T01:15:04.686Z",
-        "equipment": "2026-11-11T01:15:04.686Z",
-        "professions": "2026-11-10T19:54:12.713Z",
+        "summary": "2026-11-11T10:58:18.795Z",
+        "talents": "2026-11-11T10:58:18.795Z",
+        "equipment": "2026-11-11T10:58:18.795Z",
+        "professions": "2026-11-11T10:58:18.795Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -306,7 +308,7 @@
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
           "itemLevel": 19,
-          "lastUpdated": 1794291153000,
+          "lastUpdated": 1794375452000,
           "honorableKills": 0
         },
         "talents": [
@@ -541,7 +543,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-10T19:54:12.713Z",
+        "summary": "2026-11-11T10:58:18.795Z",
         "talents": "2026-11-10T19:54:12.713Z",
         "equipment": "2026-11-10T19:54:12.713Z",
         "professions": "2026-11-10T19:54:12.713Z",
@@ -563,13 +565,13 @@
           "guild": null,
           "ruleset": "Normal",
           "itemLevel": 21,
-          "lastUpdated": 1794346986000,
+          "lastUpdated": 1794379226000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Marksmanship",
-            "points": 12
+            "points": 13
           },
           {
             "name": "Beast Mastery",
@@ -743,28 +745,27 @@
           {
             "slot": "Ring 2",
             "slotType": "FINGER_2",
-            "id": 5313,
-            "name": "Totemic Clan Ring",
+            "id": 17694,
+            "name": "Band of the Fist",
             "quality": "UNCOMMON",
-            "itemLevel": 25,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134413.jpg",
+            "itemLevel": 28,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133344.jpg",
             "stats": [
-              "+3 Intellect",
-              "+3 Spirit"
+              "+4 Agility",
+              "+4 Strength"
             ],
             "enchants": []
           },
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 6504,
-            "name": "Wingblade",
+            "id": 6904,
+            "name": "Bite of Serra'kis",
             "quality": "RARE",
-            "itemLevel": 24,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135314.jpg",
+            "itemLevel": 28,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134298.jpg",
             "stats": [
-              "+5 Agility",
-              "+2 Stamina"
+              "+2 Nature Resistance"
             ],
             "enchants": []
           },
@@ -785,13 +786,14 @@
           {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 15284,
-            "name": "Long Battle Bow",
-            "quality": "UNCOMMON",
-            "itemLevel": 29,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135489.jpg",
+            "id": 273843,
+            "name": "Fallenroot Longbow",
+            "quality": "RARE",
+            "itemLevel": 28,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135491.jpg",
             "stats": [
-              "+3 Strength"
+              "+2 Agility",
+              "+4 Stamina"
             ],
             "enchants": []
           }
@@ -825,9 +827,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-11T01:15:04.686Z",
-        "talents": "2026-11-10T19:54:12.713Z",
-        "equipment": "2026-11-10T19:54:12.713Z",
+        "summary": "2026-11-11T10:58:18.795Z",
+        "talents": "2026-11-11T10:58:18.795Z",
+        "equipment": "2026-11-11T10:58:18.795Z",
         "professions": "2026-11-10T19:54:12.713Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
@@ -846,8 +848,8 @@
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
-          "itemLevel": 20,
-          "lastUpdated": 1794330691000,
+          "itemLevel": 22,
+          "lastUpdated": 1794373343000,
           "honorableKills": 0
         },
         "talents": [
@@ -865,6 +867,17 @@
           }
         ],
         "equipment": [
+          {
+            "slot": "Head",
+            "slotType": "HEAD",
+            "id": 273645,
+            "name": "Blindwatcher's Sight",
+            "quality": "RARE",
+            "itemLevel": 26,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133693.jpg",
+            "stats": [],
+            "enchants": []
+          },
           {
             "slot": "Neck",
             "slotType": "NECK",
@@ -1047,27 +1060,28 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 6631,
-            "name": "Living Root",
+            "id": 6505,
+            "name": "Crescent Staff",
             "quality": "RARE",
-            "itemLevel": 23,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135162.jpg",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135141.jpg",
             "stats": [
-              "+2 Stamina",
-              "+9 Nature Resistance",
-              "+5 Spirit"
+              "+7 Intellect",
+              "+7 Agility",
+              "+7 Stamina"
             ],
             "enchants": []
           },
           {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 8071,
-            "name": "Sizzle Stick",
+            "id": 5250,
+            "name": "Charred Wand",
             "quality": "UNCOMMON",
-            "itemLevel": 23,
+            "itemLevel": 28,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135139.jpg",
             "stats": [
+              "+2 Intellect",
               "+2 Spell Power"
             ],
             "enchants": []
@@ -1102,9 +1116,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-10T20:19:24.488Z",
+        "summary": "2026-11-11T10:58:18.795Z",
         "talents": "2026-11-10T20:19:24.488Z",
-        "equipment": "2026-11-10T20:19:24.488Z",
+        "equipment": "2026-11-11T10:58:18.795Z",
         "professions": "2026-11-10T20:19:24.488Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -1123,8 +1137,8 @@
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
-          "itemLevel": 20,
-          "lastUpdated": 1794351332000,
+          "itemLevel": 21,
+          "lastUpdated": 1794376293000,
           "honorableKills": 0
         },
         "talents": [
@@ -1193,11 +1207,11 @@
           {
             "slot": "Shirt",
             "slotType": "SHIRT",
-            "id": 127,
-            "name": "Trapper's Shirt",
+            "id": 2587,
+            "name": "Gray Woolen Shirt",
             "quality": "COMMON",
-            "itemLevel": 1,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135011.jpg",
+            "itemLevel": 20,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135025.jpg",
             "stats": [],
             "enchants": []
           },
@@ -1333,13 +1347,13 @@
           {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 11304,
-            "name": "Fine Longbow",
+            "id": 15285,
+            "name": "Archer's Longbow",
             "quality": "UNCOMMON",
-            "itemLevel": 19,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135490.jpg",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135491.jpg",
             "stats": [
-              "+4 Attack Power"
+              "+9 Ranged Attack Power"
             ],
             "enchants": []
           }
@@ -1387,9 +1401,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-11T01:15:04.686Z",
+        "summary": "2026-11-11T10:58:18.795Z",
         "talents": "2026-11-11T01:15:04.686Z",
-        "equipment": "2026-11-10T20:19:24.488Z",
+        "equipment": "2026-11-11T10:58:18.795Z",
         "professions": "2026-11-11T01:15:04.686Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -1402,20 +1416,20 @@
         "summary": {
           "name": "Wagwan",
           "surname": "Mebrudduh",
-          "level": 19,
+          "level": 21,
           "race": "Troll",
           "class": "Warlock",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
-          "itemLevel": 11,
-          "lastUpdated": 1794347574000,
-          "honorableKills": 0
+          "itemLevel": 13,
+          "lastUpdated": 1794374471000,
+          "honorableKills": 2
         },
         "talents": [
           {
             "name": "Affliction",
-            "points": 10
+            "points": 12
           }
         ],
         "equipment": [
@@ -1480,28 +1494,28 @@
           {
             "slot": "Wrist",
             "slotType": "WRIST",
-            "id": 15452,
-            "name": "Featherbead Bracers",
+            "id": 251486,
+            "name": "Tabitha's Cuffs",
             "quality": "UNCOMMON",
-            "itemLevel": 18,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132607.jpg",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132609.jpg",
             "stats": [
-              "+3 Intellect"
+              "+4 Stamina",
+              "+3 Spell Power"
             ],
-            "enchants": [
-              "Enchanted: Stamina +3"
-            ]
+            "enchants": []
           },
           {
             "slot": "Hands",
             "slotType": "HANDS",
-            "id": 6565,
-            "name": "Shimmering Gloves of Spirit",
+            "id": 279877,
+            "name": "Blight Gloves",
             "quality": "UNCOMMON",
-            "itemLevel": 22,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132950.jpg",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132955.jpg",
             "stats": [
-              "+5 Spirit"
+              "+5 Spell Power",
+              "+4 Nature Resistance"
             ],
             "enchants": []
           },
@@ -1535,12 +1549,15 @@
           {
             "slot": "Feet",
             "slotType": "FEET",
-            "id": 1764,
-            "name": "Canvas Shoes",
-            "quality": "POOR",
-            "itemLevel": 17,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132543.jpg",
-            "stats": [],
+            "id": 14129,
+            "name": "Ritual Sandals of the Owl",
+            "quality": "UNCOMMON",
+            "itemLevel": 20,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132537.jpg",
+            "stats": [
+              "+3 Intellect",
+              "+3 Spirit"
+            ],
             "enchants": []
           },
           {
@@ -1607,7 +1624,7 @@
           },
           {
             "name": "Enchanting",
-            "skill": 52,
+            "skill": 57,
             "max": 75,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136244.jpg",
             "primary": true
@@ -1626,10 +1643,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-11T01:15:04.686Z",
-        "talents": "2026-11-10T20:19:24.488Z",
-        "equipment": "2026-11-11T01:15:04.686Z",
-        "professions": "2026-11-11T01:15:04.686Z",
+        "summary": "2026-11-11T10:58:18.795Z",
+        "talents": "2026-11-11T10:58:18.795Z",
+        "equipment": "2026-11-11T10:58:18.795Z",
+        "professions": "2026-11-11T10:58:18.795Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1641,14 +1658,14 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 27,
+          "level": 28,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
-          "itemLevel": 21,
-          "lastUpdated": 1794352117000,
+          "itemLevel": 22,
+          "lastUpdated": 1794375932000,
           "honorableKills": 0
         },
         "talents": [
@@ -1712,14 +1729,13 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 9794,
-            "name": "Ivycloth Cloak of the Bear",
+            "id": 15537,
+            "name": "Wicked Chain Cloak of Strength",
             "quality": "UNCOMMON",
-            "itemLevel": 25,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133767.jpg",
+            "itemLevel": 28,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133754.jpg",
             "stats": [
-              "+3 Strength",
-              "+3 Stamina"
+              "+6 Strength"
             ],
             "enchants": []
           },
@@ -1777,28 +1793,28 @@
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 6319,
-            "name": "Girdle of the Blindwatcher",
+            "id": 6911,
+            "name": "Moss Cinch",
             "quality": "RARE",
-            "itemLevel": 26,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132492.jpg",
+            "itemLevel": 30,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132514.jpg",
             "stats": [
               "+5 Stamina",
-              "+7 Spell Power"
+              "+12 Spell Damage"
             ],
             "enchants": []
           },
           {
             "slot": "Legs",
             "slotType": "LEGS",
-            "id": 6480,
-            "name": "Slick Deviate Leggings",
-            "quality": "UNCOMMON",
-            "itemLevel": 20,
+            "id": 6903,
+            "name": "Gaze Dreamer Pants",
+            "quality": "RARE",
+            "itemLevel": 28,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134582.jpg",
             "stats": [
-              "+4 Agility",
-              "+4 Stamina"
+              "+12 Spell Power",
+              "+9 Spirit"
             ],
             "enchants": []
           },
@@ -1833,14 +1849,14 @@
           {
             "slot": "Ring 2",
             "slotType": "FINGER_2",
-            "id": 6321,
-            "name": "Silverlaine's Family Seal",
-            "quality": "RARE",
-            "itemLevel": 26,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132518.jpg",
+            "id": 17694,
+            "name": "Band of the Fist",
+            "quality": "UNCOMMON",
+            "itemLevel": 28,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133344.jpg",
             "stats": [
-              "+5 Strength",
-              "+2 Stamina"
+              "+4 Agility",
+              "+4 Strength"
             ],
             "enchants": []
           },
@@ -1908,9 +1924,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-11T01:15:04.686Z",
+        "summary": "2026-11-11T10:58:18.795Z",
         "talents": "2026-11-11T01:15:04.686Z",
-        "equipment": "2026-11-11T01:15:04.686Z",
+        "equipment": "2026-11-11T10:58:18.795Z",
         "professions": "2026-11-10T20:19:24.488Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -1923,20 +1939,20 @@
         "summary": {
           "name": "Alex",
           "surname": "Dotcom",
-          "level": 24,
+          "level": 25,
           "race": "Orc",
           "class": "Warrior",
           "faction": "Horde",
-          "guild": null,
+          "guild": "Veilwalkers",
           "ruleset": "Normal",
-          "itemLevel": 16,
-          "lastUpdated": 1794290718000,
+          "itemLevel": 17,
+          "lastUpdated": 1794382885000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Fury",
-            "points": 15
+            "points": 16
           }
         ],
         "equipment": [
@@ -1985,14 +2001,14 @@
           {
             "slot": "Chest",
             "slotType": "CHEST",
-            "id": 9783,
-            "name": "Raider's Chestpiece of Arcane Protection",
+            "id": 3733,
+            "name": "Orcish War Chain",
             "quality": "UNCOMMON",
-            "itemLevel": 20,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132629.jpg",
+            "itemLevel": 23,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132624.jpg",
             "stats": [
-              "+4 Stamina",
-              "+4 Arcane Resistance"
+              "+6 Strength",
+              "+3 Stamina"
             ],
             "enchants": []
           },
@@ -2081,13 +2097,14 @@
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
-            "id": 281268,
-            "name": "Depleted Ritual Band",
-            "quality": "COMMON",
-            "itemLevel": 9,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133348.jpg",
+            "id": 3739,
+            "name": "Skull Ring",
+            "quality": "UNCOMMON",
+            "itemLevel": 25,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132501.jpg",
             "stats": [
-              "+1 Bonus Armor"
+              "+3 Intellect",
+              "+3 Stamina"
             ],
             "enchants": []
           },
@@ -2149,7 +2166,7 @@
         "professions": [
           {
             "name": "Mining",
-            "skill": 99,
+            "skill": 100,
             "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136248.jpg",
             "primary": true
@@ -2170,7 +2187,7 @@
           },
           {
             "name": "First Aid",
-            "skill": 65,
+            "skill": 72,
             "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135966.jpg",
             "primary": false
@@ -2182,10 +2199,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-10T21:00:00.659Z",
-        "talents": "2026-11-10T21:00:00.659Z",
-        "equipment": "2026-11-10T21:00:00.659Z",
-        "professions": "2026-11-10T21:00:00.659Z",
+        "summary": "2026-11-11T10:58:18.795Z",
+        "talents": "2026-11-11T10:58:18.795Z",
+        "equipment": "2026-11-11T10:58:18.795Z",
+        "professions": "2026-11-11T10:58:18.795Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
       "error": null
