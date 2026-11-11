@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-10T21:00:00.659Z",
+  "fetchedAt": "2026-11-11T01:15:04.686Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -10,14 +10,14 @@
         "summary": {
           "name": "Stardew",
           "surname": "Honeymelon",
-          "level": 27,
+          "level": 28,
           "race": "Undead",
           "class": "Paladin",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
-          "itemLevel": 20,
-          "lastUpdated": 1794302545000,
+          "itemLevel": 19,
+          "lastUpdated": 1794359366000,
           "honorableKills": 0
         },
         "talents": [
@@ -27,7 +27,7 @@
           },
           {
             "name": "Holy",
-            "points": 5
+            "points": 6
           }
         ],
         "equipment": [
@@ -219,14 +219,24 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 267369,
-            "name": "Wolfsbane",
+            "id": 6472,
+            "name": "Stinging Viper",
             "quality": "RARE",
-            "itemLevel": 31,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135326.jpg",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135472.jpg",
+            "stats": [],
+            "enchants": []
+          },
+          {
+            "slot": "Off Hand",
+            "slotType": "OFF_HAND",
+            "id": 13245,
+            "name": "Kresh's Back",
+            "quality": "RARE",
+            "itemLevel": 23,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134964.jpg",
             "stats": [
-              "+10 Intellect",
-              "+9 Stamina"
+              "+5 Defense"
             ],
             "enchants": []
           }
@@ -274,9 +284,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-10T19:54:12.713Z",
-        "talents": "2026-11-10T19:54:12.713Z",
-        "equipment": "2026-11-10T19:54:12.713Z",
+        "summary": "2026-11-11T01:15:04.686Z",
+        "talents": "2026-11-11T01:15:04.686Z",
+        "equipment": "2026-11-11T01:15:04.686Z",
         "professions": "2026-11-10T19:54:12.713Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
@@ -546,14 +556,14 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 26,
+          "level": 27,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
           "itemLevel": 21,
-          "lastUpdated": 1794342614000,
+          "lastUpdated": 1794346986000,
           "honorableKills": 1
         },
         "talents": [
@@ -815,7 +825,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-10T21:00:00.659Z",
+        "summary": "2026-11-11T01:15:04.686Z",
         "talents": "2026-11-10T19:54:12.713Z",
         "equipment": "2026-11-10T19:54:12.713Z",
         "professions": "2026-11-10T19:54:12.713Z",
@@ -1107,20 +1117,20 @@
         "summary": {
           "name": "Hunting",
           "surname": "Crooner",
-          "level": 26,
+          "level": 27,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
           "itemLevel": 20,
-          "lastUpdated": 1794330684000,
+          "lastUpdated": 1794351332000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Beast Mastery",
-            "points": 17
+            "points": 18
           }
         ],
         "equipment": [
@@ -1344,7 +1354,7 @@
           },
           {
             "name": "Skinning",
-            "skill": 174,
+            "skill": 180,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
@@ -1377,10 +1387,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-10T20:19:24.488Z",
-        "talents": "2026-11-10T20:19:24.488Z",
+        "summary": "2026-11-11T01:15:04.686Z",
+        "talents": "2026-11-11T01:15:04.686Z",
         "equipment": "2026-11-10T20:19:24.488Z",
-        "professions": "2026-11-10T20:19:24.488Z",
+        "professions": "2026-11-11T01:15:04.686Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1399,7 +1409,7 @@
           "guild": null,
           "ruleset": "Normal",
           "itemLevel": 11,
-          "lastUpdated": 1794335491000,
+          "lastUpdated": 1794347574000,
           "honorableKills": 0
         },
         "talents": [
@@ -1479,7 +1489,7 @@
               "+3 Intellect"
             ],
             "enchants": [
-              "Enchanted: Defense +3"
+              "Enchanted: Stamina +3"
             ]
           },
           {
@@ -1563,14 +1573,13 @@
           {
             "slot": "Off Hand",
             "slotType": "OFF_HAND",
-            "id": 15933,
-            "name": "Simple Branch of the Eagle",
+            "id": 3451,
+            "name": "Nightglow Concoction",
             "quality": "UNCOMMON",
-            "itemLevel": 15,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135139.jpg",
+            "itemLevel": 18,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134799.jpg",
             "stats": [
-              "+1 Intellect",
-              "+1 Stamina"
+              "+3 Spirit"
             ],
             "enchants": []
           },
@@ -1591,14 +1600,14 @@
         "professions": [
           {
             "name": "Tailoring",
-            "skill": 63,
+            "skill": 64,
             "max": 75,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
             "primary": true
           },
           {
             "name": "Enchanting",
-            "skill": 47,
+            "skill": 52,
             "max": 75,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136244.jpg",
             "primary": true
@@ -1617,10 +1626,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-10T20:19:24.488Z",
+        "summary": "2026-11-11T01:15:04.686Z",
         "talents": "2026-11-10T20:19:24.488Z",
-        "equipment": "2026-11-10T20:19:24.488Z",
-        "professions": "2026-11-10T20:19:24.488Z",
+        "equipment": "2026-11-11T01:15:04.686Z",
+        "professions": "2026-11-11T01:15:04.686Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1632,23 +1641,37 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 26,
+          "level": 27,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
-          "itemLevel": 19,
-          "lastUpdated": 1794341769000,
+          "itemLevel": 21,
+          "lastUpdated": 1794352117000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Enhancement",
-            "points": 17
+            "points": 18
           }
         ],
         "equipment": [
+          {
+            "slot": "Head",
+            "slotType": "HEAD",
+            "id": 4724,
+            "name": "Humbert's Helm",
+            "quality": "UNCOMMON",
+            "itemLevel": 30,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133122.jpg",
+            "stats": [
+              "+7 Agility",
+              "+8 Stamina"
+            ],
+            "enchants": []
+          },
           {
             "slot": "Neck",
             "slotType": "NECK",
@@ -1833,7 +1856,9 @@
               "+7 Strength",
               "+10 Spirit"
             ],
-            "enchants": []
+            "enchants": [
+              "Rockbiter 4"
+            ]
           },
           {
             "slot": "Ranged",
@@ -1883,9 +1908,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-10T20:19:24.488Z",
-        "talents": "2026-11-10T20:19:24.488Z",
-        "equipment": "2026-11-10T20:19:24.488Z",
+        "summary": "2026-11-11T01:15:04.686Z",
+        "talents": "2026-11-11T01:15:04.686Z",
+        "equipment": "2026-11-11T01:15:04.686Z",
         "professions": "2026-11-10T20:19:24.488Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
