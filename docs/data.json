@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-12T11:12:30.754Z",
+  "fetchedAt": "2026-11-12T19:54:44.278Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -301,20 +301,20 @@
         "summary": {
           "name": "Corener",
           "surname": "Hardboiled",
-          "level": 27,
+          "level": 28,
           "race": "Tauren",
           "class": "Druid",
           "faction": "Horde",
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
           "itemLevel": 20,
-          "lastUpdated": 1794460712000,
+          "lastUpdated": 1794512653000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Feral Combat",
-            "points": 18
+            "points": 19
           }
         ],
         "equipment": [
@@ -513,7 +513,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 85,
+            "skill": 112,
             "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -546,10 +546,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-12T11:12:30.754Z",
-        "talents": "2026-11-12T11:12:30.754Z",
+        "summary": "2026-11-12T19:54:44.278Z",
+        "talents": "2026-11-12T19:54:44.278Z",
         "equipment": "2026-11-12T11:12:30.754Z",
-        "professions": "2026-11-12T11:12:30.754Z",
+        "professions": "2026-11-12T19:54:44.278Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -865,13 +865,13 @@
           "guild": null,
           "ruleset": "Normal",
           "itemLevel": 22,
-          "lastUpdated": 1794462934000,
+          "lastUpdated": 1794510109000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Shadow Magic",
-            "points": 7
+            "points": 8
           },
           {
             "name": "Holy",
@@ -1107,15 +1107,15 @@
         "professions": [
           {
             "name": "Tailoring",
-            "skill": 114,
+            "skill": 121,
             "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
             "primary": true
           },
           {
             "name": "Enchanting",
-            "skill": 27,
-            "max": 75,
+            "skill": 77,
+            "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136244.jpg",
             "primary": true
           },
@@ -1133,10 +1133,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-12T11:12:30.754Z",
-        "talents": "2026-11-11T19:37:00.403Z",
+        "summary": "2026-11-12T19:54:44.278Z",
+        "talents": "2026-11-12T19:54:44.278Z",
         "equipment": "2026-11-12T11:12:30.754Z",
-        "professions": "2026-11-12T11:12:30.754Z",
+        "professions": "2026-11-12T19:54:44.278Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1148,14 +1148,14 @@
         "summary": {
           "name": "Hunting",
           "surname": "Crooner",
-          "level": 29,
+          "level": 30,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
           "itemLevel": 24,
-          "lastUpdated": 1794463441000,
+          "lastUpdated": 1794503475000,
           "honorableKills": 0
         },
         "talents": [
@@ -1311,14 +1311,14 @@
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
-            "id": 3739,
-            "name": "Skull Ring",
+            "id": 17694,
+            "name": "Band of the Fist",
             "quality": "UNCOMMON",
-            "itemLevel": 25,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132501.jpg",
+            "itemLevel": 28,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133344.jpg",
             "stats": [
-              "+3 Intellect",
-              "+3 Stamina"
+              "+4 Agility",
+              "+4 Strength"
             ],
             "enchants": []
           },
@@ -1350,19 +1350,6 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 6220,
-            "name": "Meteor Shard",
-            "quality": "RARE",
-            "itemLevel": 28,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135661.jpg",
-            "stats": [
-              "+3 Fire Resistance"
-            ],
-            "enchants": []
-          },
-          {
-            "slot": "Off Hand",
-            "slotType": "OFF_HAND",
             "id": 1292,
             "name": "Butcher's Cleaver",
             "quality": "RARE",
@@ -1375,15 +1362,29 @@
             "enchants": []
           },
           {
+            "slot": "Off Hand",
+            "slotType": "OFF_HAND",
+            "id": 16886,
+            "name": "Outlaw Sabre",
+            "quality": "RARE",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135343.jpg",
+            "stats": [
+              "+16 Attack Power"
+            ],
+            "enchants": []
+          },
+          {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 15285,
-            "name": "Archer's Longbow",
-            "quality": "UNCOMMON",
-            "itemLevel": 32,
+            "id": 273843,
+            "name": "Fallenroot Longbow",
+            "quality": "RARE",
+            "itemLevel": 28,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135491.jpg",
             "stats": [
-              "+9 Ranged Attack Power"
+              "+2 Agility",
+              "+4 Stamina"
             ],
             "enchants": []
           }
@@ -1398,7 +1399,7 @@
           },
           {
             "name": "Skinning",
-            "skill": 190,
+            "skill": 191,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
@@ -1431,10 +1432,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-12T11:12:30.754Z",
+        "summary": "2026-11-12T19:54:44.278Z",
         "talents": "2026-11-12T11:12:30.754Z",
-        "equipment": "2026-11-12T11:12:30.754Z",
-        "professions": "2026-11-12T11:12:30.754Z",
+        "equipment": "2026-11-12T19:54:44.278Z",
+        "professions": "2026-11-12T19:54:44.278Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1725,7 +1726,7 @@
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
           "itemLevel": 27,
-          "lastUpdated": 1794462797000,
+          "lastUpdated": 1794510021000,
           "honorableKills": 0
         },
         "talents": [
@@ -1948,7 +1949,9 @@
               "+12 Strength",
               "+14 Spell Power"
             ],
-            "enchants": []
+            "enchants": [
+              "Windfury 1"
+            ]
           },
           {
             "slot": "Ranged",
@@ -1965,15 +1968,15 @@
         "professions": [
           {
             "name": "Alchemy",
-            "skill": 104,
-            "max": 150,
+            "skill": 165,
+            "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136240.jpg",
             "primary": true
           },
           {
             "name": "Herbalism",
-            "skill": 110,
-            "max": 150,
+            "skill": 128,
+            "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
           },
@@ -1998,10 +2001,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-12T11:12:30.754Z",
+        "summary": "2026-11-12T19:54:44.278Z",
         "talents": "2026-11-12T02:16:33.361Z",
-        "equipment": "2026-11-12T11:12:30.754Z",
-        "professions": "2026-11-12T11:12:30.754Z",
+        "equipment": "2026-11-12T19:54:44.278Z",
+        "professions": "2026-11-12T19:54:44.278Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
