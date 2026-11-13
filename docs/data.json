@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-13T10:59:26.859Z",
+  "fetchedAt": "2026-11-13T19:43:05.636Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -1166,13 +1166,13 @@
           "guild": null,
           "ruleset": "Normal",
           "itemLevel": 25,
-          "lastUpdated": 1794549649000,
+          "lastUpdated": 1794589846000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Beast Mastery",
-            "points": 20
+            "points": 22
           }
         ],
         "equipment": [
@@ -1404,14 +1404,14 @@
         "professions": [
           {
             "name": "Leatherworking",
-            "skill": 71,
+            "skill": 79,
             "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136247.jpg",
             "primary": true
           },
           {
             "name": "Skinning",
-            "skill": 202,
+            "skill": 203,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
@@ -1444,10 +1444,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-13T10:59:26.859Z",
-        "talents": "2026-11-12T11:12:30.754Z",
+        "summary": "2026-11-13T19:43:05.636Z",
+        "talents": "2026-11-13T19:43:05.636Z",
         "equipment": "2026-11-13T10:59:26.859Z",
-        "professions": "2026-11-13T10:59:26.859Z",
+        "professions": "2026-11-13T19:43:05.636Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
