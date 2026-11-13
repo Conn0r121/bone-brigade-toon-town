@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-12T19:54:44.278Z",
+  "fetchedAt": "2026-11-13T01:49:56.553Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -561,20 +561,20 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 29,
+          "level": 30,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
-          "itemLevel": 25,
-          "lastUpdated": 1794460415000,
+          "itemLevel": 26,
+          "lastUpdated": 1794519696000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Marksmanship",
-            "points": 15
+            "points": 16
           },
           {
             "name": "Beast Mastery",
@@ -678,14 +678,14 @@
           {
             "slot": "Hands",
             "slotType": "HANDS",
-            "id": 270008,
-            "name": "Heat Resistant Mitts",
+            "id": 6586,
+            "name": "Scouting Gloves of the Falcon",
             "quality": "UNCOMMON",
-            "itemLevel": 20,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132949.jpg",
+            "itemLevel": 23,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132961.jpg",
             "stats": [
-              "+4 Agility",
-              "+1 Stamina"
+              "+4 Intellect",
+              "+4 Agility"
             ],
             "enchants": []
           },
@@ -706,14 +706,15 @@
           {
             "slot": "Legs",
             "slotType": "LEGS",
-            "id": 6480,
-            "name": "Slick Deviate Leggings",
+            "id": 6282,
+            "name": "Sacred Burial Trousers",
             "quality": "UNCOMMON",
-            "itemLevel": 20,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134582.jpg",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134581.jpg",
             "stats": [
-              "+4 Agility",
-              "+4 Stamina"
+              "+5 Intellect",
+              "+3 Strength",
+              "+9 Spirit"
             ],
             "enchants": []
           },
@@ -817,8 +818,8 @@
         "professions": [
           {
             "name": "Skinning",
-            "skill": 47,
-            "max": 75,
+            "skill": 167,
+            "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
           },
@@ -843,10 +844,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-12T11:12:30.754Z",
-        "talents": "2026-11-12T02:16:33.361Z",
-        "equipment": "2026-11-12T11:12:30.754Z",
-        "professions": "2026-11-12T02:16:33.361Z",
+        "summary": "2026-11-13T01:49:56.553Z",
+        "talents": "2026-11-13T01:49:56.553Z",
+        "equipment": "2026-11-13T01:49:56.553Z",
+        "professions": "2026-11-13T01:49:56.553Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -858,14 +859,14 @@
         "summary": {
           "name": "Cannon",
           "surname": "Eye",
-          "level": 25,
+          "level": 26,
           "race": "Undead",
           "class": "Priest",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
-          "itemLevel": 22,
-          "lastUpdated": 1794510109000,
+          "itemLevel": 23,
+          "lastUpdated": 1794518734000,
           "honorableKills": 0
         },
         "talents": [
@@ -1037,14 +1038,14 @@
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
-            "id": 279867,
-            "name": "Slain Baron's Signet",
+            "id": 3739,
+            "name": "Skull Ring",
             "quality": "UNCOMMON",
-            "itemLevel": 23,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133361.jpg",
+            "itemLevel": 25,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132501.jpg",
             "stats": [
-              "+3 Stamina",
-              "+1 Defense"
+              "+3 Intellect",
+              "+3 Stamina"
             ],
             "enchants": []
           },
@@ -1133,9 +1134,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-12T19:54:44.278Z",
+        "summary": "2026-11-13T01:49:56.553Z",
         "talents": "2026-11-12T19:54:44.278Z",
-        "equipment": "2026-11-12T11:12:30.754Z",
+        "equipment": "2026-11-13T01:49:56.553Z",
         "professions": "2026-11-12T19:54:44.278Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -1447,20 +1448,20 @@
         "summary": {
           "name": "Wagwan",
           "surname": "Mebrudduh",
-          "level": 23,
+          "level": 25,
           "race": "Troll",
           "class": "Warlock",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
-          "itemLevel": 17,
-          "lastUpdated": 1794457057000,
-          "honorableKills": 2
+          "itemLevel": 19,
+          "lastUpdated": 1794527766000,
+          "honorableKills": 3
         },
         "talents": [
           {
             "name": "Affliction",
-            "points": 13
+            "points": 16
           }
         ],
         "equipment": [
@@ -1512,18 +1513,16 @@
           {
             "slot": "Chest",
             "slotType": "CHEST",
-            "id": 2578,
-            "name": "Barbaric Linen Vest",
-            "quality": "UNCOMMON",
-            "itemLevel": 14,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132715.jpg",
+            "id": 2034,
+            "name": "Scholarly Robes",
+            "quality": "RARE",
+            "itemLevel": 25,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132645.jpg",
             "stats": [
-              "+2 Stamina",
-              "+2 Spell Power"
+              "+3 Spell Power",
+              "+12 Spirit"
             ],
-            "enchants": [
-              "Enchanted: Stamina +3"
-            ]
+            "enchants": []
           },
           {
             "slot": "Shirt",
@@ -1569,13 +1568,14 @@
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 273089,
-            "name": "Slither Cord",
+            "id": 6908,
+            "name": "Ghamoo-ra's Bind",
             "quality": "RARE",
-            "itemLevel": 22,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132510.jpg",
+            "itemLevel": 27,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132513.jpg",
             "stats": [
-              "+3 Mana Regeneration per 5 sec"
+              "+7 Stamina",
+              "+8 Spell Power"
             ],
             "enchants": []
           },
@@ -1610,6 +1610,20 @@
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
+            "id": 6414,
+            "name": "Seal of Sylvanas",
+            "quality": "RARE",
+            "itemLevel": 29,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133357.jpg",
+            "stats": [
+              "+8 Stamina",
+              "+6 Attack Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 2",
+            "slotType": "FINGER_2",
             "id": 11967,
             "name": "Zircon Band of Regeneration",
             "quality": "UNCOMMON",
@@ -1617,20 +1631,6 @@
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133349.jpg",
             "stats": [
               "+3 Health Per 5 Sec."
-            ],
-            "enchants": []
-          },
-          {
-            "slot": "Ring 2",
-            "slotType": "FINGER_2",
-            "id": 279867,
-            "name": "Slain Baron's Signet",
-            "quality": "UNCOMMON",
-            "itemLevel": 23,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133361.jpg",
-            "stats": [
-              "+3 Stamina",
-              "+1 Defense"
             ],
             "enchants": []
           },
@@ -1651,13 +1651,14 @@
           {
             "slot": "Off Hand",
             "slotType": "OFF_HAND",
-            "id": 3451,
-            "name": "Nightglow Concoction",
-            "quality": "UNCOMMON",
-            "itemLevel": 18,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134799.jpg",
+            "id": 6898,
+            "name": "Orb of Soran'ruk",
+            "quality": "RARE",
+            "itemLevel": 25,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134335.jpg",
             "stats": [
-              "+3 Spirit"
+              "+9 Fire Damage",
+              "+9 Shadow Damage"
             ],
             "enchants": []
           },
@@ -1678,8 +1679,8 @@
         "professions": [
           {
             "name": "Tailoring",
-            "skill": 75,
-            "max": 75,
+            "skill": 78,
+            "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
             "primary": true
           },
@@ -1704,10 +1705,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-12T11:12:30.754Z",
-        "talents": "2026-11-12T11:12:30.754Z",
-        "equipment": "2026-11-12T11:12:30.754Z",
-        "professions": "2026-11-12T11:12:30.754Z",
+        "summary": "2026-11-13T01:49:56.553Z",
+        "talents": "2026-11-13T01:49:56.553Z",
+        "equipment": "2026-11-13T01:49:56.553Z",
+        "professions": "2026-11-13T01:49:56.553Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1726,7 +1727,7 @@
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
           "itemLevel": 27,
-          "lastUpdated": 1794510021000,
+          "lastUpdated": 1794529510000,
           "honorableKills": 0
         },
         "talents": [
@@ -1949,9 +1950,7 @@
               "+12 Strength",
               "+14 Spell Power"
             ],
-            "enchants": [
-              "Windfury 1"
-            ]
+            "enchants": []
           },
           {
             "slot": "Ranged",
@@ -1968,14 +1967,14 @@
         "professions": [
           {
             "name": "Alchemy",
-            "skill": 165,
+            "skill": 225,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136240.jpg",
             "primary": true
           },
           {
             "name": "Herbalism",
-            "skill": 128,
+            "skill": 135,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -2001,10 +2000,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-12T19:54:44.278Z",
+        "summary": "2026-11-13T01:49:56.553Z",
         "talents": "2026-11-12T02:16:33.361Z",
-        "equipment": "2026-11-12T19:54:44.278Z",
-        "professions": "2026-11-12T19:54:44.278Z",
+        "equipment": "2026-11-13T01:49:56.553Z",
+        "professions": "2026-11-13T01:49:56.553Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
