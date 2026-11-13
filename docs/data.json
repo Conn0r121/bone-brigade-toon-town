@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-13T01:49:56.553Z",
+  "fetchedAt": "2026-11-13T10:59:26.859Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -307,8 +307,8 @@
           "faction": "Horde",
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
-          "itemLevel": 20,
-          "lastUpdated": 1794512653000,
+          "itemLevel": 23,
+          "lastUpdated": 1794554121000,
           "honorableKills": 0
         },
         "talents": [
@@ -478,16 +478,27 @@
             "enchants": []
           },
           {
+            "slot": "Trinket 1",
+            "slotType": "TRINKET_1",
+            "id": 280766,
+            "name": "Satchel of Potions",
+            "quality": "UNCOMMON",
+            "itemLevel": 33,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133633.jpg",
+            "stats": [],
+            "enchants": []
+          },
+          {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 270018,
-            "name": "Hammerbone",
+            "id": 271766,
+            "name": "Heavehammer",
             "quality": "RARE",
-            "itemLevel": 24,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133052.jpg",
+            "itemLevel": 33,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133046.jpg",
             "stats": [
-              "+7 Strength",
-              "+10 Spirit"
+              "+32 Attack Power",
+              "+60 Bonus Armor"
             ],
             "enchants": []
           },
@@ -506,8 +517,8 @@
         "professions": [
           {
             "name": "Alchemy",
-            "skill": 66,
-            "max": 150,
+            "skill": 150,
+            "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136240.jpg",
             "primary": true
           },
@@ -546,10 +557,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-12T19:54:44.278Z",
+        "summary": "2026-11-13T10:59:26.859Z",
         "talents": "2026-11-12T19:54:44.278Z",
-        "equipment": "2026-11-12T11:12:30.754Z",
-        "professions": "2026-11-12T19:54:44.278Z",
+        "equipment": "2026-11-13T10:59:26.859Z",
+        "professions": "2026-11-13T10:59:26.859Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -561,20 +572,20 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 30,
+          "level": 31,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
           "itemLevel": 26,
-          "lastUpdated": 1794519696000,
+          "lastUpdated": 1794550119000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Marksmanship",
-            "points": 16
+            "points": 17
           },
           {
             "name": "Beast Mastery",
@@ -721,15 +732,14 @@
           {
             "slot": "Feet",
             "slotType": "FEET",
-            "id": 15458,
-            "name": "Tundra Boots",
+            "id": 9820,
+            "name": "Durable Boots of the Owl",
             "quality": "UNCOMMON",
-            "itemLevel": 28,
+            "itemLevel": 31,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132537.jpg",
             "stats": [
               "+6 Intellect",
-              "+2 Stamina",
-              "+3 Spirit"
+              "+6 Spirit"
             ],
             "enchants": []
           },
@@ -818,7 +828,7 @@
         "professions": [
           {
             "name": "Skinning",
-            "skill": 167,
+            "skill": 177,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
@@ -844,10 +854,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-13T01:49:56.553Z",
-        "talents": "2026-11-13T01:49:56.553Z",
-        "equipment": "2026-11-13T01:49:56.553Z",
-        "professions": "2026-11-13T01:49:56.553Z",
+        "summary": "2026-11-13T10:59:26.859Z",
+        "talents": "2026-11-13T10:59:26.859Z",
+        "equipment": "2026-11-13T10:59:26.859Z",
+        "professions": "2026-11-13T10:59:26.859Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -866,7 +876,7 @@
           "guild": null,
           "ruleset": "Normal",
           "itemLevel": 23,
-          "lastUpdated": 1794518734000,
+          "lastUpdated": 1794548756000,
           "honorableKills": 0
         },
         "talents": [
@@ -1134,7 +1144,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-13T01:49:56.553Z",
+        "summary": "2026-11-13T10:59:26.859Z",
         "talents": "2026-11-12T19:54:44.278Z",
         "equipment": "2026-11-13T01:49:56.553Z",
         "professions": "2026-11-12T19:54:44.278Z",
@@ -1149,14 +1159,14 @@
         "summary": {
           "name": "Hunting",
           "surname": "Crooner",
-          "level": 30,
+          "level": 31,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
-          "itemLevel": 24,
-          "lastUpdated": 1794503475000,
+          "itemLevel": 25,
+          "lastUpdated": 1794549649000,
           "honorableKills": 0
         },
         "talents": [
@@ -1351,14 +1361,15 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 1292,
-            "name": "Butcher's Cleaver",
-            "quality": "RARE",
-            "itemLevel": 25,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132417.jpg",
+            "id": 15231,
+            "name": "Splitting Hatchet of the Bandit",
+            "quality": "UNCOMMON",
+            "itemLevel": 31,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132405.jpg",
             "stats": [
               "+2 Agility",
-              "+5 Strength"
+              "+4 Stamina",
+              "+4 Attack Power"
             ],
             "enchants": []
           },
@@ -1400,7 +1411,7 @@
           },
           {
             "name": "Skinning",
-            "skill": 191,
+            "skill": 202,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
@@ -1433,10 +1444,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-12T19:54:44.278Z",
+        "summary": "2026-11-13T10:59:26.859Z",
         "talents": "2026-11-12T11:12:30.754Z",
-        "equipment": "2026-11-12T19:54:44.278Z",
-        "professions": "2026-11-12T19:54:44.278Z",
+        "equipment": "2026-11-13T10:59:26.859Z",
+        "professions": "2026-11-13T10:59:26.859Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1727,7 +1738,7 @@
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
           "itemLevel": 27,
-          "lastUpdated": 1794529510000,
+          "lastUpdated": 1794551482000,
           "honorableKills": 0
         },
         "talents": [
@@ -2000,7 +2011,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-13T01:49:56.553Z",
+        "summary": "2026-11-13T10:59:26.859Z",
         "talents": "2026-11-12T02:16:33.361Z",
         "equipment": "2026-11-13T01:49:56.553Z",
         "professions": "2026-11-13T01:49:56.553Z",
@@ -2015,20 +2026,20 @@
         "summary": {
           "name": "Alex",
           "surname": "Dotcom",
-          "level": 27,
+          "level": 28,
           "race": "Orc",
           "class": "Warrior",
           "faction": "Horde",
           "guild": "Veilwalkers",
           "ruleset": "Normal",
-          "itemLevel": 20,
-          "lastUpdated": 1794460835000,
+          "itemLevel": 22,
+          "lastUpdated": 1794544471000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Fury",
-            "points": 18
+            "points": 19
           }
         ],
         "equipment": [
@@ -2064,13 +2075,15 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 5343,
-            "name": "Barkeeper's Cloak",
+            "id": 14763,
+            "name": "Enduring Cape",
             "quality": "UNCOMMON",
-            "itemLevel": 18,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133755.jpg",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133754.jpg",
             "stats": [
-              "+3 Stamina"
+              "+2 Agility",
+              "+2 Strength",
+              "+7 Stamina"
             ],
             "enchants": []
           },
@@ -2102,14 +2115,15 @@
           {
             "slot": "Wrist",
             "slotType": "WRIST",
-            "id": 15507,
-            "name": "Grunt's Bracers of the Gorilla",
+            "id": 15459,
+            "name": "Grimtoll Wristguards",
             "quality": "UNCOMMON",
-            "itemLevel": 19,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132608.jpg",
+            "itemLevel": 28,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132601.jpg",
             "stats": [
-              "+2 Intellect",
-              "+2 Strength"
+              "+1 Agility",
+              "+5 Strength",
+              "+2 Stamina"
             ],
             "enchants": []
           },
@@ -2130,14 +2144,15 @@
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 15510,
-            "name": "Grunt's Belt of the Gorilla",
+            "id": 15549,
+            "name": "Thick Scale Belt of the Beast",
             "quality": "UNCOMMON",
-            "itemLevel": 20,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132504.jpg",
+            "itemLevel": 31,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132510.jpg",
             "stats": [
-              "+3 Intellect",
-              "+3 Strength"
+              "+4 Agility",
+              "+3 Strength",
+              "+7 Stamina"
             ],
             "enchants": []
           },
@@ -2241,7 +2256,7 @@
         "professions": [
           {
             "name": "Mining",
-            "skill": 112,
+            "skill": 113,
             "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136248.jpg",
             "primary": true
@@ -2274,10 +2289,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-12T11:12:30.754Z",
-        "talents": "2026-11-12T11:12:30.754Z",
-        "equipment": "2026-11-12T11:12:30.754Z",
-        "professions": "2026-11-12T11:12:30.754Z",
+        "summary": "2026-11-13T10:59:26.859Z",
+        "talents": "2026-11-13T10:59:26.859Z",
+        "equipment": "2026-11-13T10:59:26.859Z",
+        "professions": "2026-11-13T10:59:26.859Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
       "error": null
