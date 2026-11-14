@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-13T19:43:05.636Z",
+  "fetchedAt": "2026-11-14T01:27:02.642Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -301,20 +301,20 @@
         "summary": {
           "name": "Corener",
           "surname": "Hardboiled",
-          "level": 28,
+          "level": 30,
           "race": "Tauren",
           "class": "Druid",
           "faction": "Horde",
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
           "itemLevel": 23,
-          "lastUpdated": 1794554121000,
+          "lastUpdated": 1794615628000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Feral Combat",
-            "points": 19
+            "points": 21
           }
         ],
         "equipment": [
@@ -375,7 +375,9 @@
               "+5 Stamina",
               "+11 Spirit"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Stamina +3 and Armor +24"
+            ]
           },
           {
             "slot": "Wrist",
@@ -404,7 +406,7 @@
               "+4 Strength"
             ],
             "enchants": [
-              "Enchanted: Stamina +2 and Armor +16"
+              "Enchanted: Stamina +3 and Armor +24"
             ]
           },
           {
@@ -433,7 +435,9 @@
               "+6 Agility",
               "+6 Spirit"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Stamina +3 and Armor +24"
+            ]
           },
           {
             "slot": "Feet",
@@ -447,7 +451,9 @@
               "+7 Stamina",
               "+20 Bonus Armor"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Stamina +3 and Armor +24"
+            ]
           },
           {
             "slot": "Ring 1",
@@ -517,14 +523,14 @@
         "professions": [
           {
             "name": "Alchemy",
-            "skill": 150,
+            "skill": 175,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136240.jpg",
             "primary": true
           },
           {
             "name": "Herbalism",
-            "skill": 112,
+            "skill": 116,
             "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -557,10 +563,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-13T10:59:26.859Z",
-        "talents": "2026-11-12T19:54:44.278Z",
-        "equipment": "2026-11-13T10:59:26.859Z",
-        "professions": "2026-11-13T10:59:26.859Z",
+        "summary": "2026-11-14T01:27:02.642Z",
+        "talents": "2026-11-14T01:27:02.642Z",
+        "equipment": "2026-11-14T01:27:02.642Z",
+        "professions": "2026-11-14T01:27:02.642Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -572,20 +578,20 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 31,
+          "level": 32,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": null,
           "ruleset": "Normal",
-          "itemLevel": 26,
-          "lastUpdated": 1794550119000,
+          "itemLevel": 28,
+          "lastUpdated": 1794609451000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Marksmanship",
-            "points": 17
+            "points": 18
           },
           {
             "name": "Beast Mastery",
@@ -596,12 +602,16 @@
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 279391,
-            "name": "Taurajo Headband",
-            "quality": "COMMON",
-            "itemLevel": 23,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133693.jpg",
-            "stats": [],
+            "id": 6688,
+            "name": "Whisperwind Headdress",
+            "quality": "RARE",
+            "itemLevel": 34,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133119.jpg",
+            "stats": [
+              "+11 Stamina",
+              "+7 Spell Power",
+              "+11 Spirit"
+            ],
             "enchants": []
           },
           {
@@ -621,15 +631,15 @@
           {
             "slot": "Shoulders",
             "slotType": "SHOULDER",
-            "id": 10657,
-            "name": "Talbar Mantle",
-            "quality": "UNCOMMON",
-            "itemLevel": 26,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135040.jpg",
+            "id": 4197,
+            "name": "Berylline Pads",
+            "quality": "RARE",
+            "itemLevel": 36,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135036.jpg",
             "stats": [
-              "+4 Intellect",
-              "+2 Stamina",
-              "+1 Mana Regeneration per 5 sec"
+              "+10 Intellect",
+              "+5 Stamina",
+              "+7 Spell Power"
             ],
             "enchants": []
           },
@@ -659,7 +669,9 @@
               "+15 Intellect",
               "+9 Agility"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Stamina +3 and Armor +24"
+            ]
           },
           {
             "slot": "Shirt",
@@ -703,14 +715,15 @@
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 14373,
-            "name": "Sanguine Belt",
+            "id": 15349,
+            "name": "Headhunter's Belt of the Bandit",
             "quality": "UNCOMMON",
-            "itemLevel": 25,
+            "itemLevel": 33,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132492.jpg",
             "stats": [
-              "+5 Intellect",
-              "+3 Stamina"
+              "+3 Agility",
+              "+7 Stamina",
+              "+7 Attack Power"
             ],
             "enchants": []
           },
@@ -741,25 +754,13 @@
               "+6 Intellect",
               "+6 Spirit"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Stamina +3 and Armor +24"
+            ]
           },
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
-            "id": 6414,
-            "name": "Seal of Sylvanas",
-            "quality": "RARE",
-            "itemLevel": 29,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133357.jpg",
-            "stats": [
-              "+8 Stamina",
-              "+6 Attack Power"
-            ],
-            "enchants": []
-          },
-          {
-            "slot": "Ring 2",
-            "slotType": "FINGER_2",
             "id": 17694,
             "name": "Band of the Fist",
             "quality": "UNCOMMON",
@@ -768,6 +769,20 @@
             "stats": [
               "+4 Agility",
               "+4 Strength"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 2",
+            "slotType": "FINGER_2",
+            "id": 6748,
+            "name": "Monkey Ring",
+            "quality": "UNCOMMON",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133356.jpg",
+            "stats": [
+              "+5 Agility",
+              "+5 Spirit"
             ],
             "enchants": []
           },
@@ -785,15 +800,12 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 280805,
-            "name": "Serrated Raptor Claw",
-            "quality": "UNCOMMON",
-            "itemLevel": 33,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135652.jpg",
-            "stats": [
-              "+3 Agility",
-              "+6 Attack Power"
-            ],
+            "id": 6681,
+            "name": "Thornspike",
+            "quality": "RARE",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135646.jpg",
+            "stats": [],
             "enchants": []
           },
           {
@@ -813,14 +825,14 @@
           {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 273843,
-            "name": "Fallenroot Longbow",
+            "id": 274084,
+            "name": "Quilboar Blaster",
             "quality": "RARE",
-            "itemLevel": 28,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135491.jpg",
+            "itemLevel": 36,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135614.jpg",
             "stats": [
-              "+2 Agility",
-              "+4 Stamina"
+              "+4 Agility",
+              "+4 Spirit"
             ],
             "enchants": []
           }
@@ -828,7 +840,7 @@
         "professions": [
           {
             "name": "Skinning",
-            "skill": 177,
+            "skill": 192,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
@@ -854,10 +866,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-13T10:59:26.859Z",
-        "talents": "2026-11-13T10:59:26.859Z",
-        "equipment": "2026-11-13T10:59:26.859Z",
-        "professions": "2026-11-13T10:59:26.859Z",
+        "summary": "2026-11-14T01:27:02.642Z",
+        "talents": "2026-11-14T01:27:02.642Z",
+        "equipment": "2026-11-14T01:27:02.642Z",
+        "professions": "2026-11-14T01:27:02.642Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -1466,7 +1478,7 @@
           "guild": null,
           "ruleset": "Normal",
           "itemLevel": 19,
-          "lastUpdated": 1794527766000,
+          "lastUpdated": 1794609747000,
           "honorableKills": 3
         },
         "talents": [
@@ -1716,7 +1728,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-13T01:49:56.553Z",
+        "summary": "2026-11-14T01:27:02.642Z",
         "talents": "2026-11-13T01:49:56.553Z",
         "equipment": "2026-11-13T01:49:56.553Z",
         "professions": "2026-11-13T01:49:56.553Z",
@@ -1731,20 +1743,24 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 30,
+          "level": 33,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
-          "itemLevel": 27,
-          "lastUpdated": 1794551482000,
+          "itemLevel": 29,
+          "lastUpdated": 1794614100000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Enhancement",
-            "points": 21
+            "points": 22
+          },
+          {
+            "name": "Restoration",
+            "points": 2
           }
         ],
         "equipment": [
@@ -1788,14 +1804,15 @@
           {
             "slot": "Shoulders",
             "slotType": "SHOULDER",
-            "id": 270023,
-            "name": "Tanned Shoulderpads",
-            "quality": "UNCOMMON",
-            "itemLevel": 27,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135058.jpg",
+            "id": 4197,
+            "name": "Berylline Pads",
+            "quality": "RARE",
+            "itemLevel": 36,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135036.jpg",
             "stats": [
-              "+6 Intellect",
-              "+3 Strength"
+              "+10 Intellect",
+              "+5 Stamina",
+              "+7 Spell Power"
             ],
             "enchants": []
           },
@@ -1898,29 +1915,29 @@
           {
             "slot": "Feet",
             "slotType": "FEET",
-            "id": 15458,
-            "name": "Tundra Boots",
+            "id": 9828,
+            "name": "Scaled Leather Boots of the Gorilla",
             "quality": "UNCOMMON",
-            "itemLevel": 28,
+            "itemLevel": 31,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132537.jpg",
             "stats": [
               "+6 Intellect",
-              "+2 Stamina",
-              "+3 Spirit"
+              "+6 Strength"
             ],
             "enchants": []
           },
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
-            "id": 6414,
-            "name": "Seal of Sylvanas",
+            "id": 273032,
+            "name": "Bonebinder's Signet",
             "quality": "RARE",
-            "itemLevel": 29,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133357.jpg",
+            "itemLevel": 31,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133370.jpg",
             "stats": [
-              "+8 Stamina",
-              "+6 Attack Power"
+              "+5 Strength",
+              "+40 Bonus Armor",
+              "+6 Spirit"
             ],
             "enchants": []
           },
@@ -1952,14 +1969,14 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 286983,
-            "name": "Ancient Cleaver",
+            "id": 280604,
+            "name": "Rage of the Storm",
             "quality": "RARE",
-            "itemLevel": 33,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135562.jpg",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133522.jpg",
             "stats": [
-              "+12 Strength",
-              "+14 Spell Power"
+              "+16 Strength",
+              "+15 Stamina"
             ],
             "enchants": []
           },
@@ -1985,7 +2002,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 135,
+            "skill": 136,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -2011,10 +2028,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-13T10:59:26.859Z",
-        "talents": "2026-11-12T02:16:33.361Z",
-        "equipment": "2026-11-13T01:49:56.553Z",
-        "professions": "2026-11-13T01:49:56.553Z",
+        "summary": "2026-11-14T01:27:02.642Z",
+        "talents": "2026-11-14T01:27:02.642Z",
+        "equipment": "2026-11-14T01:27:02.642Z",
+        "professions": "2026-11-14T01:27:02.642Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
