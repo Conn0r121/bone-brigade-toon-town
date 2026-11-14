@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-14T18:02:28.997Z",
+  "fetchedAt": "2026-11-14T22:25:09.679Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -292,20 +292,20 @@
         "summary": {
           "name": "Corener",
           "surname": "Hardboiled",
-          "level": 32,
+          "level": 33,
           "race": "Tauren",
           "class": "Druid",
           "faction": "Horde",
-          "guild": "Midwest Retirement Home",
+          "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 27,
-          "lastUpdated": 1794636332000,
+          "itemLevel": 28,
+          "lastUpdated": 1794680576000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Feral Combat",
-            "points": 22
+            "points": 24
           }
         ],
         "equipment": [
@@ -388,18 +388,16 @@
           {
             "slot": "Hands",
             "slotType": "HANDS",
-            "id": 10413,
-            "name": "Gloves of the Fang",
-            "quality": "RARE",
-            "itemLevel": 19,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132952.jpg",
+            "id": 4107,
+            "name": "Tiger Hunter Gloves",
+            "quality": "UNCOMMON",
+            "itemLevel": 37,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132938.jpg",
             "stats": [
-              "+6 Agility",
-              "+4 Strength"
+              "+8 Agility",
+              "+7 Strength"
             ],
-            "enchants": [
-              "Enchanted: Stamina +3 and Armor +24"
-            ]
+            "enchants": []
           },
           {
             "slot": "Waist",
@@ -520,7 +518,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 126,
+            "skill": 135,
             "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -553,10 +551,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-14T10:27:00.660Z",
-        "talents": "2026-11-14T10:27:00.660Z",
-        "equipment": "2026-11-14T10:27:00.660Z",
-        "professions": "2026-11-14T10:27:00.660Z",
+        "summary": "2026-11-14T22:25:09.679Z",
+        "talents": "2026-11-14T22:25:09.679Z",
+        "equipment": "2026-11-14T22:25:09.679Z",
+        "professions": "2026-11-14T22:25:09.679Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -860,14 +858,14 @@
         "summary": {
           "name": "Cannon",
           "surname": "Eye",
-          "level": 28,
+          "level": 29,
           "race": "Undead",
           "class": "Priest",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 23,
-          "lastUpdated": 1794673815000,
+          "itemLevel": 25,
+          "lastUpdated": 1794691045000,
           "honorableKills": 0
         },
         "talents": [
@@ -972,14 +970,15 @@
           {
             "slot": "Wrist",
             "slotType": "WRIST",
-            "id": 251486,
-            "name": "Tabitha's Cuffs",
-            "quality": "UNCOMMON",
-            "itemLevel": 24,
+            "id": 273036,
+            "name": "Graveweave Bindings",
+            "quality": "RARE",
+            "itemLevel": 31,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132609.jpg",
             "stats": [
-              "+4 Stamina",
-              "+3 Spell Power"
+              "+6 Strength",
+              "+2 Mana Regeneration per 5 sec",
+              "+5 Spell Power"
             ],
             "enchants": []
           },
@@ -1014,14 +1013,15 @@
           {
             "slot": "Legs",
             "slotType": "LEGS",
-            "id": 271207,
-            "name": "Rotmender's Leggings",
-            "quality": "RARE",
-            "itemLevel": 22,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134599.jpg",
+            "id": 6282,
+            "name": "Sacred Burial Trousers",
+            "quality": "UNCOMMON",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134581.jpg",
             "stats": [
-              "+5 Stamina",
-              "+4 Mana Regeneration per 5 sec"
+              "+5 Intellect",
+              "+3 Strength",
+              "+9 Spirit"
             ],
             "enchants": []
           },
@@ -1057,14 +1057,14 @@
           {
             "slot": "Ring 2",
             "slotType": "FINGER_2",
-            "id": 6414,
-            "name": "Seal of Sylvanas",
-            "quality": "RARE",
-            "itemLevel": 29,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133357.jpg",
+            "id": 3760,
+            "name": "Band of the Undercity",
+            "quality": "UNCOMMON",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133345.jpg",
             "stats": [
-              "+8 Stamina",
-              "+6 Attack Power"
+              "+3 Stamina",
+              "+5 Spirit"
             ],
             "enchants": []
           },
@@ -1084,28 +1084,28 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 6318,
-            "name": "Odo's Ley Staff",
+            "id": 273040,
+            "name": "Spine of the Devourer",
             "quality": "RARE",
-            "itemLevel": 26,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135164.jpg",
+            "itemLevel": 33,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135144.jpg",
             "stats": [
-              "+5 Stamina",
-              "+12 Spirit"
+              "+14 Stamina",
+              "+3 Spell Piercing"
             ],
             "enchants": []
           },
           {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 5250,
-            "name": "Charred Wand",
-            "quality": "UNCOMMON",
-            "itemLevel": 28,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135139.jpg",
+            "id": 273043,
+            "name": "Wand of Mana Concentration",
+            "quality": "RARE",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135468.jpg",
             "stats": [
-              "+2 Intellect",
-              "+2 Spell Power"
+              "+4 Intellect",
+              "+2 Mana Regeneration per 5 sec"
             ],
             "enchants": []
           }
@@ -1113,8 +1113,8 @@
         "professions": [
           {
             "name": "Tailoring",
-            "skill": 121,
-            "max": 150,
+            "skill": 130,
+            "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
             "primary": true
           },
@@ -1139,10 +1139,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-14T18:02:28.997Z",
+        "summary": "2026-11-14T22:25:09.679Z",
         "talents": "2026-11-14T10:27:00.660Z",
-        "equipment": "2026-11-14T10:27:00.660Z",
-        "professions": "2026-11-14T10:27:00.660Z",
+        "equipment": "2026-11-14T22:25:09.679Z",
+        "professions": "2026-11-14T22:25:09.679Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1722,7 +1722,7 @@
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1794636066000,
+          "lastUpdated": 1794688703000,
           "honorableKills": 0
         },
         "talents": [
@@ -2004,7 +2004,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-14T10:27:00.660Z",
+        "summary": "2026-11-14T22:25:09.679Z",
         "talents": "2026-11-14T01:27:02.642Z",
         "equipment": "2026-11-14T10:27:00.660Z",
         "professions": "2026-11-14T01:27:02.642Z",
