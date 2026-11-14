@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-14T10:27:00.660Z",
+  "fetchedAt": "2026-11-14T18:02:28.997Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -864,10 +864,10 @@
           "race": "Undead",
           "class": "Priest",
           "faction": "Horde",
-          "guild": null,
+          "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 23,
-          "lastUpdated": 1794635343000,
+          "lastUpdated": 1794673815000,
           "honorableKills": 0
         },
         "talents": [
@@ -1139,7 +1139,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-14T10:27:00.660Z",
+        "summary": "2026-11-14T18:02:28.997Z",
         "talents": "2026-11-14T10:27:00.660Z",
         "equipment": "2026-11-14T10:27:00.660Z",
         "professions": "2026-11-14T10:27:00.660Z",
@@ -1161,13 +1161,13 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1794636800000,
+          "lastUpdated": 1794674536000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Beast Mastery",
-            "points": 23
+            "points": 24
           }
         ],
         "equipment": [
@@ -1395,7 +1395,7 @@
           },
           {
             "name": "Skinning",
-            "skill": 205,
+            "skill": 208,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
@@ -1428,10 +1428,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-14T10:27:00.660Z",
-        "talents": "2026-11-14T10:27:00.660Z",
+        "summary": "2026-11-14T18:02:28.997Z",
+        "talents": "2026-11-14T18:02:28.997Z",
         "equipment": "2026-11-14T10:27:00.660Z",
-        "professions": "2026-11-14T10:27:00.660Z",
+        "professions": "2026-11-14T18:02:28.997Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -2026,7 +2026,7 @@
           "guild": "Veilwalkers",
           "ruleset": "Normal",
           "itemLevel": 23,
-          "lastUpdated": 1794638822000,
+          "lastUpdated": 1794675231000,
           "honorableKills": 0
         },
         "talents": [
@@ -2279,7 +2279,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-14T10:27:00.660Z",
+        "summary": "2026-11-14T18:02:28.997Z",
         "talents": "2026-11-14T10:27:00.660Z",
         "equipment": "2026-11-14T10:27:00.660Z",
         "professions": "2026-11-14T10:27:00.660Z",
