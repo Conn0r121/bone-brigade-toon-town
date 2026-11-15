@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-15T16:22:27.567Z",
+  "fetchedAt": "2026-11-15T22:49:01.064Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -1158,20 +1158,20 @@
         "summary": {
           "name": "Hunting",
           "surname": "Crooner",
-          "level": 33,
+          "level": 34,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1794697573000,
+          "lastUpdated": 1794782445000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Beast Mastery",
-            "points": 24
+            "points": 25
           }
         ],
         "equipment": [
@@ -1414,7 +1414,7 @@
           },
           {
             "name": "Skinning",
-            "skill": 212,
+            "skill": 224,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
@@ -1447,10 +1447,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-15T06:33:44.173Z",
-        "talents": "2026-11-14T18:02:28.997Z",
+        "summary": "2026-11-15T22:49:01.064Z",
+        "talents": "2026-11-15T22:49:01.064Z",
         "equipment": "2026-11-15T06:33:44.173Z",
-        "professions": "2026-11-15T06:33:44.173Z",
+        "professions": "2026-11-15T22:49:01.064Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1750,7 +1750,7 @@
           "guild": "Midwest Retirement Home",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1794720268000,
+          "lastUpdated": 1794766637000,
           "honorableKills": 0
         },
         "talents": [
@@ -2005,7 +2005,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 136,
+            "skill": 138,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -2031,10 +2031,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-15T06:33:44.173Z",
+        "summary": "2026-11-15T22:49:01.064Z",
         "talents": "2026-11-15T06:33:44.173Z",
         "equipment": "2026-11-15T06:33:44.173Z",
-        "professions": "2026-11-14T01:27:02.642Z",
+        "professions": "2026-11-15T22:49:01.064Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -2046,20 +2046,20 @@
         "summary": {
           "name": "Alex",
           "surname": "Dotcom",
-          "level": 30,
+          "level": 31,
           "race": "Orc",
           "class": "Warrior",
           "faction": "Horde",
-          "guild": "Veilwalkers",
+          "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 23,
-          "lastUpdated": 1794723978000,
+          "lastUpdated": 1794780788000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Fury",
-            "points": 21
+            "points": 22
           }
         ],
         "equipment": [
@@ -2241,9 +2241,7 @@
             "stats": [
               "+16 Attack Power"
             ],
-            "enchants": [
-              "Sharpened +2"
-            ]
+            "enchants": []
           },
           {
             "slot": "Off Hand",
@@ -2256,9 +2254,7 @@
             "stats": [
               "+12 Attack Power"
             ],
-            "enchants": [
-              "Sharpened +2"
-            ]
+            "enchants": []
           },
           {
             "slot": "Ranged",
@@ -2310,9 +2306,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-15T06:33:44.173Z",
-        "talents": "2026-11-15T06:33:44.173Z",
-        "equipment": "2026-11-15T06:33:44.173Z",
+        "summary": "2026-11-15T22:49:01.064Z",
+        "talents": "2026-11-15T22:49:01.064Z",
+        "equipment": "2026-11-15T22:49:01.064Z",
         "professions": "2026-11-14T10:27:00.660Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
