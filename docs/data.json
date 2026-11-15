@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-15T06:33:44.173Z",
+  "fetchedAt": "2026-11-15T16:22:27.567Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -17,7 +17,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 27,
-          "lastUpdated": 1794723310000,
+          "lastUpdated": 1794734742000,
           "honorableKills": 0
         },
         "talents": [
@@ -71,15 +71,15 @@
           {
             "slot": "Shoulders",
             "slotType": "SHOULDER",
-            "id": 4197,
-            "name": "Berylline Pads",
+            "id": 7684,
+            "name": "Bloodmage Mantle",
             "quality": "RARE",
-            "itemLevel": 36,
+            "itemLevel": 35,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135036.jpg",
             "stats": [
-              "+10 Intellect",
-              "+5 Stamina",
-              "+7 Spell Power"
+              "+9 Intellect",
+              "+9 Spell Power",
+              "+9 Health Per 5 Sec."
             ],
             "enchants": []
           },
@@ -282,9 +282,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-15T06:33:44.173Z",
+        "summary": "2026-11-15T16:22:27.567Z",
         "talents": "2026-11-14T10:27:00.660Z",
-        "equipment": "2026-11-15T06:33:44.173Z",
+        "equipment": "2026-11-15T16:22:27.567Z",
         "professions": "2026-11-15T06:33:44.173Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
