@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-16T06:30:53.316Z",
+  "fetchedAt": "2026-11-16T19:36:50.781Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -10,14 +10,14 @@
         "summary": {
           "name": "Stardew",
           "surname": "Honeymelon",
-          "level": 33,
+          "level": 34,
           "race": "Undead",
           "class": "Paladin",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 27,
-          "lastUpdated": 1794734742000,
+          "lastUpdated": 1794829083000,
           "honorableKills": 0
         },
         "talents": [
@@ -27,7 +27,7 @@
           },
           {
             "name": "Holy",
-            "points": 9
+            "points": 12
           }
         ],
         "equipment": [
@@ -282,8 +282,8 @@
         }
       },
       "updated": {
-        "summary": "2026-11-15T16:22:27.567Z",
-        "talents": "2026-11-14T10:27:00.660Z",
+        "summary": "2026-11-16T19:36:50.781Z",
+        "talents": "2026-11-16T19:36:50.781Z",
         "equipment": "2026-11-15T16:22:27.567Z",
         "professions": "2026-11-15T06:33:44.173Z",
         "media": "2026-11-10T19:54:12.713Z"
@@ -864,20 +864,20 @@
         "summary": {
           "name": "Cannon",
           "surname": "Eye",
-          "level": 32,
+          "level": 33,
           "race": "Undead",
           "class": "Priest",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1794805941000,
+          "lastUpdated": 1794849446000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Shadow Magic",
-            "points": 15
+            "points": 16
           },
           {
             "name": "Holy",
@@ -1148,8 +1148,8 @@
         }
       },
       "updated": {
-        "summary": "2026-11-16T06:30:53.316Z",
-        "talents": "2026-11-16T06:30:53.316Z",
+        "summary": "2026-11-16T19:36:50.781Z",
+        "talents": "2026-11-16T19:36:50.781Z",
         "equipment": "2026-11-16T06:30:53.316Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T20:19:24.488Z"
@@ -1170,7 +1170,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1794782445000,
+          "lastUpdated": 1794848720000,
           "honorableKills": 0
         },
         "talents": [
@@ -1183,15 +1183,14 @@
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 9859,
-            "name": "Archer's Cap of the Bandit",
+            "id": 10406,
+            "name": "Scaled Leather Headband of the Monkey",
             "quality": "UNCOMMON",
-            "itemLevel": 36,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133117.jpg",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133681.jpg",
             "stats": [
-              "+4 Agility",
-              "+10 Stamina",
-              "+11 Attack Power"
+              "+8 Agility",
+              "+8 Stamina"
             ],
             "enchants": []
           },
@@ -1300,17 +1299,17 @@
           {
             "slot": "Legs",
             "slotType": "LEGS",
-            "id": 7373,
-            "name": "Dusky Leather Leggings",
-            "quality": "UNCOMMON",
-            "itemLevel": 33,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134587.jpg",
+            "id": 9624,
+            "name": "Triprunner Dungarees",
+            "quality": "RARE",
+            "itemLevel": 37,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134588.jpg",
             "stats": [
-              "+13 Agility"
+              "+18 Agility",
+              "+3 Strength",
+              "+6 Stamina"
             ],
-            "enchants": [
-              "Enchanted: Stamina +1 and Armor +8"
-            ]
+            "enchants": []
           },
           {
             "slot": "Feet",
@@ -1452,9 +1451,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-15T22:49:01.064Z",
+        "summary": "2026-11-16T19:36:50.781Z",
         "talents": "2026-11-15T22:49:01.064Z",
-        "equipment": "2026-11-15T06:33:44.173Z",
+        "equipment": "2026-11-16T19:36:50.781Z",
         "professions": "2026-11-15T22:49:01.064Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
