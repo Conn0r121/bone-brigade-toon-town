@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-17T03:54:37.610Z",
+  "fetchedAt": "2026-11-17T16:00:22.856Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -10,24 +10,24 @@
         "summary": {
           "name": "Stardew",
           "surname": "Honeymelon",
-          "level": 34,
+          "level": 35,
           "race": "Undead",
           "class": "Paladin",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 27,
-          "lastUpdated": 1794883518000,
-          "honorableKills": 0
+          "itemLevel": 28,
+          "lastUpdated": 1794917183000,
+          "honorableKills": 1
         },
         "talents": [
           {
-            "name": "Retribution",
+            "name": "Holy",
             "points": 13
           },
           {
-            "name": "Holy",
-            "points": 12
+            "name": "Retribution",
+            "points": 13
           }
         ],
         "equipment": [
@@ -227,14 +227,13 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 267369,
-            "name": "Wolfsbane",
-            "quality": "RARE",
-            "itemLevel": 31,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135326.jpg",
+            "id": 870,
+            "name": "Fiery War Axe",
+            "quality": "EPIC",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132393.jpg",
             "stats": [
-              "+10 Intellect",
-              "+9 Stamina"
+              "+15 Strength"
             ],
             "enchants": []
           }
@@ -242,7 +241,7 @@
         "professions": [
           {
             "name": "Mining",
-            "skill": 140,
+            "skill": 144,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136248.jpg",
             "primary": true
@@ -282,10 +281,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-17T03:54:37.610Z",
-        "talents": "2026-11-16T19:36:50.781Z",
-        "equipment": "2026-11-15T16:22:27.567Z",
-        "professions": "2026-11-15T06:33:44.173Z",
+        "summary": "2026-11-17T16:00:22.856Z",
+        "talents": "2026-11-17T16:00:22.856Z",
+        "equipment": "2026-11-17T16:00:22.856Z",
+        "professions": "2026-11-17T16:00:22.856Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -297,20 +296,20 @@
         "summary": {
           "name": "Corener",
           "surname": "Hardboiled",
-          "level": 36,
+          "level": 37,
           "race": "Tauren",
           "class": "Druid",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1794879810000,
+          "lastUpdated": 1794895778000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Feral Combat",
-            "points": 27
+            "points": 28
           }
         ],
         "equipment": [
@@ -423,14 +422,15 @@
           {
             "slot": "Legs",
             "slotType": "LEGS",
-            "id": 6690,
-            "name": "Ferine Leggings",
+            "id": 274602,
+            "name": "Brinebelly Leggings",
             "quality": "RARE",
-            "itemLevel": 34,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134594.jpg",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134636.jpg",
             "stats": [
-              "+12 Intellect",
-              "+26 Attack Power"
+              "+15 Agility",
+              "+11 Stamina",
+              "+9 Spirit"
             ],
             "enchants": []
           },
@@ -447,7 +447,9 @@
               "+9 Spell Power",
               "+50 Bonus Armor"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Stamina +4 and Armor +32"
+            ]
           },
           {
             "slot": "Ring 1",
@@ -525,7 +527,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 168,
+            "skill": 169,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -558,10 +560,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-17T03:54:37.610Z",
-        "talents": "2026-11-16T06:30:53.316Z",
-        "equipment": "2026-11-16T06:30:53.316Z",
-        "professions": "2026-11-17T03:54:37.610Z",
+        "summary": "2026-11-17T16:00:22.856Z",
+        "talents": "2026-11-17T16:00:22.856Z",
+        "equipment": "2026-11-17T16:00:22.856Z",
+        "professions": "2026-11-17T16:00:22.856Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -573,14 +575,14 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 38,
+          "level": 39,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1794863022000,
+          "lastUpdated": 1794895902000,
           "honorableKills": 1
         },
         "talents": [
@@ -849,7 +851,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-17T03:54:37.610Z",
+        "summary": "2026-11-17T16:00:22.856Z",
         "talents": "2026-11-17T03:54:37.610Z",
         "equipment": "2026-11-17T03:54:37.610Z",
         "professions": "2026-11-15T06:33:44.173Z",
@@ -864,14 +866,14 @@
         "summary": {
           "name": "Cannon",
           "surname": "Eye",
-          "level": 33,
+          "level": 34,
           "race": "Undead",
           "class": "Priest",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1794849446000,
+          "lastUpdated": 1794891851000,
           "honorableKills": 0
         },
         "talents": [
@@ -1065,15 +1067,14 @@
           {
             "slot": "Ring 2",
             "slotType": "FINGER_2",
-            "id": 279845,
-            "name": "Solid Gold Band",
+            "id": 1996,
+            "name": "Voodoo Band",
             "quality": "UNCOMMON",
-            "itemLevel": 36,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133345.jpg",
+            "itemLevel": 37,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133357.jpg",
             "stats": [
-              "+4 Spell Damage",
-              "+11 Spell Healing",
-              "+5 Spirit"
+              "+7 Intellect",
+              "+3 Spirit"
             ],
             "enchants": []
           },
@@ -1148,9 +1149,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-16T19:36:50.781Z",
+        "summary": "2026-11-17T16:00:22.856Z",
         "talents": "2026-11-16T19:36:50.781Z",
-        "equipment": "2026-11-16T06:30:53.316Z",
+        "equipment": "2026-11-17T16:00:22.856Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -1747,14 +1748,14 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 35,
+          "level": 36,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 26,
-          "lastUpdated": 1794870731000,
+          "itemLevel": 29,
+          "lastUpdated": 1794897881000,
           "honorableKills": 0
         },
         "talents": [
@@ -1764,7 +1765,7 @@
           },
           {
             "name": "Restoration",
-            "points": 4
+            "points": 5
           }
         ],
         "equipment": [
@@ -1967,6 +1968,19 @@
             "enchants": []
           },
           {
+            "slot": "Trinket 2",
+            "slotType": "TRINKET_2",
+            "id": 274615,
+            "name": "Heart of the Primeval",
+            "quality": "RARE",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132852.jpg",
+            "stats": [
+              "+18 Frost Resistance"
+            ],
+            "enchants": []
+          },
+          {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
             "id": 6256,
@@ -2013,7 +2027,7 @@
           },
           {
             "name": "Fishing",
-            "skill": 252,
+            "skill": 258,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136245.jpg",
             "primary": false
@@ -2025,10 +2039,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-17T03:54:37.610Z",
-        "talents": "2026-11-16T06:30:53.316Z",
-        "equipment": "2026-11-17T03:54:37.610Z",
-        "professions": "2026-11-17T03:54:37.610Z",
+        "summary": "2026-11-17T16:00:22.856Z",
+        "talents": "2026-11-17T16:00:22.856Z",
+        "equipment": "2026-11-17T16:00:22.856Z",
+        "professions": "2026-11-17T16:00:22.856Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -2040,20 +2054,20 @@
         "summary": {
           "name": "Alex",
           "surname": "Dotcom",
-          "level": 32,
+          "level": 33,
           "race": "Orc",
           "class": "Warrior",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 24,
-          "lastUpdated": 1794807847000,
+          "lastUpdated": 1794889622000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Fury",
-            "points": 23
+            "points": 24
           }
         ],
         "equipment": [
@@ -2102,13 +2116,14 @@
           {
             "slot": "Chest",
             "slotType": "CHEST",
-            "id": 15518,
-            "name": "Spiked Chain Breastplate of Power",
-            "quality": "UNCOMMON",
+            "id": 7133,
+            "name": "Brutal Hauberk",
+            "quality": "RARE",
             "itemLevel": 30,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132639.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132629.jpg",
             "stats": [
-              "+22 Attack Power"
+              "+5 Strength",
+              "+14 Stamina"
             ],
             "enchants": []
           },
@@ -2253,13 +2268,14 @@
           {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 281660,
-            "name": "Iron Star",
-            "quality": "UNCOMMON",
-            "itemLevel": 27,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132330.jpg",
+            "id": 274160,
+            "name": "Quilrager Throwing Axe",
+            "quality": "RARE",
+            "itemLevel": 36,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135421.jpg",
             "stats": [
-              "+3 Agility"
+              "+4 Strength",
+              "+40 Bonus Armor"
             ],
             "enchants": []
           }
@@ -2300,9 +2316,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-16T06:30:53.316Z",
-        "talents": "2026-11-16T06:30:53.316Z",
-        "equipment": "2026-11-16T06:30:53.316Z",
+        "summary": "2026-11-17T16:00:22.856Z",
+        "talents": "2026-11-17T16:00:22.856Z",
+        "equipment": "2026-11-17T16:00:22.856Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
