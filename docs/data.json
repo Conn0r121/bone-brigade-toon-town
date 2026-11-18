@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-18T11:42:54.978Z",
+  "fetchedAt": "2026-11-18T20:32:01.028Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -10,20 +10,20 @@
         "summary": {
           "name": "Stardew",
           "surname": "Honeymelon",
-          "level": 36,
+          "level": 37,
           "race": "Undead",
           "class": "Paladin",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1795001276000,
+          "lastUpdated": 1795029796000,
           "honorableKills": 5
         },
         "talents": [
           {
             "name": "Holy",
-            "points": 14
+            "points": 15
           },
           {
             "name": "Retribution",
@@ -34,14 +34,15 @@
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 6686,
-            "name": "Tusken Helm",
+            "id": 7719,
+            "name": "Raging Berserker's Helm",
             "quality": "RARE",
-            "itemLevel": 34,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133077.jpg",
+            "itemLevel": 42,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133127.jpg",
             "stats": [
               "+13 Strength",
-              "+120 Bonus Armor"
+              "+8 Stamina",
+              "+14 Critical Strike"
             ],
             "enchants": []
           },
@@ -281,9 +282,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-18T11:42:54.978Z",
-        "talents": "2026-11-18T11:42:54.978Z",
-        "equipment": "2026-11-18T11:42:54.978Z",
+        "summary": "2026-11-18T20:32:01.028Z",
+        "talents": "2026-11-18T20:32:01.028Z",
+        "equipment": "2026-11-18T20:32:01.028Z",
         "professions": "2026-11-17T16:00:22.856Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
@@ -296,20 +297,20 @@
         "summary": {
           "name": "Corener",
           "surname": "Hardboiled",
-          "level": 37,
+          "level": 38,
           "race": "Tauren",
           "class": "Druid",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 31,
-          "lastUpdated": 1794981043000,
+          "lastUpdated": 1795022066000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Feral Combat",
-            "points": 28
+            "points": 29
           }
         ],
         "equipment": [
@@ -358,15 +359,15 @@
           {
             "slot": "Chest",
             "slotType": "CHEST",
-            "id": 7439,
-            "name": "Sentinel Breastplate of the Champion",
+            "id": 4119,
+            "name": "Raptor Hunter Tunic",
             "quality": "UNCOMMON",
-            "itemLevel": 40,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132719.jpg",
+            "itemLevel": 43,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132722.jpg",
             "stats": [
-              "+7 Strength",
-              "+12 Stamina",
-              "+3 Defense"
+              "+3 Agility",
+              "+4 Strength",
+              "+16 Stamina"
             ],
             "enchants": [
               "Enchanted: Stamina +3 and Armor +24"
@@ -527,7 +528,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 172,
+            "skill": 180,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -560,10 +561,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-18T11:42:54.978Z",
-        "talents": "2026-11-17T16:00:22.856Z",
-        "equipment": "2026-11-18T11:42:54.978Z",
-        "professions": "2026-11-18T11:42:54.978Z",
+        "summary": "2026-11-18T20:32:01.028Z",
+        "talents": "2026-11-18T20:32:01.028Z",
+        "equipment": "2026-11-18T20:32:01.028Z",
+        "professions": "2026-11-18T20:32:01.028Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -575,14 +576,14 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 39,
+          "level": 40,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 33,
-          "lastUpdated": 1794981194000,
+          "itemLevel": 35,
+          "lastUpdated": 1795030433000,
           "honorableKills": 1
         },
         "talents": [
@@ -643,14 +644,15 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 6449,
-            "name": "Glowing Lizardscale Cloak",
-            "quality": "RARE",
-            "itemLevel": 23,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132656.jpg",
+            "id": 7483,
+            "name": "Ranger Cloak of the Bandit",
+            "quality": "UNCOMMON",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133753.jpg",
             "stats": [
-              "+6 Agility",
-              "+2 Nature Resistance"
+              "+3 Agility",
+              "+7 Stamina",
+              "+7 Attack Power"
             ],
             "enchants": []
           },
@@ -684,33 +686,31 @@
           {
             "slot": "Wrist",
             "slotType": "WRIST",
-            "id": 2032,
-            "name": "Gallan Cuffs",
+            "id": 4043,
+            "name": "Aurora Bracers",
             "quality": "UNCOMMON",
-            "itemLevel": 36,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132609.jpg",
+            "itemLevel": 38,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132606.jpg",
             "stats": [
-              "+7 Intellect",
-              "+3 Stamina"
+              "+8 Intellect",
+              "+2 Stamina"
             ],
             "enchants": []
           },
           {
             "slot": "Hands",
             "slotType": "HANDS",
-            "id": 273054,
-            "name": "Cartilage Shapers",
+            "id": 274610,
+            "name": "Ritual-Binder's Gloves",
             "quality": "RARE",
-            "itemLevel": 33,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132952.jpg",
+            "itemLevel": 42,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132949.jpg",
             "stats": [
-              "+9 Agility",
-              "+8 Spirit",
-              "+4 Skinning Skill"
+              "+13 Agility",
+              "+8 Spell Power",
+              "+6 Spirit"
             ],
-            "enchants": [
-              "Enchanted: Stamina +3 and Armor +24"
-            ]
+            "enchants": []
           },
           {
             "slot": "Waist",
@@ -763,14 +763,14 @@
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
-            "id": 17694,
-            "name": "Band of the Fist",
+            "id": 11986,
+            "name": "Thallium Hoop of the Wolf",
             "quality": "UNCOMMON",
-            "itemLevel": 28,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133344.jpg",
+            "itemLevel": 39,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133348.jpg",
             "stats": [
-              "+4 Agility",
-              "+4 Strength"
+              "+6 Agility",
+              "+6 Spirit"
             ],
             "enchants": []
           },
@@ -868,9 +868,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-18T11:42:54.978Z",
+        "summary": "2026-11-18T20:32:01.028Z",
         "talents": "2026-11-18T00:58:12.359Z",
-        "equipment": "2026-11-18T11:42:54.978Z",
+        "equipment": "2026-11-18T20:32:01.028Z",
         "professions": "2026-11-18T11:42:54.978Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
@@ -890,7 +890,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1794977770000,
+          "lastUpdated": 1795011559000,
           "honorableKills": 0
         },
         "talents": [
@@ -1166,7 +1166,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-18T11:42:54.978Z",
+        "summary": "2026-11-18T20:32:01.028Z",
         "talents": "2026-11-18T00:58:12.359Z",
         "equipment": "2026-11-17T16:00:22.856Z",
         "professions": "2026-11-16T06:30:53.316Z",
@@ -1188,7 +1188,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1794935080000,
+          "lastUpdated": 1795014813000,
           "honorableKills": 0
         },
         "talents": [
@@ -1386,15 +1386,14 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 15231,
-            "name": "Splitting Hatchet of the Bandit",
+            "id": 2080,
+            "name": "Hillborne Axe of the Wolf",
             "quality": "UNCOMMON",
-            "itemLevel": 31,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132405.jpg",
+            "itemLevel": 34,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132402.jpg",
             "stats": [
-              "+2 Agility",
-              "+4 Stamina",
-              "+4 Attack Power"
+              "+3 Agility",
+              "+3 Spirit"
             ],
             "enchants": []
           },
@@ -1443,7 +1442,7 @@
           },
           {
             "name": "Cooking",
-            "skill": 4,
+            "skill": 9,
             "max": 75,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133971.jpg",
             "primary": false
@@ -1469,10 +1468,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-18T00:58:12.359Z",
+        "summary": "2026-11-18T20:32:01.028Z",
         "talents": "2026-11-18T00:58:12.359Z",
-        "equipment": "2026-11-16T19:36:50.781Z",
-        "professions": "2026-11-17T03:54:37.610Z",
+        "equipment": "2026-11-18T20:32:01.028Z",
+        "professions": "2026-11-18T20:32:01.028Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1484,20 +1483,20 @@
         "summary": {
           "name": "Wagwan",
           "surname": "Mebrudduh",
-          "level": 29,
+          "level": 30,
           "race": "Troll",
           "class": "Warlock",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 27,
-          "lastUpdated": 1794979041000,
+          "lastUpdated": 1795030379000,
           "honorableKills": 3
         },
         "talents": [
           {
             "name": "Affliction",
-            "points": 20
+            "points": 21
           }
         ],
         "equipment": [
@@ -1768,8 +1767,8 @@
         }
       },
       "updated": {
-        "summary": "2026-11-18T11:42:54.978Z",
-        "talents": "2026-11-18T11:42:54.978Z",
+        "summary": "2026-11-18T20:32:01.028Z",
+        "talents": "2026-11-18T20:32:01.028Z",
         "equipment": "2026-11-18T11:42:54.978Z",
         "professions": "2026-11-18T11:42:54.978Z",
         "media": "2026-11-10T20:19:24.488Z"
@@ -1783,14 +1782,14 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 37,
+          "level": 38,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 34,
-          "lastUpdated": 1794981676000,
+          "itemLevel": 29,
+          "lastUpdated": 1795033887000,
           "honorableKills": 0
         },
         "talents": [
@@ -1800,7 +1799,7 @@
           },
           {
             "name": "Restoration",
-            "points": 6
+            "points": 7
           }
         ],
         "equipment": [
@@ -1925,14 +1924,16 @@
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 6911,
-            "name": "Moss Cinch",
+            "id": 274605,
+            "name": "Briny Sash",
             "quality": "RARE",
-            "itemLevel": 30,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132514.jpg",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132496.jpg",
             "stats": [
-              "+5 Stamina",
-              "+12 Spell Damage"
+              "+9 Intellect",
+              "+9 Spell Damage",
+              "+26 Spell Healing",
+              "+30 Bonus Armor"
             ],
             "enchants": []
           },
@@ -2026,18 +2027,13 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 280604,
-            "name": "Rage of the Storm",
-            "quality": "RARE",
-            "itemLevel": 40,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133522.jpg",
-            "stats": [
-              "+16 Strength",
-              "+15 Stamina"
-            ],
-            "enchants": [
-              "Windfury 1"
-            ]
+            "id": 6256,
+            "name": "Fishing Pole",
+            "quality": "COMMON",
+            "itemLevel": 1,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132932.jpg",
+            "stats": [],
+            "enchants": []
           },
           {
             "slot": "Ranged",
@@ -2054,14 +2050,14 @@
         "professions": [
           {
             "name": "Alchemy",
-            "skill": 225,
-            "max": 225,
+            "skill": 235,
+            "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136240.jpg",
             "primary": true
           },
           {
             "name": "Herbalism",
-            "skill": 216,
+            "skill": 219,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -2075,7 +2071,7 @@
           },
           {
             "name": "Fishing",
-            "skill": 261,
+            "skill": 263,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136245.jpg",
             "primary": false
@@ -2087,10 +2083,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-18T11:42:54.978Z",
-        "talents": "2026-11-18T11:42:54.978Z",
-        "equipment": "2026-11-18T11:42:54.978Z",
-        "professions": "2026-11-18T11:42:54.978Z",
+        "summary": "2026-11-18T20:32:01.028Z",
+        "talents": "2026-11-18T20:32:01.028Z",
+        "equipment": "2026-11-18T20:32:01.028Z",
+        "professions": "2026-11-18T20:32:01.028Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
