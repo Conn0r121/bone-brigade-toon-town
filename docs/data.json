@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-17T16:00:22.856Z",
+  "fetchedAt": "2026-11-18T00:58:12.359Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -582,13 +582,13 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1794895902000,
+          "lastUpdated": 1794951669000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Marksmanship",
-            "points": 24
+            "points": 25
           },
           {
             "name": "Beast Mastery",
@@ -709,7 +709,7 @@
               "+4 Skinning Skill"
             ],
             "enchants": [
-              "Enchanted: Stamina +1 and Armor +8"
+              "Enchanted: Stamina +3 and Armor +24"
             ]
           },
           {
@@ -739,7 +739,9 @@
               "+3 Strength",
               "+6 Stamina"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Stamina +3 and Armor +24"
+            ]
           },
           {
             "slot": "Feet",
@@ -754,7 +756,9 @@
               "+3 Stamina",
               "+7 Spirit"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Stamina +3 and Armor +24"
+            ]
           },
           {
             "slot": "Ring 1",
@@ -825,8 +829,8 @@
         "professions": [
           {
             "name": "Leatherworking",
-            "skill": 100,
-            "max": 150,
+            "skill": 155,
+            "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136247.jpg",
             "primary": true
           },
@@ -851,10 +855,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-17T16:00:22.856Z",
-        "talents": "2026-11-17T03:54:37.610Z",
-        "equipment": "2026-11-17T03:54:37.610Z",
-        "professions": "2026-11-15T06:33:44.173Z",
+        "summary": "2026-11-18T00:58:12.359Z",
+        "talents": "2026-11-18T00:58:12.359Z",
+        "equipment": "2026-11-18T00:58:12.359Z",
+        "professions": "2026-11-18T00:58:12.359Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -866,20 +870,20 @@
         "summary": {
           "name": "Cannon",
           "surname": "Eye",
-          "level": 34,
+          "level": 35,
           "race": "Undead",
           "class": "Priest",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1794891851000,
+          "lastUpdated": 1794959891000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Shadow Magic",
-            "points": 16
+            "points": 18
           },
           {
             "name": "Holy",
@@ -1149,8 +1153,8 @@
         }
       },
       "updated": {
-        "summary": "2026-11-17T16:00:22.856Z",
-        "talents": "2026-11-16T19:36:50.781Z",
+        "summary": "2026-11-18T00:58:12.359Z",
+        "talents": "2026-11-18T00:58:12.359Z",
         "equipment": "2026-11-17T16:00:22.856Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T20:19:24.488Z"
@@ -1164,20 +1168,20 @@
         "summary": {
           "name": "Hunting",
           "surname": "Crooner",
-          "level": 34,
+          "level": 35,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1794881383000,
+          "lastUpdated": 1794935080000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Beast Mastery",
-            "points": 25
+            "points": 26
           }
         ],
         "equipment": [
@@ -1452,8 +1456,8 @@
         }
       },
       "updated": {
-        "summary": "2026-11-17T03:54:37.610Z",
-        "talents": "2026-11-15T22:49:01.064Z",
+        "summary": "2026-11-18T00:58:12.359Z",
+        "talents": "2026-11-18T00:58:12.359Z",
         "equipment": "2026-11-16T19:36:50.781Z",
         "professions": "2026-11-17T03:54:37.610Z",
         "media": "2026-11-10T20:19:24.488Z"
@@ -1754,8 +1758,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 29,
-          "lastUpdated": 1794897881000,
+          "itemLevel": 34,
+          "lastUpdated": 1794956678000,
           "honorableKills": 0
         },
         "talents": [
@@ -1983,13 +1987,18 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 6256,
-            "name": "Fishing Pole",
-            "quality": "COMMON",
-            "itemLevel": 1,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132932.jpg",
-            "stats": [],
-            "enchants": []
+            "id": 280604,
+            "name": "Rage of the Storm",
+            "quality": "RARE",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133522.jpg",
+            "stats": [
+              "+16 Strength",
+              "+15 Stamina"
+            ],
+            "enchants": [
+              "Windfury 1"
+            ]
           },
           {
             "slot": "Ranged",
@@ -2013,21 +2022,21 @@
           },
           {
             "name": "Herbalism",
-            "skill": 157,
-            "max": 225,
+            "skill": 208,
+            "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
           },
           {
             "name": "Cooking",
-            "skill": 250,
+            "skill": 280,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133971.jpg",
             "primary": false
           },
           {
             "name": "Fishing",
-            "skill": 258,
+            "skill": 261,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136245.jpg",
             "primary": false
@@ -2039,10 +2048,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-17T16:00:22.856Z",
+        "summary": "2026-11-18T00:58:12.359Z",
         "talents": "2026-11-17T16:00:22.856Z",
-        "equipment": "2026-11-17T16:00:22.856Z",
-        "professions": "2026-11-17T16:00:22.856Z",
+        "equipment": "2026-11-18T00:58:12.359Z",
+        "professions": "2026-11-18T00:58:12.359Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
