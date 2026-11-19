@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-19T11:41:40.516Z",
+  "fetchedAt": "2026-11-19T20:38:27.236Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -592,20 +592,20 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 40,
+          "level": 41,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 35,
-          "lastUpdated": 1795066778000,
+          "itemLevel": 36,
+          "lastUpdated": 1795114069000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Marksmanship",
-            "points": 31
+            "points": 32
           }
         ],
         "equipment": [
@@ -726,14 +726,15 @@
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 279846,
-            "name": "Larcenist's Belt",
+            "id": 279882,
+            "name": "Rusted Troll War Belt",
             "quality": "UNCOMMON",
-            "itemLevel": 36,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132493.jpg",
+            "itemLevel": 42,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132498.jpg",
             "stats": [
-              "+6 Agility",
-              "+8 Stamina"
+              "+9 Intellect",
+              "+4 Stamina",
+              "+12 Attack Power"
             ],
             "enchants": []
           },
@@ -879,9 +880,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T11:41:40.516Z",
-        "talents": "2026-11-19T02:34:53.416Z",
-        "equipment": "2026-11-19T11:41:40.516Z",
+        "summary": "2026-11-19T20:38:27.236Z",
+        "talents": "2026-11-19T20:38:27.236Z",
+        "equipment": "2026-11-19T20:38:27.236Z",
         "professions": "2026-11-18T11:42:54.978Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
@@ -900,8 +901,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 30,
-          "lastUpdated": 1795067413000,
+          "itemLevel": 27,
+          "lastUpdated": 1795104393000,
           "honorableKills": 0
         },
         "talents": [
@@ -1124,16 +1125,12 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 274606,
-            "name": "Bloodspine Staff",
-            "quality": "RARE",
-            "itemLevel": 41,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135468.jpg",
-            "stats": [
-              "+11 Intellect",
-              "+12 Stamina",
-              "+12 Spirit"
-            ],
+            "id": 6256,
+            "name": "Fishing Pole",
+            "quality": "COMMON",
+            "itemLevel": 1,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132932.jpg",
+            "stats": [],
             "enchants": []
           },
           {
@@ -1172,6 +1169,13 @@
             "max": 75,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133971.jpg",
             "primary": false
+          },
+          {
+            "name": "Fishing",
+            "skill": 109,
+            "max": 150,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136245.jpg",
+            "primary": false
           }
         ],
         "media": {
@@ -1180,10 +1184,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T11:41:40.516Z",
+        "summary": "2026-11-19T20:38:27.236Z",
         "talents": "2026-11-19T11:41:40.516Z",
-        "equipment": "2026-11-19T11:41:40.516Z",
-        "professions": "2026-11-19T11:41:40.516Z",
+        "equipment": "2026-11-19T20:38:27.236Z",
+        "professions": "2026-11-19T20:38:27.236Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1801,7 +1805,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 35,
-          "lastUpdated": 1795066445000,
+          "lastUpdated": 1795105632000,
           "honorableKills": 0
         },
         "talents": [
@@ -2075,7 +2079,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 219,
+            "skill": 234,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -2101,10 +2105,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T11:41:40.516Z",
+        "summary": "2026-11-19T20:38:27.236Z",
         "talents": "2026-11-19T11:41:40.516Z",
         "equipment": "2026-11-19T11:41:40.516Z",
-        "professions": "2026-11-18T20:32:01.028Z",
+        "professions": "2026-11-19T20:38:27.236Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
