@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-19T02:34:53.416Z",
+  "fetchedAt": "2026-11-19T11:41:40.516Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -17,7 +17,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1795029796000,
+          "lastUpdated": 1795069670000,
           "honorableKills": 5
         },
         "talents": [
@@ -282,7 +282,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-18T20:32:01.028Z",
+        "summary": "2026-11-19T11:41:40.516Z",
         "talents": "2026-11-18T20:32:01.028Z",
         "equipment": "2026-11-18T20:32:01.028Z",
         "professions": "2026-11-17T16:00:22.856Z",
@@ -297,34 +297,50 @@
         "summary": {
           "name": "Corener",
           "surname": "Hardboiled",
-          "level": 39,
+          "level": 40,
           "race": "Tauren",
           "class": "Druid",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 31,
-          "lastUpdated": 1795051170000,
+          "itemLevel": 35,
+          "lastUpdated": 1795067516000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Feral Combat",
-            "points": 30
+            "points": 31
           }
         ],
         "equipment": [
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 7413,
-            "name": "Infiltrator Cap of Arcane Protection",
+            "id": 279930,
+            "name": "Saltseer's Helm",
             "quality": "UNCOMMON",
-            "itemLevel": 33,
+            "itemLevel": 42,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133117.jpg",
             "stats": [
-              "+9 Stamina",
-              "+9 Arcane Resistance"
+              "+12 Intellect",
+              "+8 Spell Power",
+              "+5 Spirit"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Neck",
+            "slotType": "NECK",
+            "id": 7722,
+            "name": "Triune Amulet",
+            "quality": "RARE",
+            "itemLevel": 44,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133276.jpg",
+            "stats": [
+              "+7 Stamina",
+              "+8 Spell Power",
+              "+7 Spirit"
             ],
             "enchants": []
           },
@@ -344,15 +360,15 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 7474,
-            "name": "Regal Cloak of the Bandit",
+            "id": 279884,
+            "name": "South Seas Shroud",
             "quality": "UNCOMMON",
-            "itemLevel": 40,
+            "itemLevel": 42,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133754.jpg",
             "stats": [
-              "+3 Agility",
               "+7 Stamina",
-              "+7 Attack Power"
+              "+3 Defense",
+              "+3 Spirit"
             ],
             "enchants": []
           },
@@ -561,9 +577,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T02:34:53.416Z",
-        "talents": "2026-11-19T02:34:53.416Z",
-        "equipment": "2026-11-18T20:32:01.028Z",
+        "summary": "2026-11-19T11:41:40.516Z",
+        "talents": "2026-11-19T11:41:40.516Z",
+        "equipment": "2026-11-19T11:41:40.516Z",
         "professions": "2026-11-19T02:34:53.416Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
@@ -583,7 +599,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 35,
-          "lastUpdated": 1795037470000,
+          "lastUpdated": 1795066778000,
           "honorableKills": 1
         },
         "talents": [
@@ -596,15 +612,13 @@
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 6688,
-            "name": "Whisperwind Headdress",
-            "quality": "RARE",
-            "itemLevel": 34,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133119.jpg",
+            "id": 7432,
+            "name": "Twilight Cowl of Intellect",
+            "quality": "UNCOMMON",
+            "itemLevel": 38,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133131.jpg",
             "stats": [
-              "+11 Stamina",
-              "+7 Spell Power",
-              "+11 Spirit"
+              "+15 Intellect"
             ],
             "enchants": []
           },
@@ -640,15 +654,16 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 7483,
-            "name": "Ranger Cloak of the Bandit",
-            "quality": "UNCOMMON",
+            "id": 274613,
+            "name": "Priestess Cloak",
+            "quality": "RARE",
             "itemLevel": 40,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133753.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133767.jpg",
             "stats": [
-              "+3 Agility",
-              "+7 Stamina",
-              "+7 Attack Power"
+              "+9 Intellect",
+              "+4 Spell Damage",
+              "+11 Spell Healing",
+              "+4 Mana Regeneration per 5 sec"
             ],
             "enchants": []
           },
@@ -864,9 +879,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T02:34:53.416Z",
+        "summary": "2026-11-19T11:41:40.516Z",
         "talents": "2026-11-19T02:34:53.416Z",
-        "equipment": "2026-11-18T20:32:01.028Z",
+        "equipment": "2026-11-19T11:41:40.516Z",
         "professions": "2026-11-18T11:42:54.978Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
@@ -879,20 +894,20 @@
         "summary": {
           "name": "Cannon",
           "surname": "Eye",
-          "level": 35,
+          "level": 36,
           "race": "Undead",
           "class": "Priest",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 28,
-          "lastUpdated": 1795011559000,
+          "itemLevel": 30,
+          "lastUpdated": 1795067413000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Shadow Magic",
-            "points": 18
+            "points": 19
           },
           {
             "name": "Holy",
@@ -931,15 +946,15 @@
           {
             "slot": "Shoulders",
             "slotType": "SHOULDER",
-            "id": 4197,
-            "name": "Berylline Pads",
-            "quality": "RARE",
-            "itemLevel": 36,
+            "id": 7712,
+            "name": "Mantle of Doan",
+            "quality": "UNCOMMON",
+            "itemLevel": 39,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135036.jpg",
             "stats": [
-              "+10 Intellect",
-              "+5 Stamina",
-              "+7 Spell Power"
+              "+6 Intellect",
+              "+7 Spell Power",
+              "+8 Spirit"
             ],
             "enchants": []
           },
@@ -991,15 +1006,14 @@
           {
             "slot": "Wrist",
             "slotType": "WRIST",
-            "id": 273036,
-            "name": "Graveweave Bindings",
-            "quality": "RARE",
-            "itemLevel": 31,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132609.jpg",
+            "id": 279883,
+            "name": "Mutinous Cuffs",
+            "quality": "UNCOMMON",
+            "itemLevel": 42,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132606.jpg",
             "stats": [
-              "+6 Strength",
-              "+2 Mana Regeneration per 5 sec",
-              "+5 Spell Power"
+              "+7 Stamina",
+              "+7 Spell Power"
             ],
             "enchants": []
           },
@@ -1022,14 +1036,16 @@
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 6908,
-            "name": "Ghamoo-ra's Bind",
+            "id": 274605,
+            "name": "Briny Sash",
             "quality": "RARE",
-            "itemLevel": 27,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132513.jpg",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132496.jpg",
             "stats": [
-              "+7 Stamina",
-              "+8 Spell Power"
+              "+9 Intellect",
+              "+9 Spell Damage",
+              "+26 Spell Healing",
+              "+30 Bonus Armor"
             ],
             "enchants": []
           },
@@ -1080,14 +1096,15 @@
           {
             "slot": "Ring 2",
             "slotType": "FINGER_2",
-            "id": 1996,
-            "name": "Voodoo Band",
+            "id": 279845,
+            "name": "Solid Gold Band",
             "quality": "UNCOMMON",
-            "itemLevel": 37,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133357.jpg",
+            "itemLevel": 36,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133345.jpg",
             "stats": [
-              "+7 Intellect",
-              "+3 Spirit"
+              "+4 Spell Damage",
+              "+11 Spell Healing",
+              "+5 Spirit"
             ],
             "enchants": []
           },
@@ -1107,14 +1124,15 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 273040,
-            "name": "Spine of the Devourer",
+            "id": 274606,
+            "name": "Bloodspine Staff",
             "quality": "RARE",
-            "itemLevel": 33,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135144.jpg",
+            "itemLevel": 41,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135468.jpg",
             "stats": [
-              "+14 Stamina",
-              "+3 Spell Piercing"
+              "+11 Intellect",
+              "+12 Stamina",
+              "+12 Spirit"
             ],
             "enchants": []
           },
@@ -1136,7 +1154,7 @@
         "professions": [
           {
             "name": "Tailoring",
-            "skill": 132,
+            "skill": 143,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
             "primary": true
@@ -1162,10 +1180,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-18T20:32:01.028Z",
-        "talents": "2026-11-18T00:58:12.359Z",
-        "equipment": "2026-11-17T16:00:22.856Z",
-        "professions": "2026-11-16T06:30:53.316Z",
+        "summary": "2026-11-19T11:41:40.516Z",
+        "talents": "2026-11-19T11:41:40.516Z",
+        "equipment": "2026-11-19T11:41:40.516Z",
+        "professions": "2026-11-19T11:41:40.516Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1479,20 +1497,20 @@
         "summary": {
           "name": "Wagwan",
           "surname": "Mebrudduh",
-          "level": 30,
+          "level": 31,
           "race": "Troll",
           "class": "Warlock",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 27,
-          "lastUpdated": 1795030379000,
+          "itemLevel": 28,
+          "lastUpdated": 1795064949000,
           "honorableKills": 3
         },
         "talents": [
           {
             "name": "Affliction",
-            "points": 21
+            "points": 22
           }
         ],
         "equipment": [
@@ -1541,15 +1559,14 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 271719,
-            "name": "Furs of the Earthen Ring",
+            "id": 274149,
+            "name": "Thornweaver Drape",
             "quality": "RARE",
-            "itemLevel": 33,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133756.jpg",
+            "itemLevel": 30,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133763.jpg",
             "stats": [
-              "+5 Intellect",
-              "+5 Strength",
-              "+5 Spirit"
+              "+7 Spell Power",
+              "+6 Spirit"
             ],
             "enchants": []
           },
@@ -1638,15 +1655,15 @@
           {
             "slot": "Feet",
             "slotType": "FEET",
-            "id": 253895,
-            "name": "Shadow Boots",
+            "id": 279843,
+            "name": "Enchanted Sandals",
             "quality": "RARE",
-            "itemLevel": 17,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132562.jpg",
+            "itemLevel": 36,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132539.jpg",
             "stats": [
-              "+3 Intellect",
-              "+4 Stamina",
-              "+6 Shadow Damage"
+              "+10 Stamina",
+              "+9 Spell Power",
+              "+50 Bonus Armor"
             ],
             "enchants": []
           },
@@ -1693,15 +1710,14 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 15242,
-            "name": "Honed Stiletto of the Elder",
-            "quality": "UNCOMMON",
-            "itemLevel": 30,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135637.jpg",
+            "id": 6691,
+            "name": "Swinetusk Shank",
+            "quality": "RARE",
+            "itemLevel": 35,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133723.jpg",
             "stats": [
-              "+4 Intellect",
-              "+24 Spell Power",
-              "+3 Spirit"
+              "+6 Stamina",
+              "+4 Spirit"
             ],
             "enchants": []
           },
@@ -1722,14 +1738,14 @@
           {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 7001,
-            "name": "Gravestone Scepter",
+            "id": 273043,
+            "name": "Wand of Mana Concentration",
             "quality": "RARE",
-            "itemLevel": 29,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135466.jpg",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135468.jpg",
             "stats": [
-              "+3 Spirit",
-              "+6 Shadow Damage"
+              "+4 Intellect",
+              "+2 Mana Regeneration per 5 sec"
             ],
             "enchants": []
           }
@@ -1763,9 +1779,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-18T20:32:01.028Z",
-        "talents": "2026-11-18T20:32:01.028Z",
-        "equipment": "2026-11-18T11:42:54.978Z",
+        "summary": "2026-11-19T11:41:40.516Z",
+        "talents": "2026-11-19T11:41:40.516Z",
+        "equipment": "2026-11-19T11:41:40.516Z",
         "professions": "2026-11-18T11:42:54.978Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -1778,14 +1794,14 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 38,
+          "level": 39,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 34,
-          "lastUpdated": 1795047942000,
+          "itemLevel": 35,
+          "lastUpdated": 1795066445000,
           "honorableKills": 0
         },
         "talents": [
@@ -1795,21 +1811,22 @@
           },
           {
             "name": "Restoration",
-            "points": 7
+            "points": 8
           }
         ],
         "equipment": [
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 4724,
-            "name": "Humbert's Helm",
+            "id": 279930,
+            "name": "Saltseer's Helm",
             "quality": "UNCOMMON",
-            "itemLevel": 30,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133122.jpg",
+            "itemLevel": 42,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133117.jpg",
             "stats": [
-              "+7 Agility",
-              "+8 Stamina"
+              "+12 Intellect",
+              "+8 Spell Power",
+              "+5 Spirit"
             ],
             "enchants": []
           },
@@ -2032,7 +2049,9 @@
               "+16 Strength",
               "+15 Stamina"
             ],
-            "enchants": []
+            "enchants": [
+              "Windfury 1"
+            ]
           },
           {
             "slot": "Ranged",
@@ -2082,9 +2101,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T02:34:53.416Z",
-        "talents": "2026-11-18T20:32:01.028Z",
-        "equipment": "2026-11-19T02:34:53.416Z",
+        "summary": "2026-11-19T11:41:40.516Z",
+        "talents": "2026-11-19T11:41:40.516Z",
+        "equipment": "2026-11-19T11:41:40.516Z",
         "professions": "2026-11-18T20:32:01.028Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -2103,8 +2122,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 24,
-          "lastUpdated": 1794889622000,
+          "itemLevel": 26,
+          "lastUpdated": 1795060333000,
           "honorableKills": 0
         },
         "talents": [
@@ -2228,15 +2247,14 @@
           {
             "slot": "Legs",
             "slotType": "LEGS",
-            "id": 250523,
-            "name": "Veteran's Silvered Chain Leggings",
+            "id": 6690,
+            "name": "Ferine Leggings",
             "quality": "RARE",
-            "itemLevel": 30,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134657.jpg",
+            "itemLevel": 34,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134594.jpg",
             "stats": [
-              "+7 Agility",
-              "+11 Strength",
-              "+8 Stamina"
+              "+12 Intellect",
+              "+26 Attack Power"
             ],
             "enchants": []
           },
@@ -2279,6 +2297,19 @@
             "stats": [
               "+5 Stamina",
               "+5 Block"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Trinket 1",
+            "slotType": "TRINKET_1",
+            "id": 274152,
+            "name": "Roogug's Severed Head",
+            "quality": "RARE",
+            "itemLevel": 30,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134172.jpg",
+            "stats": [
+              "+6 Spirit"
             ],
             "enchants": []
           },
@@ -2359,9 +2390,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-17T16:00:22.856Z",
+        "summary": "2026-11-19T11:41:40.516Z",
         "talents": "2026-11-17T16:00:22.856Z",
-        "equipment": "2026-11-17T16:00:22.856Z",
+        "equipment": "2026-11-19T11:41:40.516Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
