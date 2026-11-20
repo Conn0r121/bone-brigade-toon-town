@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-20T02:20:03.678Z",
+  "fetchedAt": "2026-11-20T11:40:47.456Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -17,7 +17,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1795069670000,
+          "lastUpdated": 1795167582000,
           "honorableKills": 5
         },
         "talents": [
@@ -282,7 +282,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T11:41:40.516Z",
+        "summary": "2026-11-20T11:40:47.456Z",
         "talents": "2026-11-18T20:32:01.028Z",
         "equipment": "2026-11-18T20:32:01.028Z",
         "professions": "2026-11-17T16:00:22.856Z",
@@ -297,20 +297,20 @@
         "summary": {
           "name": "Corener",
           "surname": "Hardboiled",
-          "level": 40,
+          "level": 41,
           "race": "Tauren",
           "class": "Druid",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 35,
-          "lastUpdated": 1795067516000,
+          "lastUpdated": 1795151049000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Feral Combat",
-            "points": 31
+            "points": 32
           }
         ],
         "equipment": [
@@ -406,18 +406,18 @@
           {
             "slot": "Hands",
             "slotType": "HANDS",
-            "id": 9892,
-            "name": "Huntsman's Gloves of the Monkey",
-            "quality": "UNCOMMON",
-            "itemLevel": 40,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132949.jpg",
+            "id": 10777,
+            "name": "Arachnid Gloves of the Bandit",
+            "quality": "RARE",
+            "itemLevel": 42,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132966.jpg",
             "stats": [
-              "+8 Agility",
-              "+8 Stamina"
+              "+4 Agility",
+              "+9 Stamina",
+              "+10 Attack Power",
+              "+10 Nature Resistance"
             ],
-            "enchants": [
-              "Enchanted: Stamina +3 and Armor +24"
-            ]
+            "enchants": []
           },
           {
             "slot": "Waist",
@@ -544,7 +544,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 198,
+            "skill": 200,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -577,10 +577,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T11:41:40.516Z",
-        "talents": "2026-11-19T11:41:40.516Z",
-        "equipment": "2026-11-19T11:41:40.516Z",
-        "professions": "2026-11-19T02:34:53.416Z",
+        "summary": "2026-11-20T11:40:47.456Z",
+        "talents": "2026-11-20T11:40:47.456Z",
+        "equipment": "2026-11-20T11:40:47.456Z",
+        "professions": "2026-11-20T11:40:47.456Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -592,14 +592,14 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 41,
+          "level": 42,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 36,
-          "lastUpdated": 1795124619000,
+          "itemLevel": 37,
+          "lastUpdated": 1795151784000,
           "honorableKills": 1
         },
         "talents": [
@@ -625,14 +625,15 @@
           {
             "slot": "Neck",
             "slotType": "NECK",
-            "id": 273457,
-            "name": "Sorcerer Collar",
+            "id": 10824,
+            "name": "Amberglow Talisman",
             "quality": "RARE",
-            "itemLevel": 22,
+            "itemLevel": 44,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133294.jpg",
             "stats": [
-              "+2 Intellect",
-              "+2 Spirit"
+              "+1 Agility",
+              "+7 Stamina",
+              "+10 Spirit"
             ],
             "enchants": []
           },
@@ -880,9 +881,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-20T02:20:03.678Z",
+        "summary": "2026-11-20T11:40:47.456Z",
         "talents": "2026-11-19T20:38:27.236Z",
-        "equipment": "2026-11-19T20:38:27.236Z",
+        "equipment": "2026-11-20T11:40:47.456Z",
         "professions": "2026-11-18T11:42:54.978Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
@@ -901,8 +902,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 27,
-          "lastUpdated": 1795104393000,
+          "itemLevel": 30,
+          "lastUpdated": 1795152330000,
           "honorableKills": 0
         },
         "talents": [
@@ -1125,12 +1126,16 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 6256,
-            "name": "Fishing Pole",
-            "quality": "COMMON",
-            "itemLevel": 1,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132932.jpg",
-            "stats": [],
+            "id": 274606,
+            "name": "Bloodspine Staff",
+            "quality": "RARE",
+            "itemLevel": 41,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135468.jpg",
+            "stats": [
+              "+11 Intellect",
+              "+12 Stamina",
+              "+12 Spirit"
+            ],
             "enchants": []
           },
           {
@@ -1172,8 +1177,8 @@
           },
           {
             "name": "Fishing",
-            "skill": 109,
-            "max": 150,
+            "skill": 150,
+            "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136245.jpg",
             "primary": false
           }
@@ -1184,10 +1189,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T20:38:27.236Z",
+        "summary": "2026-11-20T11:40:47.456Z",
         "talents": "2026-11-19T11:41:40.516Z",
-        "equipment": "2026-11-19T20:38:27.236Z",
-        "professions": "2026-11-19T20:38:27.236Z",
+        "equipment": "2026-11-20T11:40:47.456Z",
+        "professions": "2026-11-20T11:40:47.456Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1806,20 +1811,20 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 39,
+          "level": 40,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 35,
-          "lastUpdated": 1795133142000,
+          "itemLevel": 36,
+          "lastUpdated": 1795152396000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Enhancement",
-            "points": 22
+            "points": 23
           },
           {
             "name": "Restoration",
@@ -1890,19 +1895,19 @@
           {
             "slot": "Chest",
             "slotType": "CHEST",
-            "id": 273038,
-            "name": "Garb of Fallen Felbark",
+            "id": 10764,
+            "name": "Deathchill Armor",
             "quality": "RARE",
-            "itemLevel": 34,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135013.jpg",
+            "itemLevel": 43,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132747.jpg",
             "stats": [
-              "+13 Intellect",
-              "+9 Agility",
-              "+7 Stamina"
+              "+9 Intellect",
+              "+3 Stamina",
+              "+7 Spell Damage",
+              "+20 Spell Healing",
+              "+15 Spirit"
             ],
-            "enchants": [
-              "Enchanted: Attack Power +4 and Armor +16"
-            ]
+            "enchants": []
           },
           {
             "slot": "Shirt",
@@ -1997,23 +2002,6 @@
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
-            "id": 9461,
-            "name": "Charged Gear of the Knight",
-            "quality": "RARE",
-            "itemLevel": 36,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134063.jpg",
-            "stats": [
-              "+3 Strength",
-              "+6 Stamina",
-              "+3 Spell Power",
-              "+5 Nature Resistance",
-              "+5 Arcane Resistance"
-            ],
-            "enchants": []
-          },
-          {
-            "slot": "Ring 2",
-            "slotType": "FINGER_2",
             "id": 273030,
             "name": "Ring of Power Regulation",
             "quality": "RARE",
@@ -2022,6 +2010,20 @@
             "stats": [
               "+3 Mana Regeneration per 5 sec",
               "+6 Spell Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 2",
+            "slotType": "FINGER_2",
+            "id": 270081,
+            "name": "Purified Ring",
+            "quality": "RARE",
+            "itemLevel": 44,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133343.jpg",
+            "stats": [
+              "+12 Intellect",
+              "+5 Spell Power"
             ],
             "enchants": []
           },
@@ -2111,9 +2113,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-20T02:20:03.678Z",
-        "talents": "2026-11-19T11:41:40.516Z",
-        "equipment": "2026-11-20T02:20:03.678Z",
+        "summary": "2026-11-20T11:40:47.456Z",
+        "talents": "2026-11-20T11:40:47.456Z",
+        "equipment": "2026-11-20T11:40:47.456Z",
         "professions": "2026-11-20T02:20:03.678Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
