@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-19T20:38:27.236Z",
+  "fetchedAt": "2026-11-20T02:20:03.678Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -599,7 +599,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 36,
-          "lastUpdated": 1795114069000,
+          "lastUpdated": 1795124619000,
           "honorableKills": 1
         },
         "talents": [
@@ -880,7 +880,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T20:38:27.236Z",
+        "summary": "2026-11-20T02:20:03.678Z",
         "talents": "2026-11-19T20:38:27.236Z",
         "equipment": "2026-11-19T20:38:27.236Z",
         "professions": "2026-11-18T11:42:54.978Z",
@@ -1508,7 +1508,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1795064949000,
+          "lastUpdated": 1795121599000,
           "honorableKills": 3
         },
         "talents": [
@@ -1572,7 +1572,9 @@
               "+7 Spell Power",
               "+6 Spirit"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Armor +10"
+            ]
           },
           {
             "slot": "Chest",
@@ -1586,7 +1588,9 @@
               "+15 Intellect",
               "+9 Spell Power"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Stamina +3"
+            ]
           },
           {
             "slot": "Shirt",
@@ -1611,7 +1615,9 @@
               "+6 Spell Power",
               "+4 Spirit"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Agility +3"
+            ]
           },
           {
             "slot": "Hands",
@@ -1723,7 +1729,9 @@
               "+6 Stamina",
               "+4 Spirit"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Weapon Damage +1"
+            ]
           },
           {
             "slot": "Off Hand",
@@ -1757,15 +1765,15 @@
         "professions": [
           {
             "name": "Tailoring",
-            "skill": 86,
+            "skill": 122,
             "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
             "primary": true
           },
           {
             "name": "Enchanting",
-            "skill": 72,
-            "max": 75,
+            "skill": 113,
+            "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136244.jpg",
             "primary": true
           },
@@ -1783,10 +1791,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T11:41:40.516Z",
+        "summary": "2026-11-20T02:20:03.678Z",
         "talents": "2026-11-19T11:41:40.516Z",
-        "equipment": "2026-11-19T11:41:40.516Z",
-        "professions": "2026-11-18T11:42:54.978Z",
+        "equipment": "2026-11-20T02:20:03.678Z",
+        "professions": "2026-11-20T02:20:03.678Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1805,7 +1813,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 35,
-          "lastUpdated": 1795105632000,
+          "lastUpdated": 1795133142000,
           "honorableKills": 0
         },
         "talents": [
@@ -2053,9 +2061,7 @@
               "+16 Strength",
               "+15 Stamina"
             ],
-            "enchants": [
-              "Windfury 1"
-            ]
+            "enchants": []
           },
           {
             "slot": "Ranged",
@@ -2079,7 +2085,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 234,
+            "skill": 235,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -2093,7 +2099,7 @@
           },
           {
             "name": "Fishing",
-            "skill": 263,
+            "skill": 265,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136245.jpg",
             "primary": false
@@ -2105,10 +2111,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T20:38:27.236Z",
+        "summary": "2026-11-20T02:20:03.678Z",
         "talents": "2026-11-19T11:41:40.516Z",
-        "equipment": "2026-11-19T11:41:40.516Z",
-        "professions": "2026-11-19T20:38:27.236Z",
+        "equipment": "2026-11-20T02:20:03.678Z",
+        "professions": "2026-11-20T02:20:03.678Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -2126,8 +2132,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 26,
-          "lastUpdated": 1795060333000,
+          "itemLevel": 27,
+          "lastUpdated": 1795138350000,
           "honorableKills": 0
         },
         "talents": [
@@ -2140,14 +2146,14 @@
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 250528,
-            "name": "Veteran's Silvered Chain Helm",
+            "id": 6686,
+            "name": "Tusken Helm",
             "quality": "RARE",
-            "itemLevel": 25,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133141.jpg",
+            "itemLevel": 34,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133077.jpg",
             "stats": [
-              "+10 Strength",
-              "+9 Stamina"
+              "+13 Strength",
+              "+120 Bonus Armor"
             ],
             "enchants": []
           },
@@ -2394,9 +2400,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-19T11:41:40.516Z",
+        "summary": "2026-11-20T02:20:03.678Z",
         "talents": "2026-11-17T16:00:22.856Z",
-        "equipment": "2026-11-19T11:41:40.516Z",
+        "equipment": "2026-11-20T02:20:03.678Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
