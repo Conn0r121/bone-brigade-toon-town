@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-21T02:16:11.311Z",
+  "fetchedAt": "2026-11-21T11:02:07.863Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -17,7 +17,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1795167582000,
+          "lastUpdated": 1795256153000,
           "honorableKills": 5
         },
         "talents": [
@@ -282,7 +282,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-20T11:40:47.456Z",
+        "summary": "2026-11-21T11:02:07.863Z",
         "talents": "2026-11-18T20:32:01.028Z",
         "equipment": "2026-11-18T20:32:01.028Z",
         "professions": "2026-11-17T16:00:22.856Z",
@@ -304,7 +304,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 35,
-          "lastUpdated": 1795151049000,
+          "lastUpdated": 1795234878000,
           "honorableKills": 1
         },
         "talents": [
@@ -317,15 +317,15 @@
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 279930,
-            "name": "Saltseer's Helm",
+            "id": 276105,
+            "name": "Scoutmaster's Eyepatch",
             "quality": "UNCOMMON",
-            "itemLevel": 42,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133117.jpg",
+            "itemLevel": 43,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133148.jpg",
             "stats": [
-              "+12 Intellect",
-              "+8 Spell Power",
-              "+5 Spirit"
+              "+12 Stamina",
+              "+5 Hit",
+              "+10 Spirit"
             ],
             "enchants": []
           },
@@ -544,7 +544,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 200,
+            "skill": 201,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -577,10 +577,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-20T11:40:47.456Z",
+        "summary": "2026-11-21T11:02:07.863Z",
         "talents": "2026-11-20T11:40:47.456Z",
-        "equipment": "2026-11-20T11:40:47.456Z",
-        "professions": "2026-11-20T11:40:47.456Z",
+        "equipment": "2026-11-21T11:02:07.863Z",
+        "professions": "2026-11-21T11:02:07.863Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -599,8 +599,8 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 37,
-          "lastUpdated": 1795212904000,
-          "honorableKills": 1
+          "lastUpdated": 1795234764000,
+          "honorableKills": 2
         },
         "talents": [
           {
@@ -881,7 +881,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T02:16:11.311Z",
+        "summary": "2026-11-21T11:02:07.863Z",
         "talents": "2026-11-20T20:21:37.299Z",
         "equipment": "2026-11-20T11:40:47.456Z",
         "professions": "2026-11-18T11:42:54.978Z",
@@ -1813,20 +1813,20 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 40,
+          "level": 41,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 38,
-          "lastUpdated": 1795212902000,
+          "lastUpdated": 1795236467000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Enhancement",
-            "points": 23
+            "points": 24
           },
           {
             "name": "Restoration",
@@ -2115,8 +2115,8 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T02:16:11.311Z",
-        "talents": "2026-11-20T11:40:47.456Z",
+        "summary": "2026-11-21T11:02:07.863Z",
+        "talents": "2026-11-21T11:02:07.863Z",
         "equipment": "2026-11-21T02:16:11.311Z",
         "professions": "2026-11-20T20:21:37.299Z",
         "media": "2026-11-10T20:19:24.488Z"
@@ -2130,34 +2130,34 @@
         "summary": {
           "name": "Alex",
           "surname": "Dotcom",
-          "level": 33,
+          "level": 34,
           "race": "Orc",
           "class": "Warrior",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 27,
-          "lastUpdated": 1795138350000,
+          "itemLevel": 26,
+          "lastUpdated": 1795245517000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Fury",
-            "points": 24
+            "points": 25
           }
         ],
         "equipment": [
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 6686,
-            "name": "Tusken Helm",
+            "id": 250528,
+            "name": "Veteran's Silvered Chain Helm",
             "quality": "RARE",
-            "itemLevel": 34,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133077.jpg",
+            "itemLevel": 25,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133141.jpg",
             "stats": [
-              "+13 Strength",
-              "+120 Bonus Armor"
+              "+10 Strength",
+              "+9 Stamina"
             ],
             "enchants": []
           },
@@ -2246,29 +2246,29 @@
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 6742,
-            "name": "Stonefist Girdle",
+            "id": 10329,
+            "name": "Scarlet Belt",
             "quality": "RARE",
-            "itemLevel": 36,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132524.jpg",
+            "itemLevel": 37,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132495.jpg",
             "stats": [
-              "+6 Strength",
-              "+5 Stamina",
-              "+100 Bonus Armor"
+              "+12 Strength",
+              "+10 Stamina"
             ],
             "enchants": []
           },
           {
             "slot": "Legs",
             "slotType": "LEGS",
-            "id": 6690,
-            "name": "Ferine Leggings",
+            "id": 250523,
+            "name": "Veteran's Silvered Chain Leggings",
             "quality": "RARE",
-            "itemLevel": 34,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134594.jpg",
+            "itemLevel": 30,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134657.jpg",
             "stats": [
-              "+12 Intellect",
-              "+26 Attack Power"
+              "+7 Agility",
+              "+11 Strength",
+              "+8 Stamina"
             ],
             "enchants": []
           },
@@ -2343,13 +2343,14 @@
           {
             "slot": "Off Hand",
             "slotType": "OFF_HAND",
-            "id": 5191,
-            "name": "Cruel Barb",
-            "quality": "RARE",
-            "itemLevel": 24,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135325.jpg",
+            "id": 863,
+            "name": "Gloom Reaper of the Falcon",
+            "quality": "UNCOMMON",
+            "itemLevel": 37,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132399.jpg",
             "stats": [
-              "+12 Attack Power"
+              "+4 Intellect",
+              "+4 Agility"
             ],
             "enchants": []
           },
@@ -2404,9 +2405,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-20T02:20:03.678Z",
-        "talents": "2026-11-17T16:00:22.856Z",
-        "equipment": "2026-11-20T02:20:03.678Z",
+        "summary": "2026-11-21T11:02:07.863Z",
+        "talents": "2026-11-21T11:02:07.863Z",
+        "equipment": "2026-11-21T11:02:07.863Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
