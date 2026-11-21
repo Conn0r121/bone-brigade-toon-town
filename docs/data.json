@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-21T11:02:07.863Z",
+  "fetchedAt": "2026-11-21T19:16:45.835Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -17,7 +17,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1795256153000,
+          "lastUpdated": 1795287848000,
           "honorableKills": 5
         },
         "talents": [
@@ -282,7 +282,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T11:02:07.863Z",
+        "summary": "2026-11-21T19:16:45.835Z",
         "talents": "2026-11-18T20:32:01.028Z",
         "equipment": "2026-11-18T20:32:01.028Z",
         "professions": "2026-11-17T16:00:22.856Z",
@@ -592,20 +592,20 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 42,
+          "level": 43,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 37,
-          "lastUpdated": 1795234764000,
+          "lastUpdated": 1795282639000,
           "honorableKills": 2
         },
         "talents": [
           {
             "name": "Marksmanship",
-            "points": 33
+            "points": 34
           }
         ],
         "equipment": [
@@ -881,8 +881,8 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T11:02:07.863Z",
-        "talents": "2026-11-20T20:21:37.299Z",
+        "summary": "2026-11-21T19:16:45.835Z",
+        "talents": "2026-11-21T19:16:45.835Z",
         "equipment": "2026-11-20T11:40:47.456Z",
         "professions": "2026-11-18T11:42:54.978Z",
         "media": "2026-11-10T19:54:12.713Z"
@@ -902,8 +902,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 31,
-          "lastUpdated": 1795221150000,
+          "itemLevel": 32,
+          "lastUpdated": 1795279297000,
           "honorableKills": 0
         },
         "talents": [
@@ -1071,29 +1071,32 @@
           {
             "slot": "Feet",
             "slotType": "FEET",
-            "id": 271214,
-            "name": "Rotmender's Treads",
+            "id": 9454,
+            "name": "Acidic Walkers",
             "quality": "RARE",
-            "itemLevel": 24,
+            "itemLevel": 32,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132539.jpg",
             "stats": [
-              "+7 Stamina",
-              "+5 Spell Damage",
-              "+15 Spell Healing"
+              "+8 Intellect",
+              "+5 Spell Power",
+              "+5 Nature Resistance",
+              "+4 Spirit"
             ],
             "enchants": []
           },
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
-            "id": 6750,
-            "name": "Snake Hoop",
-            "quality": "UNCOMMON",
-            "itemLevel": 32,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133348.jpg",
+            "id": 9447,
+            "name": "Electrocutioner Lagnut",
+            "quality": "RARE",
+            "itemLevel": 34,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134066.jpg",
             "stats": [
-              "+5 Intellect",
-              "+6 Spell Power"
+              "+4 Stamina",
+              "+3 Spell Damage",
+              "+9 Spell Healing",
+              "+7 Spirit"
             ],
             "enchants": []
           },
@@ -1158,7 +1161,7 @@
         "professions": [
           {
             "name": "Tailoring",
-            "skill": 143,
+            "skill": 147,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
             "primary": true
@@ -1191,10 +1194,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T02:16:11.311Z",
+        "summary": "2026-11-21T19:16:45.835Z",
         "talents": "2026-11-20T20:21:37.299Z",
-        "equipment": "2026-11-21T02:16:11.311Z",
-        "professions": "2026-11-20T11:40:47.456Z",
+        "equipment": "2026-11-21T19:16:45.835Z",
+        "professions": "2026-11-21T19:16:45.835Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1820,7 +1823,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 38,
-          "lastUpdated": 1795236467000,
+          "lastUpdated": 1795276792000,
           "honorableKills": 0
         },
         "talents": [
@@ -2115,7 +2118,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T11:02:07.863Z",
+        "summary": "2026-11-21T19:16:45.835Z",
         "talents": "2026-11-21T11:02:07.863Z",
         "equipment": "2026-11-21T02:16:11.311Z",
         "professions": "2026-11-20T20:21:37.299Z",
@@ -2136,8 +2139,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 26,
-          "lastUpdated": 1795245517000,
+          "itemLevel": 27,
+          "lastUpdated": 1795279053000,
           "honorableKills": 0
         },
         "talents": [
@@ -2289,14 +2292,14 @@
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
-            "id": 3739,
-            "name": "Skull Ring",
-            "quality": "UNCOMMON",
-            "itemLevel": 25,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132501.jpg",
+            "id": 9588,
+            "name": "Nogg's Gold Ring",
+            "quality": "RARE",
+            "itemLevel": 37,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133345.jpg",
             "stats": [
-              "+3 Intellect",
-              "+3 Stamina"
+              "+10 Stamina",
+              "+3 Defense"
             ],
             "enchants": []
           },
@@ -2405,9 +2408,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T11:02:07.863Z",
+        "summary": "2026-11-21T19:16:45.835Z",
         "talents": "2026-11-21T11:02:07.863Z",
-        "equipment": "2026-11-21T11:02:07.863Z",
+        "equipment": "2026-11-21T19:16:45.835Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
