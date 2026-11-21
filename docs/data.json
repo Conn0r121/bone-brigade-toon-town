@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-20T20:21:37.299Z",
+  "fetchedAt": "2026-11-21T02:16:11.311Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -599,7 +599,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 37,
-          "lastUpdated": 1795205879000,
+          "lastUpdated": 1795212904000,
           "honorableKills": 1
         },
         "talents": [
@@ -881,7 +881,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-20T20:21:37.299Z",
+        "summary": "2026-11-21T02:16:11.311Z",
         "talents": "2026-11-20T20:21:37.299Z",
         "equipment": "2026-11-20T11:40:47.456Z",
         "professions": "2026-11-18T11:42:54.978Z",
@@ -902,8 +902,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 30,
-          "lastUpdated": 1795197666000,
+          "itemLevel": 31,
+          "lastUpdated": 1795221150000,
           "honorableKills": 0
         },
         "talents": [
@@ -924,12 +924,16 @@
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 273645,
-            "name": "Blindwatcher's Sight",
+            "id": 9492,
+            "name": "Electromagnetic Gigaflux Reactivator",
             "quality": "RARE",
-            "itemLevel": 26,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133693.jpg",
-            "stats": [],
+            "itemLevel": 36,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132995.jpg",
+            "stats": [
+              "+8 Intellect",
+              "+8 Spell Power",
+              "+9 Spirit"
+            ],
             "enchants": []
           },
           {
@@ -978,21 +982,18 @@
           {
             "slot": "Chest",
             "slotType": "CHEST",
-            "id": 6324,
-            "name": "Robes of Arugal",
+            "id": 9623,
+            "name": "Civinad Robes",
             "quality": "RARE",
-            "itemLevel": 28,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132672.jpg",
+            "itemLevel": 37,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132659.jpg",
             "stats": [
-              "+5 Stamina",
-              "+6 Spell Damage",
-              "+18 Spell Healing",
-              "+8 Shadow Resistance",
-              "+6 Spirit"
+              "+7 Stamina",
+              "+9 Spell Damage",
+              "+26 Spell Healing",
+              "+12 Spirit"
             ],
-            "enchants": [
-              "Enchanted: Stamina +2"
-            ]
+            "enchants": []
           },
           {
             "slot": "Shirt",
@@ -1008,14 +1009,14 @@
           {
             "slot": "Wrist",
             "slotType": "WRIST",
-            "id": 279883,
-            "name": "Mutinous Cuffs",
-            "quality": "UNCOMMON",
-            "itemLevel": 42,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132606.jpg",
+            "id": 9448,
+            "name": "Spidertank Oilrag",
+            "quality": "RARE",
+            "itemLevel": 34,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133679.jpg",
             "stats": [
-              "+7 Stamina",
-              "+7 Spell Power"
+              "+3 Mana Regeneration per 5 sec",
+              "+9 Spell Power"
             ],
             "enchants": []
           },
@@ -1054,15 +1055,16 @@
           {
             "slot": "Legs",
             "slotType": "LEGS",
-            "id": 6282,
-            "name": "Sacred Burial Trousers",
+            "id": 9825,
+            "name": "Durable Pants of the Physician",
             "quality": "UNCOMMON",
-            "itemLevel": 32,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134581.jpg",
+            "itemLevel": 33,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134589.jpg",
             "stats": [
               "+5 Intellect",
-              "+3 Strength",
-              "+9 Spirit"
+              "+9 Stamina",
+              "+3 Spell Damage",
+              "+9 Spell Healing"
             ],
             "enchants": []
           },
@@ -1189,9 +1191,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-20T20:21:37.299Z",
+        "summary": "2026-11-21T02:16:11.311Z",
         "talents": "2026-11-20T20:21:37.299Z",
-        "equipment": "2026-11-20T20:21:37.299Z",
+        "equipment": "2026-11-21T02:16:11.311Z",
         "professions": "2026-11-20T11:40:47.456Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -1818,7 +1820,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 38,
-          "lastUpdated": 1795205925000,
+          "lastUpdated": 1795212902000,
           "honorableKills": 0
         },
         "talents": [
@@ -2061,7 +2063,9 @@
               "+8 Strength",
               "+14 Stamina"
             ],
-            "enchants": []
+            "enchants": [
+              "Windfury 2"
+            ]
           },
           {
             "slot": "Ranged",
@@ -2111,9 +2115,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-20T20:21:37.299Z",
+        "summary": "2026-11-21T02:16:11.311Z",
         "talents": "2026-11-20T11:40:47.456Z",
-        "equipment": "2026-11-20T20:21:37.299Z",
+        "equipment": "2026-11-21T02:16:11.311Z",
         "professions": "2026-11-20T20:21:37.299Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
