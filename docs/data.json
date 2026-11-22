@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-22T01:20:10.769Z",
+  "fetchedAt": "2026-11-22T11:25:53.314Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -297,14 +297,14 @@
         "summary": {
           "name": "Corener",
           "surname": "Hardboiled",
-          "level": 43,
+          "level": 44,
           "race": "Tauren",
           "class": "Druid",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 37,
-          "lastUpdated": 1795298393000,
+          "lastUpdated": 1795329903000,
           "honorableKills": 2
         },
         "talents": [
@@ -314,7 +314,7 @@
           },
           {
             "name": "Restoration",
-            "points": 1
+            "points": 3
           }
         ],
         "equipment": [
@@ -336,15 +336,15 @@
           {
             "slot": "Neck",
             "slotType": "NECK",
-            "id": 7722,
-            "name": "Triune Amulet",
+            "id": 275004,
+            "name": "Chain of the Corruptor",
             "quality": "RARE",
-            "itemLevel": 44,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133276.jpg",
+            "itemLevel": 46,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133306.jpg",
             "stats": [
-              "+7 Stamina",
-              "+8 Spell Power",
-              "+7 Spirit"
+              "+4 Agility",
+              "+12 Stamina",
+              "+5 Spell Power"
             ],
             "enchants": []
           },
@@ -394,6 +394,17 @@
             ]
           },
           {
+            "slot": "Shirt",
+            "slotType": "SHIRT",
+            "id": 270334,
+            "name": "Sweat-Stained Shirt",
+            "quality": "COMMON",
+            "itemLevel": 1,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135009.jpg",
+            "stats": [],
+            "enchants": []
+          },
+          {
             "slot": "Wrist",
             "slotType": "WRIST",
             "id": 270032,
@@ -421,7 +432,9 @@
               "+10 Attack Power",
               "+10 Nature Resistance"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Attack Power +8 and Armor +32"
+            ]
           },
           {
             "slot": "Waist",
@@ -452,7 +465,9 @@
               "+47 Bonus Armor",
               "+6 Spirit"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Attack Power +8 and Armor +32"
+            ]
           },
           {
             "slot": "Feet",
@@ -516,14 +531,13 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 275011,
-            "name": "Thud Hammer",
-            "quality": "UNCOMMON",
-            "itemLevel": 46,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133046.jpg",
+            "id": 279480,
+            "name": "Bigger Rock on Bigger Stick",
+            "quality": "RARE",
+            "itemLevel": 47,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133479.jpg",
             "stats": [
-              "+13 Strength",
-              "+13 Stamina"
+              "+14 Strength"
             ],
             "enchants": []
           },
@@ -556,7 +570,7 @@
           },
           {
             "name": "Cooking",
-            "skill": 2,
+            "skill": 3,
             "max": 75,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133971.jpg",
             "primary": false
@@ -582,10 +596,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T01:20:10.769Z",
-        "talents": "2026-11-22T01:20:10.769Z",
-        "equipment": "2026-11-22T01:20:10.769Z",
-        "professions": "2026-11-22T01:20:10.769Z",
+        "summary": "2026-11-22T11:25:53.314Z",
+        "talents": "2026-11-22T11:25:53.314Z",
+        "equipment": "2026-11-22T11:25:53.314Z",
+        "professions": "2026-11-22T11:25:53.314Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -597,20 +611,24 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 43,
+          "level": 44,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 37,
-          "lastUpdated": 1795306621000,
+          "itemLevel": 38,
+          "lastUpdated": 1795330136000,
           "honorableKills": 2
         },
         "talents": [
           {
             "name": "Marksmanship",
             "points": 34
+          },
+          {
+            "name": "Beast Mastery",
+            "points": 1
           }
         ],
         "equipment": [
@@ -630,15 +648,15 @@
           {
             "slot": "Neck",
             "slotType": "NECK",
-            "id": 10824,
-            "name": "Amberglow Talisman",
-            "quality": "RARE",
-            "itemLevel": 44,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133294.jpg",
+            "id": 279859,
+            "name": "Indoctrinated Choker",
+            "quality": "UNCOMMON",
+            "itemLevel": 46,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133298.jpg",
             "stats": [
-              "+1 Agility",
-              "+7 Stamina",
-              "+10 Spirit"
+              "+5 Stamina",
+              "+8 Attack Power",
+              "+6 Spirit"
             ],
             "enchants": []
           },
@@ -703,14 +721,14 @@
           {
             "slot": "Wrist",
             "slotType": "WRIST",
-            "id": 4043,
-            "name": "Aurora Bracers",
+            "id": 4061,
+            "name": "Imperial Leather Bracers",
             "quality": "UNCOMMON",
-            "itemLevel": 38,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132606.jpg",
+            "itemLevel": 42,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132602.jpg",
             "stats": [
-              "+8 Intellect",
-              "+2 Stamina"
+              "+8 Agility",
+              "+4 Stamina"
             ],
             "enchants": []
           },
@@ -833,27 +851,41 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 7710,
-            "name": "Loksey's Training Stick",
-            "quality": "RARE",
-            "itemLevel": 36,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135155.jpg",
+            "id": 15234,
+            "name": "Greater Scythe of the Falcon",
+            "quality": "UNCOMMON",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132394.jpg",
             "stats": [
-              "+28 Attack Power"
+              "+5 Intellect",
+              "+5 Agility"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Off Hand",
+            "slotType": "OFF_HAND",
+            "id": 275007,
+            "name": "Mugg's Jabber",
+            "quality": "RARE",
+            "itemLevel": 47,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135593.jpg",
+            "stats": [
+              "+5 Agility",
+              "+6 Stamina",
+              "+18 Attack Power Vs Humanoids"
             ],
             "enchants": []
           },
           {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 274293,
-            "name": "Spellsever Crossbow",
-            "quality": "RARE",
-            "itemLevel": 39,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135536.jpg",
-            "stats": [
-              "+8 Attack Power"
-            ],
+            "id": 2825,
+            "name": "Bow of Searing Arrows",
+            "quality": "EPIC",
+            "itemLevel": 42,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135497.jpg",
+            "stats": [],
             "enchants": []
           }
         ],
@@ -886,9 +918,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T01:20:10.769Z",
-        "talents": "2026-11-21T19:16:45.835Z",
-        "equipment": "2026-11-20T11:40:47.456Z",
+        "summary": "2026-11-22T11:25:53.314Z",
+        "talents": "2026-11-22T11:25:53.314Z",
+        "equipment": "2026-11-22T11:25:53.314Z",
         "professions": "2026-11-18T11:42:54.978Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
@@ -901,14 +933,14 @@
         "summary": {
           "name": "Cannon",
           "surname": "Eye",
-          "level": 37,
+          "level": 38,
           "race": "Undead",
           "class": "Priest",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 32,
-          "lastUpdated": 1795279297000,
+          "lastUpdated": 1795326089000,
           "honorableKills": 0
         },
         "talents": [
@@ -918,7 +950,7 @@
           },
           {
             "name": "Holy",
-            "points": 7
+            "points": 8
           },
           {
             "name": "Discipline",
@@ -1199,8 +1231,8 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T19:16:45.835Z",
-        "talents": "2026-11-20T20:21:37.299Z",
+        "summary": "2026-11-22T11:25:53.314Z",
+        "talents": "2026-11-22T11:25:53.314Z",
         "equipment": "2026-11-21T19:16:45.835Z",
         "professions": "2026-11-21T19:16:45.835Z",
         "media": "2026-11-10T20:19:24.488Z"
@@ -1829,7 +1861,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 38,
-          "lastUpdated": 1795304918000,
+          "lastUpdated": 1795331372000,
           "honorableKills": 0
         },
         "talents": [
@@ -1967,16 +1999,16 @@
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 274605,
-            "name": "Briny Sash",
+            "id": 286429,
+            "name": "Big-Belly Belt",
             "quality": "RARE",
-            "itemLevel": 40,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132496.jpg",
+            "itemLevel": 45,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132494.jpg",
             "stats": [
-              "+9 Intellect",
+              "+8 Strength",
               "+9 Spell Damage",
               "+26 Spell Healing",
-              "+30 Bonus Armor"
+              "+9 Spirit"
             ],
             "enchants": []
           },
@@ -2068,15 +2100,13 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 7723,
-            "name": "Mograine's Might",
+            "id": 279480,
+            "name": "Bigger Rock on Bigger Stick",
             "quality": "RARE",
-            "itemLevel": 44,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133488.jpg",
+            "itemLevel": 47,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133479.jpg",
             "stats": [
-              "+16 Intellect",
-              "+8 Strength",
-              "+14 Stamina"
+              "+14 Strength"
             ],
             "enchants": [
               "Windfury 2"
@@ -2104,7 +2134,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 248,
+            "skill": 250,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -2130,10 +2160,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T01:20:10.769Z",
+        "summary": "2026-11-22T11:25:53.314Z",
         "talents": "2026-11-22T01:20:10.769Z",
-        "equipment": "2026-11-22T01:20:10.769Z",
-        "professions": "2026-11-20T20:21:37.299Z",
+        "equipment": "2026-11-22T11:25:53.314Z",
+        "professions": "2026-11-22T11:25:53.314Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -2152,7 +2182,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 27,
-          "lastUpdated": 1795306074000,
+          "lastUpdated": 1795327064000,
           "honorableKills": 0
         },
         "talents": [
@@ -2420,7 +2450,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T01:20:10.769Z",
+        "summary": "2026-11-22T11:25:53.314Z",
         "talents": "2026-11-21T11:02:07.863Z",
         "equipment": "2026-11-21T19:16:45.835Z",
         "professions": "2026-11-16T06:30:53.316Z",
