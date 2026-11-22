@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-22T11:25:53.314Z",
+  "fetchedAt": "2026-11-22T19:41:15.671Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -618,7 +618,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 38,
-          "lastUpdated": 1795330136000,
+          "lastUpdated": 1795370534000,
           "honorableKills": 2
         },
         "talents": [
@@ -918,7 +918,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T11:25:53.314Z",
+        "summary": "2026-11-22T19:41:15.671Z",
         "talents": "2026-11-22T11:25:53.314Z",
         "equipment": "2026-11-22T11:25:53.314Z",
         "professions": "2026-11-18T11:42:54.978Z",
@@ -940,7 +940,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 32,
-          "lastUpdated": 1795326089000,
+          "lastUpdated": 1795369743000,
           "honorableKills": 0
         },
         "talents": [
@@ -1004,31 +1004,28 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 271719,
-            "name": "Furs of the Earthen Ring",
-            "quality": "RARE",
-            "itemLevel": 33,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133756.jpg",
+            "id": 9805,
+            "name": "Superior Cloak of Fiery Wrath",
+            "quality": "UNCOMMON",
+            "itemLevel": 24,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133762.jpg",
             "stats": [
-              "+5 Intellect",
-              "+5 Strength",
-              "+5 Spirit"
+              "+7 Fire Damage"
             ],
             "enchants": []
           },
           {
             "slot": "Chest",
             "slotType": "CHEST",
-            "id": 9623,
-            "name": "Civinad Robes",
-            "quality": "RARE",
-            "itemLevel": 37,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132659.jpg",
+            "id": 7711,
+            "name": "Robe of Doan",
+            "quality": "UNCOMMON",
+            "itemLevel": 39,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132666.jpg",
             "stats": [
-              "+7 Stamina",
-              "+9 Spell Damage",
-              "+26 Spell Healing",
-              "+12 Spirit"
+              "+4 Stamina",
+              "+8 Spirit",
+              "+16 Fire Damage"
             ],
             "enchants": []
           },
@@ -1076,16 +1073,14 @@
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 274605,
-            "name": "Briny Sash",
+            "id": 10771,
+            "name": "Deathmage Sash",
             "quality": "RARE",
-            "itemLevel": 40,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132496.jpg",
+            "itemLevel": 41,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132513.jpg",
             "stats": [
-              "+9 Intellect",
-              "+9 Spell Damage",
-              "+26 Spell Healing",
-              "+30 Bonus Armor"
+              "+15 Intellect",
+              "+7 Spell Power"
             ],
             "enchants": []
           },
@@ -1124,6 +1119,20 @@
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
+            "id": 270081,
+            "name": "Purified Ring",
+            "quality": "RARE",
+            "itemLevel": 44,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133343.jpg",
+            "stats": [
+              "+12 Intellect",
+              "+5 Spell Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 2",
+            "slotType": "FINGER_2",
             "id": 9447,
             "name": "Electrocutioner Lagnut",
             "quality": "RARE",
@@ -1134,21 +1143,6 @@
               "+3 Spell Damage",
               "+9 Spell Healing",
               "+7 Spirit"
-            ],
-            "enchants": []
-          },
-          {
-            "slot": "Ring 2",
-            "slotType": "FINGER_2",
-            "id": 279845,
-            "name": "Solid Gold Band",
-            "quality": "UNCOMMON",
-            "itemLevel": 36,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133345.jpg",
-            "stats": [
-              "+4 Spell Damage",
-              "+11 Spell Healing",
-              "+5 Spirit"
             ],
             "enchants": []
           },
@@ -1231,9 +1225,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T11:25:53.314Z",
+        "summary": "2026-11-22T19:41:15.671Z",
         "talents": "2026-11-22T11:25:53.314Z",
-        "equipment": "2026-11-21T19:16:45.835Z",
+        "equipment": "2026-11-22T19:41:15.671Z",
         "professions": "2026-11-21T19:16:45.835Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -1556,7 +1550,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1795121599000,
+          "lastUpdated": 1795370162000,
           "honorableKills": 3
         },
         "talents": [
@@ -1839,7 +1833,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-20T02:20:03.678Z",
+        "summary": "2026-11-22T19:41:15.671Z",
         "talents": "2026-11-19T11:41:40.516Z",
         "equipment": "2026-11-20T02:20:03.678Z",
         "professions": "2026-11-20T02:20:03.678Z",
@@ -1861,7 +1855,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 38,
-          "lastUpdated": 1795331372000,
+          "lastUpdated": 1795371449000,
           "honorableKills": 0
         },
         "talents": [
@@ -2108,9 +2102,7 @@
             "stats": [
               "+14 Strength"
             ],
-            "enchants": [
-              "Windfury 2"
-            ]
+            "enchants": []
           },
           {
             "slot": "Ranged",
@@ -2134,7 +2126,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 250,
+            "skill": 272,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -2160,10 +2152,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T11:25:53.314Z",
+        "summary": "2026-11-22T19:41:15.671Z",
         "talents": "2026-11-22T01:20:10.769Z",
-        "equipment": "2026-11-22T11:25:53.314Z",
-        "professions": "2026-11-22T11:25:53.314Z",
+        "equipment": "2026-11-22T19:41:15.671Z",
+        "professions": "2026-11-22T19:41:15.671Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
