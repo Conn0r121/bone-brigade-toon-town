@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-21T19:16:45.835Z",
+  "fetchedAt": "2026-11-22T01:20:10.769Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -297,20 +297,24 @@
         "summary": {
           "name": "Corener",
           "surname": "Hardboiled",
-          "level": 41,
+          "level": 43,
           "race": "Tauren",
           "class": "Druid",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 35,
-          "lastUpdated": 1795234878000,
-          "honorableKills": 1
+          "itemLevel": 37,
+          "lastUpdated": 1795298393000,
+          "honorableKills": 2
         },
         "talents": [
           {
             "name": "Feral Combat",
             "points": 32
+          },
+          {
+            "name": "Restoration",
+            "points": 1
           }
         ],
         "equipment": [
@@ -437,19 +441,18 @@
           {
             "slot": "Legs",
             "slotType": "LEGS",
-            "id": 274602,
-            "name": "Brinebelly Leggings",
-            "quality": "RARE",
-            "itemLevel": 40,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134636.jpg",
+            "id": 274962,
+            "name": "Crocskin Waders",
+            "quality": "UNCOMMON",
+            "itemLevel": 42,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134593.jpg",
             "stats": [
-              "+15 Agility",
+              "+8 Strength",
               "+11 Stamina",
-              "+9 Spirit"
+              "+47 Bonus Armor",
+              "+6 Spirit"
             ],
-            "enchants": [
-              "Enchanted: Stamina +3 and Armor +24"
-            ]
+            "enchants": []
           },
           {
             "slot": "Feet",
@@ -471,12 +474,14 @@
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
-            "id": 9588,
-            "name": "Nogg's Gold Ring",
+            "id": 275045,
+            "name": "Ogre Horn Ring",
             "quality": "RARE",
-            "itemLevel": 37,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133345.jpg",
+            "itemLevel": 45,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133722.jpg",
             "stats": [
+              "+3 Agility",
+              "+4 Strength",
               "+10 Stamina",
               "+3 Defense"
             ],
@@ -511,14 +516,14 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 271766,
-            "name": "Heavehammer",
-            "quality": "RARE",
-            "itemLevel": 33,
+            "id": 275011,
+            "name": "Thud Hammer",
+            "quality": "UNCOMMON",
+            "itemLevel": 46,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133046.jpg",
             "stats": [
-              "+32 Attack Power",
-              "+60 Bonus Armor"
+              "+13 Strength",
+              "+13 Stamina"
             ],
             "enchants": []
           },
@@ -544,7 +549,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 201,
+            "skill": 203,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -577,10 +582,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T11:02:07.863Z",
-        "talents": "2026-11-20T11:40:47.456Z",
-        "equipment": "2026-11-21T11:02:07.863Z",
-        "professions": "2026-11-21T11:02:07.863Z",
+        "summary": "2026-11-22T01:20:10.769Z",
+        "talents": "2026-11-22T01:20:10.769Z",
+        "equipment": "2026-11-22T01:20:10.769Z",
+        "professions": "2026-11-22T01:20:10.769Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -599,7 +604,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 37,
-          "lastUpdated": 1795282639000,
+          "lastUpdated": 1795306621000,
           "honorableKills": 2
         },
         "talents": [
@@ -881,7 +886,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T19:16:45.835Z",
+        "summary": "2026-11-22T01:20:10.769Z",
         "talents": "2026-11-21T19:16:45.835Z",
         "equipment": "2026-11-20T11:40:47.456Z",
         "professions": "2026-11-18T11:42:54.978Z",
@@ -1209,34 +1214,35 @@
         "summary": {
           "name": "Hunting",
           "surname": "Crooner",
-          "level": 35,
+          "level": 36,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 28,
-          "lastUpdated": 1795014813000,
+          "lastUpdated": 1795309869000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Beast Mastery",
-            "points": 26
+            "points": 27
           }
         ],
         "equipment": [
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 10406,
-            "name": "Scaled Leather Headband of the Monkey",
+            "id": 9859,
+            "name": "Archer's Cap of the Bandit",
             "quality": "UNCOMMON",
-            "itemLevel": 32,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133681.jpg",
+            "itemLevel": 36,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133117.jpg",
             "stats": [
-              "+8 Agility",
-              "+8 Stamina"
+              "+4 Agility",
+              "+10 Stamina",
+              "+11 Attack Power"
             ],
             "enchants": []
           },
@@ -1464,7 +1470,7 @@
           {
             "name": "Skinning",
             "skill": 225,
-            "max": 225,
+            "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
           },
@@ -1496,10 +1502,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-18T20:32:01.028Z",
-        "talents": "2026-11-18T00:58:12.359Z",
-        "equipment": "2026-11-18T20:32:01.028Z",
-        "professions": "2026-11-18T20:32:01.028Z",
+        "summary": "2026-11-22T01:20:10.769Z",
+        "talents": "2026-11-22T01:20:10.769Z",
+        "equipment": "2026-11-22T01:20:10.769Z",
+        "professions": "2026-11-22T01:20:10.769Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1816,20 +1822,20 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 41,
+          "level": 42,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 38,
-          "lastUpdated": 1795276792000,
+          "lastUpdated": 1795304918000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Enhancement",
-            "points": 24
+            "points": 25
           },
           {
             "name": "Restoration",
@@ -1912,7 +1918,9 @@
               "+20 Spell Healing",
               "+15 Spirit"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Attack Power +8 and Armor +32"
+            ]
           },
           {
             "slot": "Shirt",
@@ -1952,7 +1960,9 @@
               "+8 Agility",
               "+8 Strength"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Attack Power +8 and Armor +32"
+            ]
           },
           {
             "slot": "Waist",
@@ -1983,7 +1993,9 @@
               "+5 Defense",
               "+120 Bonus Armor"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Attack Power +8 and Armor +32"
+            ]
           },
           {
             "slot": "Feet",
@@ -2118,9 +2130,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T19:16:45.835Z",
-        "talents": "2026-11-21T11:02:07.863Z",
-        "equipment": "2026-11-21T02:16:11.311Z",
+        "summary": "2026-11-22T01:20:10.769Z",
+        "talents": "2026-11-22T01:20:10.769Z",
+        "equipment": "2026-11-22T01:20:10.769Z",
         "professions": "2026-11-20T20:21:37.299Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -2140,7 +2152,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 27,
-          "lastUpdated": 1795279053000,
+          "lastUpdated": 1795306074000,
           "honorableKills": 0
         },
         "talents": [
@@ -2408,7 +2420,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T19:16:45.835Z",
+        "summary": "2026-11-22T01:20:10.769Z",
         "talents": "2026-11-21T11:02:07.863Z",
         "equipment": "2026-11-21T19:16:45.835Z",
         "professions": "2026-11-16T06:30:53.316Z",
