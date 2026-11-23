@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-23T01:43:41.074Z",
+  "fetchedAt": "2026-11-23T12:42:51.203Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -17,7 +17,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1795389094000,
+          "lastUpdated": 1795426319000,
           "honorableKills": 5
         },
         "talents": [
@@ -282,7 +282,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-23T01:43:41.074Z",
+        "summary": "2026-11-23T12:42:51.203Z",
         "talents": "2026-11-18T20:32:01.028Z",
         "equipment": "2026-11-18T20:32:01.028Z",
         "professions": "2026-11-17T16:00:22.856Z",
@@ -303,8 +303,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 37,
-          "lastUpdated": 1795380992000,
+          "itemLevel": 38,
+          "lastUpdated": 1795411489000,
           "honorableKills": 2
         },
         "talents": [
@@ -364,15 +364,14 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 279884,
-            "name": "South Seas Shroud",
-            "quality": "UNCOMMON",
-            "itemLevel": 42,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133754.jpg",
+            "id": 11311,
+            "name": "Emberscale Cape",
+            "quality": "RARE",
+            "itemLevel": 47,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133760.jpg",
             "stats": [
-              "+7 Stamina",
-              "+3 Defense",
-              "+3 Spirit"
+              "+14 Stamina",
+              "+4 Fire Resistance"
             ],
             "enchants": []
           },
@@ -454,20 +453,16 @@
           {
             "slot": "Legs",
             "slotType": "LEGS",
-            "id": 274962,
-            "name": "Crocskin Waders",
-            "quality": "UNCOMMON",
-            "itemLevel": 42,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134593.jpg",
+            "id": 9414,
+            "name": "Oilskin Leggings",
+            "quality": "RARE",
+            "itemLevel": 47,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134586.jpg",
             "stats": [
-              "+8 Strength",
-              "+11 Stamina",
-              "+47 Bonus Armor",
-              "+6 Spirit"
+              "+18 Agility",
+              "+11 Spirit"
             ],
-            "enchants": [
-              "Enchanted: Attack Power +8 and Armor +32"
-            ]
+            "enchants": []
           },
           {
             "slot": "Feet",
@@ -489,16 +484,15 @@
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
-            "id": 275045,
-            "name": "Ogre Horn Ring",
+            "id": 11118,
+            "name": "Archaedic Stone of Shadow Protection",
             "quality": "RARE",
-            "itemLevel": 45,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133722.jpg",
+            "itemLevel": 47,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135241.jpg",
             "stats": [
-              "+3 Agility",
-              "+4 Strength",
-              "+10 Stamina",
-              "+3 Defense"
+              "+8 Stamina",
+              "+8 Shadow Resistance",
+              "+50 Bonus Armor"
             ],
             "enchants": []
           },
@@ -563,7 +557,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 203,
+            "skill": 208,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -596,10 +590,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-23T01:43:41.074Z",
+        "summary": "2026-11-23T12:42:51.203Z",
         "talents": "2026-11-22T11:25:53.314Z",
-        "equipment": "2026-11-22T11:25:53.314Z",
-        "professions": "2026-11-22T11:25:53.314Z",
+        "equipment": "2026-11-23T12:42:51.203Z",
+        "professions": "2026-11-23T12:42:51.203Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -611,20 +605,20 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 44,
+          "level": 45,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 38,
-          "lastUpdated": 1795384751000,
+          "lastUpdated": 1795411500000,
           "honorableKills": 2
         },
         "talents": [
           {
             "name": "Marksmanship",
-            "points": 34
+            "points": 35
           },
           {
             "name": "Beast Mastery",
@@ -851,29 +845,15 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 15234,
-            "name": "Greater Scythe of the Falcon",
-            "quality": "UNCOMMON",
-            "itemLevel": 40,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132394.jpg",
-            "stats": [
-              "+5 Intellect",
-              "+5 Agility"
-            ],
-            "enchants": []
-          },
-          {
-            "slot": "Off Hand",
-            "slotType": "OFF_HAND",
-            "id": 275007,
-            "name": "Mugg's Jabber",
+            "id": 9416,
+            "name": "Grimlok's Charge",
             "quality": "RARE",
             "itemLevel": 47,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135593.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135131.jpg",
             "stats": [
-              "+5 Agility",
-              "+6 Stamina",
-              "+18 Attack Power Vs Humanoids"
+              "+15 Agility",
+              "+10 Strength",
+              "+15 Stamina"
             ],
             "enchants": []
           },
@@ -918,9 +898,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-23T01:43:41.074Z",
-        "talents": "2026-11-22T11:25:53.314Z",
-        "equipment": "2026-11-22T11:25:53.314Z",
+        "summary": "2026-11-23T12:42:51.203Z",
+        "talents": "2026-11-23T12:42:51.203Z",
+        "equipment": "2026-11-23T12:42:51.203Z",
         "professions": "2026-11-18T11:42:54.978Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
@@ -933,14 +913,14 @@
         "summary": {
           "name": "Cannon",
           "surname": "Eye",
-          "level": 39,
+          "level": 40,
           "race": "Undead",
           "class": "Priest",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 32,
-          "lastUpdated": 1795394431000,
+          "lastUpdated": 1795407180000,
           "honorableKills": 0
         },
         "talents": [
@@ -1225,7 +1205,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-23T01:43:41.074Z",
+        "summary": "2026-11-23T12:42:51.203Z",
         "talents": "2026-11-22T11:25:53.314Z",
         "equipment": "2026-11-22T19:41:15.671Z",
         "professions": "2026-11-21T19:16:45.835Z",
@@ -1848,20 +1828,20 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 43,
+          "level": 44,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 39,
-          "lastUpdated": 1795385972000,
+          "itemLevel": 40,
+          "lastUpdated": 1795412652000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Enhancement",
-            "points": 26
+            "points": 27
           },
           {
             "name": "Restoration",
@@ -1917,15 +1897,14 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 271719,
-            "name": "Furs of the Earthen Ring",
-            "quality": "RARE",
-            "itemLevel": 33,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133756.jpg",
+            "id": 9959,
+            "name": "Warmonger's Cloak of the Gorilla",
+            "quality": "UNCOMMON",
+            "itemLevel": 45,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133772.jpg",
             "stats": [
-              "+5 Intellect",
-              "+5 Strength",
-              "+5 Spirit"
+              "+7 Intellect",
+              "+7 Strength"
             ],
             "enchants": []
           },
@@ -1977,14 +1956,15 @@
           {
             "slot": "Hands",
             "slotType": "HANDS",
-            "id": 10760,
-            "name": "Swine Fists",
+            "id": 9390,
+            "name": "Revelosh's Gloves of the Sorcerer",
             "quality": "RARE",
             "itemLevel": 42,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132957.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132951.jpg",
             "stats": [
-              "+8 Agility",
-              "+8 Strength"
+              "+13 Intellect",
+              "+7 Stamina",
+              "+7 Spell Power"
             ],
             "enchants": [
               "Enchanted: Attack Power +8 and Armor +32"
@@ -2095,13 +2075,14 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 279480,
-            "name": "Bigger Rock on Bigger Stick",
+            "id": 9413,
+            "name": "The Rockpounder",
             "quality": "RARE",
-            "itemLevel": 47,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133479.jpg",
+            "itemLevel": 49,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133049.jpg",
             "stats": [
-              "+14 Strength"
+              "+5 Strength",
+              "+28 Critical Strike"
             ],
             "enchants": [
               "Windfury 2"
@@ -2155,9 +2136,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-23T01:43:41.074Z",
-        "talents": "2026-11-23T01:43:41.074Z",
-        "equipment": "2026-11-23T01:43:41.074Z",
+        "summary": "2026-11-23T12:42:51.203Z",
+        "talents": "2026-11-23T12:42:51.203Z",
+        "equipment": "2026-11-23T12:42:51.203Z",
         "professions": "2026-11-23T01:43:41.074Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -2176,8 +2157,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 29,
-          "lastUpdated": 1795387160000,
+          "itemLevel": 31,
+          "lastUpdated": 1795408873000,
           "honorableKills": 1
         },
         "talents": [
@@ -2234,15 +2215,15 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 14763,
-            "name": "Enduring Cape",
-            "quality": "UNCOMMON",
-            "itemLevel": 32,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133754.jpg",
+            "id": 274612,
+            "name": "Waterlogged Burial Shroud",
+            "quality": "RARE",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133767.jpg",
             "stats": [
-              "+2 Agility",
-              "+2 Strength",
-              "+7 Stamina"
+              "+7 Stamina",
+              "+7 Critical Strike",
+              "+12 Attack Power"
             ],
             "enchants": []
           },
@@ -2274,15 +2255,14 @@
           {
             "slot": "Wrist",
             "slotType": "WRIST",
-            "id": 15459,
-            "name": "Grimtoll Wristguards",
-            "quality": "UNCOMMON",
-            "itemLevel": 28,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132601.jpg",
+            "id": 274599,
+            "name": "Oathbound Bracers",
+            "quality": "RARE",
+            "itemLevel": 39,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132611.jpg",
             "stats": [
-              "+1 Agility",
-              "+5 Strength",
-              "+2 Stamina"
+              "+6 Agility",
+              "+9 Hit"
             ],
             "enchants": []
           },
@@ -2360,14 +2340,14 @@
           {
             "slot": "Ring 2",
             "slotType": "FINGER_2",
-            "id": 274078,
-            "name": "Boar Signet",
+            "id": 11997,
+            "name": "Greenstone Circle of the Whale",
             "quality": "UNCOMMON",
-            "itemLevel": 32,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133368.jpg",
+            "itemLevel": 38,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133350.jpg",
             "stats": [
               "+5 Stamina",
-              "+5 Block"
+              "+5 Spirit"
             ],
             "enchants": []
           },
@@ -2463,9 +2443,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-23T01:43:41.074Z",
+        "summary": "2026-11-23T12:42:51.203Z",
         "talents": "2026-11-23T01:43:41.074Z",
-        "equipment": "2026-11-23T01:43:41.074Z",
+        "equipment": "2026-11-23T12:42:51.203Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
