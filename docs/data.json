@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-22T19:41:15.671Z",
+  "fetchedAt": "2026-11-23T01:43:41.074Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -17,7 +17,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1795287848000,
+          "lastUpdated": 1795389094000,
           "honorableKills": 5
         },
         "talents": [
@@ -282,7 +282,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-21T19:16:45.835Z",
+        "summary": "2026-11-23T01:43:41.074Z",
         "talents": "2026-11-18T20:32:01.028Z",
         "equipment": "2026-11-18T20:32:01.028Z",
         "professions": "2026-11-17T16:00:22.856Z",
@@ -304,7 +304,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 37,
-          "lastUpdated": 1795329903000,
+          "lastUpdated": 1795380992000,
           "honorableKills": 2
         },
         "talents": [
@@ -596,7 +596,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T11:25:53.314Z",
+        "summary": "2026-11-23T01:43:41.074Z",
         "talents": "2026-11-22T11:25:53.314Z",
         "equipment": "2026-11-22T11:25:53.314Z",
         "professions": "2026-11-22T11:25:53.314Z",
@@ -618,7 +618,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 38,
-          "lastUpdated": 1795370534000,
+          "lastUpdated": 1795384751000,
           "honorableKills": 2
         },
         "talents": [
@@ -918,7 +918,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T19:41:15.671Z",
+        "summary": "2026-11-23T01:43:41.074Z",
         "talents": "2026-11-22T11:25:53.314Z",
         "equipment": "2026-11-22T11:25:53.314Z",
         "professions": "2026-11-18T11:42:54.978Z",
@@ -933,14 +933,14 @@
         "summary": {
           "name": "Cannon",
           "surname": "Eye",
-          "level": 38,
+          "level": 39,
           "race": "Undead",
           "class": "Priest",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 32,
-          "lastUpdated": 1795369743000,
+          "lastUpdated": 1795394431000,
           "honorableKills": 0
         },
         "talents": [
@@ -1225,7 +1225,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T19:41:15.671Z",
+        "summary": "2026-11-23T01:43:41.074Z",
         "talents": "2026-11-22T11:25:53.314Z",
         "equipment": "2026-11-22T19:41:15.671Z",
         "professions": "2026-11-21T19:16:45.835Z",
@@ -1848,20 +1848,20 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 42,
+          "level": 43,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 38,
-          "lastUpdated": 1795371449000,
+          "itemLevel": 39,
+          "lastUpdated": 1795385972000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Enhancement",
-            "points": 25
+            "points": 26
           },
           {
             "name": "Restoration",
@@ -2026,17 +2026,18 @@
           {
             "slot": "Feet",
             "slotType": "FEET",
-            "id": 9828,
-            "name": "Scaled Leather Boots of the Gorilla",
+            "id": 14599,
+            "name": "Warden's Footpads",
             "quality": "UNCOMMON",
-            "itemLevel": 31,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132537.jpg",
+            "itemLevel": 42,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132542.jpg",
             "stats": [
-              "+6 Intellect",
-              "+6 Strength"
+              "+7 Intellect",
+              "+3 Strength",
+              "+9 Spirit"
             ],
             "enchants": [
-              "Enchanted: Attack Power +4 and Armor +16"
+              "Enchanted: Attack Power +8 and Armor +32"
             ]
           },
           {
@@ -2102,7 +2103,9 @@
             "stats": [
               "+14 Strength"
             ],
-            "enchants": []
+            "enchants": [
+              "Windfury 2"
+            ]
           },
           {
             "slot": "Ranged",
@@ -2126,7 +2129,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 272,
+            "skill": 274,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -2152,10 +2155,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T19:41:15.671Z",
-        "talents": "2026-11-22T01:20:10.769Z",
-        "equipment": "2026-11-22T19:41:15.671Z",
-        "professions": "2026-11-22T19:41:15.671Z",
+        "summary": "2026-11-23T01:43:41.074Z",
+        "talents": "2026-11-23T01:43:41.074Z",
+        "equipment": "2026-11-23T01:43:41.074Z",
+        "professions": "2026-11-23T01:43:41.074Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -2167,20 +2170,20 @@
         "summary": {
           "name": "Alex",
           "surname": "Dotcom",
-          "level": 34,
+          "level": 35,
           "race": "Orc",
           "class": "Warrior",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 27,
-          "lastUpdated": 1795327064000,
-          "honorableKills": 0
+          "itemLevel": 29,
+          "lastUpdated": 1795387160000,
+          "honorableKills": 1
         },
         "talents": [
           {
             "name": "Fury",
-            "points": 25
+            "points": 26
           }
         ],
         "equipment": [
@@ -2199,15 +2202,32 @@
             "enchants": []
           },
           {
+            "slot": "Neck",
+            "slotType": "NECK",
+            "id": 12019,
+            "name": "Cerulean Talisman of the Beast",
+            "quality": "UNCOMMON",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133288.jpg",
+            "stats": [
+              "+3 Agility",
+              "+2 Strength",
+              "+5 Stamina"
+            ],
+            "enchants": []
+          },
+          {
             "slot": "Shoulders",
             "slotType": "SHOULDER",
-            "id": 7424,
-            "name": "Phalanx Spaulders of Strength",
+            "id": 9842,
+            "name": "Banded Pauldrons of the Beast",
             "quality": "UNCOMMON",
-            "itemLevel": 33,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135057.jpg",
+            "itemLevel": 32,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135046.jpg",
             "stats": [
-              "+9 Strength"
+              "+4 Agility",
+              "+3 Strength",
+              "+7 Stamina"
             ],
             "enchants": []
           },
@@ -2394,14 +2414,15 @@
           {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 274160,
-            "name": "Quilrager Throwing Axe",
+            "id": 274292,
+            "name": "Houndmaster Boomerang",
             "quality": "RARE",
             "itemLevel": 36,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135421.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135646.jpg",
             "stats": [
-              "+4 Strength",
-              "+40 Bonus Armor"
+              "+4 Stamina",
+              "+4 Attack Power",
+              "+9 Attack Power Vs Beasts"
             ],
             "enchants": []
           }
@@ -2442,9 +2463,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-22T11:25:53.314Z",
-        "talents": "2026-11-21T11:02:07.863Z",
-        "equipment": "2026-11-21T19:16:45.835Z",
+        "summary": "2026-11-23T01:43:41.074Z",
+        "talents": "2026-11-23T01:43:41.074Z",
+        "equipment": "2026-11-23T01:43:41.074Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
