@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-24T02:13:09.631Z",
+  "fetchedAt": "2026-11-24T13:44:04.989Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -17,7 +17,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 30,
-          "lastUpdated": 1795476225000,
+          "lastUpdated": 1795515153000,
           "honorableKills": 5
         },
         "talents": [
@@ -282,7 +282,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-24T02:13:09.631Z",
+        "summary": "2026-11-24T13:44:04.989Z",
         "talents": "2026-11-18T20:32:01.028Z",
         "equipment": "2026-11-18T20:32:01.028Z",
         "professions": "2026-11-17T16:00:22.856Z",
@@ -297,14 +297,14 @@
         "summary": {
           "name": "Corener",
           "surname": "Hardboiled",
-          "level": 44,
+          "level": 45,
           "race": "Tauren",
           "class": "Druid",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 38,
-          "lastUpdated": 1795411489000,
+          "itemLevel": 39,
+          "lastUpdated": 1795499476000,
           "honorableKills": 2
         },
         "talents": [
@@ -314,7 +314,7 @@
           },
           {
             "name": "Restoration",
-            "points": 3
+            "points": 4
           }
         ],
         "equipment": [
@@ -351,13 +351,14 @@
           {
             "slot": "Shoulders",
             "slotType": "SHOULDER",
-            "id": 7482,
-            "name": "Ranger Shoulders of Stamina",
-            "quality": "UNCOMMON",
+            "id": 9389,
+            "name": "Revelosh's Spaulders of the Boar",
+            "quality": "RARE",
             "itemLevel": 42,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135049.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135056.jpg",
             "stats": [
-              "+13 Stamina"
+              "+12 Strength",
+              "+12 Spirit"
             ],
             "enchants": []
           },
@@ -462,23 +463,24 @@
               "+18 Agility",
               "+11 Spirit"
             ],
-            "enchants": []
+            "enchants": [
+              "Enchanted: Attack Power +8 and Armor +32"
+            ]
           },
           {
             "slot": "Feet",
             "slotType": "FEET",
-            "id": 279843,
-            "name": "Enchanted Sandals",
+            "id": 9398,
+            "name": "Worn Running Boots",
             "quality": "RARE",
-            "itemLevel": 36,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132539.jpg",
+            "itemLevel": 42,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132536.jpg",
             "stats": [
-              "+10 Stamina",
-              "+9 Spell Power",
-              "+50 Bonus Armor"
+              "+13 Agility",
+              "+10 Stamina"
             ],
             "enchants": [
-              "Enchanted: Stamina +4 and Armor +32"
+              "Enchanted: Attack Power +8 and Armor +32"
             ]
           },
           {
@@ -525,13 +527,14 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 279480,
-            "name": "Bigger Rock on Bigger Stick",
+            "id": 9413,
+            "name": "The Rockpounder",
             "quality": "RARE",
-            "itemLevel": 47,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133479.jpg",
+            "itemLevel": 49,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133049.jpg",
             "stats": [
-              "+14 Strength"
+              "+5 Strength",
+              "+28 Critical Strike"
             ],
             "enchants": []
           },
@@ -557,7 +560,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 208,
+            "skill": 213,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -590,10 +593,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-23T12:42:51.203Z",
-        "talents": "2026-11-22T11:25:53.314Z",
-        "equipment": "2026-11-23T12:42:51.203Z",
-        "professions": "2026-11-23T12:42:51.203Z",
+        "summary": "2026-11-24T13:44:04.989Z",
+        "talents": "2026-11-24T13:44:04.989Z",
+        "equipment": "2026-11-24T13:44:04.989Z",
+        "professions": "2026-11-24T13:44:04.989Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -605,20 +608,20 @@
         "summary": {
           "name": "Trandy",
           "surname": "Reid",
-          "level": 45,
+          "level": 46,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 41,
-          "lastUpdated": 1795464603000,
+          "lastUpdated": 1795499414000,
           "honorableKills": 2
         },
         "talents": [
           {
             "name": "Marksmanship",
-            "points": 35
+            "points": 36
           },
           {
             "name": "Beast Mastery",
@@ -866,7 +869,7 @@
         "professions": [
           {
             "name": "Leatherworking",
-            "skill": 226,
+            "skill": 230,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136247.jpg",
             "primary": true
@@ -892,10 +895,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-24T02:13:09.631Z",
-        "talents": "2026-11-23T12:42:51.203Z",
+        "summary": "2026-11-24T13:44:04.989Z",
+        "talents": "2026-11-24T13:44:04.989Z",
         "equipment": "2026-11-24T02:13:09.631Z",
-        "professions": "2026-11-24T02:13:09.631Z",
+        "professions": "2026-11-24T13:44:04.989Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -914,7 +917,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": 33,
-          "lastUpdated": 1795471216000,
+          "lastUpdated": 1795497228000,
           "honorableKills": 0
         },
         "talents": [
@@ -1201,7 +1204,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-24T02:13:09.631Z",
+        "summary": "2026-11-24T13:44:04.989Z",
         "talents": "2026-11-24T02:13:09.631Z",
         "equipment": "2026-11-24T02:13:09.631Z",
         "professions": "2026-11-24T02:13:09.631Z",
@@ -1830,8 +1833,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 40,
-          "lastUpdated": 1795471952000,
+          "itemLevel": 41,
+          "lastUpdated": 1795499382000,
           "honorableKills": 0
         },
         "talents": [
@@ -1863,15 +1866,15 @@
           {
             "slot": "Neck",
             "slotType": "NECK",
-            "id": 274068,
-            "name": "Thermaplugg Medal of Honor",
+            "id": 7888,
+            "name": "Jarkal's Enhancing Necklace",
             "quality": "RARE",
-            "itemLevel": 34,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133278.jpg",
+            "itemLevel": 46,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133289.jpg",
             "stats": [
-              "+6 Stamina",
-              "+10 Attack Power",
-              "+6 Spirit"
+              "+1 Intellect",
+              "+10 Stamina",
+              "+12 Spell Power"
             ],
             "enchants": []
           },
@@ -2079,7 +2082,9 @@
               "+5 Strength",
               "+28 Critical Strike"
             ],
-            "enchants": []
+            "enchants": [
+              "Windfury 2"
+            ]
           },
           {
             "slot": "Ranged",
@@ -2129,9 +2134,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-24T02:13:09.631Z",
+        "summary": "2026-11-24T13:44:04.989Z",
         "talents": "2026-11-23T12:42:51.203Z",
-        "equipment": "2026-11-24T02:13:09.631Z",
+        "equipment": "2026-11-24T13:44:04.989Z",
         "professions": "2026-11-24T02:13:09.631Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -2144,20 +2149,20 @@
         "summary": {
           "name": "Alex",
           "surname": "Dotcom",
-          "level": 35,
+          "level": 36,
           "race": "Orc",
           "class": "Warrior",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 31,
-          "lastUpdated": 1795471498000,
+          "itemLevel": 32,
+          "lastUpdated": 1795495499000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Fury",
-            "points": 26
+            "points": 27
           }
         ],
         "equipment": [
@@ -2305,14 +2310,13 @@
           {
             "slot": "Feet",
             "slotType": "FEET",
-            "id": 271211,
-            "name": "Vilewalkers",
-            "quality": "RARE",
-            "itemLevel": 22,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132551.jpg",
+            "id": 9885,
+            "name": "Huntsman's Boots of Strength",
+            "quality": "UNCOMMON",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132541.jpg",
             "stats": [
-              "+7 Strength",
-              "+5 Stamina"
+              "+12 Strength"
             ],
             "enchants": []
           },
@@ -2360,6 +2364,19 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
+            "id": 274603,
+            "name": "Dreadfrost Saber",
+            "quality": "RARE",
+            "itemLevel": 40,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135714.jpg",
+            "stats": [
+              "+8 Stamina"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Off Hand",
+            "slotType": "OFF_HAND",
             "id": 16886,
             "name": "Outlaw Sabre",
             "quality": "RARE",
@@ -2367,20 +2384,6 @@
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135343.jpg",
             "stats": [
               "+16 Attack Power"
-            ],
-            "enchants": []
-          },
-          {
-            "slot": "Off Hand",
-            "slotType": "OFF_HAND",
-            "id": 863,
-            "name": "Gloom Reaper of the Falcon",
-            "quality": "UNCOMMON",
-            "itemLevel": 37,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132399.jpg",
-            "stats": [
-              "+4 Intellect",
-              "+4 Agility"
             ],
             "enchants": []
           },
@@ -2436,9 +2439,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-24T02:13:09.631Z",
-        "talents": "2026-11-23T01:43:41.074Z",
-        "equipment": "2026-11-23T12:42:51.203Z",
+        "summary": "2026-11-24T13:44:04.989Z",
+        "talents": "2026-11-24T13:44:04.989Z",
+        "equipment": "2026-11-24T13:44:04.989Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
