@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-24T13:44:04.989Z",
+  "fetchedAt": "2026-11-24T23:53:58.237Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -614,8 +614,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 41,
-          "lastUpdated": 1795499414000,
+          "itemLevel": null,
+          "lastUpdated": 1795554085000,
           "honorableKills": 2
         },
         "talents": [
@@ -635,7 +635,7 @@
             "id": 8208,
             "name": "Tough Scorpid Helm",
             "quality": "UNCOMMON",
-            "itemLevel": 50,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133122.jpg",
             "stats": [
               "+14 Intellect",
@@ -649,7 +649,7 @@
             "id": 279859,
             "name": "Indoctrinated Choker",
             "quality": "UNCOMMON",
-            "itemLevel": 46,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133298.jpg",
             "stats": [
               "+5 Stamina",
@@ -664,7 +664,7 @@
             "id": 273047,
             "name": "Unstable Crystalline Shoulderpads",
             "quality": "RARE",
-            "itemLevel": 33,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135038.jpg",
             "stats": [
               "+9 Agility",
@@ -679,7 +679,7 @@
             "id": 274613,
             "name": "Priestess Cloak",
             "quality": "RARE",
-            "itemLevel": 40,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133767.jpg",
             "stats": [
               "+9 Intellect",
@@ -695,7 +695,7 @@
             "id": 273026,
             "name": "Garb of Florid Feathers",
             "quality": "RARE",
-            "itemLevel": 31,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133684.jpg",
             "stats": [
               "+15 Intellect",
@@ -711,7 +711,7 @@
             "id": 127,
             "name": "Trapper's Shirt",
             "quality": "COMMON",
-            "itemLevel": 1,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135011.jpg",
             "stats": [],
             "enchants": []
@@ -719,14 +719,14 @@
           {
             "slot": "Wrist",
             "slotType": "WRIST",
-            "id": 4061,
-            "name": "Imperial Leather Bracers",
+            "id": 270103,
+            "name": "Reloading Assist Armbands",
             "quality": "UNCOMMON",
-            "itemLevel": 42,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132602.jpg",
+            "itemLevel": null,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132600.jpg",
             "stats": [
-              "+8 Agility",
-              "+4 Stamina"
+              "+10 Agility",
+              "+5 Spirit"
             ],
             "enchants": []
           },
@@ -736,7 +736,7 @@
             "id": 8204,
             "name": "Tough Scorpid Gloves",
             "quality": "UNCOMMON",
-            "itemLevel": 45,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132958.jpg",
             "stats": [
               "+9 Intellect",
@@ -750,7 +750,7 @@
             "id": 279882,
             "name": "Rusted Troll War Belt",
             "quality": "UNCOMMON",
-            "itemLevel": 42,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132498.jpg",
             "stats": [
               "+9 Intellect",
@@ -765,7 +765,7 @@
             "id": 8206,
             "name": "Tough Scorpid Leggings",
             "quality": "UNCOMMON",
-            "itemLevel": 49,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134592.jpg",
             "stats": [
               "+10 Intellect",
@@ -779,7 +779,7 @@
             "id": 8209,
             "name": "Tough Scorpid Boots",
             "quality": "UNCOMMON",
-            "itemLevel": 47,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132539.jpg",
             "stats": [
               "+7 Intellect",
@@ -793,7 +793,7 @@
             "id": 11986,
             "name": "Thallium Hoop of the Wolf",
             "quality": "UNCOMMON",
-            "itemLevel": 39,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133348.jpg",
             "stats": [
               "+6 Agility",
@@ -807,7 +807,7 @@
             "id": 6748,
             "name": "Monkey Ring",
             "quality": "UNCOMMON",
-            "itemLevel": 32,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133356.jpg",
             "stats": [
               "+5 Agility",
@@ -821,7 +821,7 @@
             "id": 276895,
             "name": "Transformative Cocoon",
             "quality": "UNCOMMON",
-            "itemLevel": 30,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/237431.jpg",
             "stats": [],
             "enchants": []
@@ -832,7 +832,7 @@
             "id": 5079,
             "name": "Cold Basilisk Eye",
             "quality": "UNCOMMON",
-            "itemLevel": 40,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133884.jpg",
             "stats": [
               "+9 Frost Resistance"
@@ -845,7 +845,7 @@
             "id": 9416,
             "name": "Grimlok's Charge",
             "quality": "RARE",
-            "itemLevel": 47,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135131.jpg",
             "stats": [
               "+15 Agility",
@@ -860,7 +860,7 @@
             "id": 2825,
             "name": "Bow of Searing Arrows",
             "quality": "EPIC",
-            "itemLevel": 42,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135497.jpg",
             "stats": [],
             "enchants": []
@@ -869,15 +869,15 @@
         "professions": [
           {
             "name": "Leatherworking",
-            "skill": 230,
+            "skill": 235,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136247.jpg",
             "primary": true
           },
           {
             "name": "Skinning",
-            "skill": 225,
-            "max": 225,
+            "skill": 238,
+            "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
           },
@@ -895,10 +895,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-24T13:44:04.989Z",
+        "summary": "2026-11-24T23:53:58.237Z",
         "talents": "2026-11-24T13:44:04.989Z",
-        "equipment": "2026-11-24T02:13:09.631Z",
-        "professions": "2026-11-24T13:44:04.989Z",
+        "equipment": "2026-11-24T23:53:58.237Z",
+        "professions": "2026-11-24T23:53:58.237Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -1225,8 +1225,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 28,
-          "lastUpdated": 1795477571000,
+          "itemLevel": null,
+          "lastUpdated": 1795564207000,
           "honorableKills": 0
         },
         "talents": [
@@ -1242,7 +1242,7 @@
             "id": 9859,
             "name": "Archer's Cap of the Bandit",
             "quality": "UNCOMMON",
-            "itemLevel": 36,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133117.jpg",
             "stats": [
               "+4 Agility",
@@ -1257,7 +1257,7 @@
             "id": 4197,
             "name": "Berylline Pads",
             "quality": "RARE",
-            "itemLevel": 36,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135036.jpg",
             "stats": [
               "+10 Intellect",
@@ -1272,7 +1272,7 @@
             "id": 14593,
             "name": "Hawkeye's Cloak",
             "quality": "UNCOMMON",
-            "itemLevel": 35,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133755.jpg",
             "stats": [
               "+7 Agility",
@@ -1286,7 +1286,7 @@
             "id": 4255,
             "name": "Green Leather Armor",
             "quality": "UNCOMMON",
-            "itemLevel": 31,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132723.jpg",
             "stats": [
               "+8 Intellect",
@@ -1302,7 +1302,7 @@
             "id": 6125,
             "name": "Brawler's Harness",
             "quality": "COMMON",
-            "itemLevel": 1,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132719.jpg",
             "stats": [],
             "enchants": []
@@ -1313,7 +1313,7 @@
             "id": 271732,
             "name": "Dirt-Heavy Bracers",
             "quality": "UNCOMMON",
-            "itemLevel": 33,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132603.jpg",
             "stats": [
               "+10 Attack Power",
@@ -1327,7 +1327,7 @@
             "id": 4253,
             "name": "Toughened Leather Gloves",
             "quality": "RARE",
-            "itemLevel": 27,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132958.jpg",
             "stats": [
               "+6 Agility",
@@ -1344,7 +1344,7 @@
             "id": 16659,
             "name": "Deftkin Belt",
             "quality": "UNCOMMON",
-            "itemLevel": 27,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132498.jpg",
             "stats": [
               "+4 Agility",
@@ -1359,7 +1359,7 @@
             "id": 9624,
             "name": "Triprunner Dungarees",
             "quality": "RARE",
-            "itemLevel": 37,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134588.jpg",
             "stats": [
               "+18 Agility",
@@ -1374,7 +1374,7 @@
             "id": 9856,
             "name": "Archer's Boots of the Bandit",
             "quality": "UNCOMMON",
-            "itemLevel": 36,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132542.jpg",
             "stats": [
               "+4 Agility",
@@ -1389,7 +1389,7 @@
             "id": 17694,
             "name": "Band of the Fist",
             "quality": "UNCOMMON",
-            "itemLevel": 28,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133344.jpg",
             "stats": [
               "+4 Agility",
@@ -1403,7 +1403,7 @@
             "id": 6414,
             "name": "Seal of Sylvanas",
             "quality": "RARE",
-            "itemLevel": 29,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133357.jpg",
             "stats": [
               "+8 Stamina",
@@ -1417,7 +1417,7 @@
             "id": 276895,
             "name": "Transformative Cocoon",
             "quality": "UNCOMMON",
-            "itemLevel": 30,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/237431.jpg",
             "stats": [],
             "enchants": []
@@ -1428,7 +1428,7 @@
             "id": 16886,
             "name": "Outlaw Sabre",
             "quality": "RARE",
-            "itemLevel": 32,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135343.jpg",
             "stats": [
               "+16 Attack Power"
@@ -1441,7 +1441,7 @@
             "id": 2080,
             "name": "Hillborne Axe of the Wolf",
             "quality": "UNCOMMON",
-            "itemLevel": 34,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132402.jpg",
             "stats": [
               "+3 Agility",
@@ -1455,7 +1455,7 @@
             "id": 274084,
             "name": "Quilboar Blaster",
             "quality": "RARE",
-            "itemLevel": 36,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135614.jpg",
             "stats": [
               "+4 Agility",
@@ -1507,9 +1507,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-24T02:13:09.631Z",
+        "summary": "2026-11-24T23:53:58.237Z",
         "talents": "2026-11-22T01:20:10.769Z",
-        "equipment": "2026-11-24T02:13:09.631Z",
+        "equipment": "2026-11-24T23:53:58.237Z",
         "professions": "2026-11-24T02:13:09.631Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -1833,8 +1833,8 @@
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 41,
-          "lastUpdated": 1795499382000,
+          "itemLevel": null,
+          "lastUpdated": 1795558407000,
           "honorableKills": 0
         },
         "talents": [
@@ -1854,7 +1854,7 @@
             "id": 279930,
             "name": "Saltseer's Helm",
             "quality": "UNCOMMON",
-            "itemLevel": 42,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133117.jpg",
             "stats": [
               "+12 Intellect",
@@ -1869,7 +1869,7 @@
             "id": 7888,
             "name": "Jarkal's Enhancing Necklace",
             "quality": "RARE",
-            "itemLevel": 46,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133289.jpg",
             "stats": [
               "+1 Intellect",
@@ -1881,15 +1881,15 @@
           {
             "slot": "Shoulders",
             "slotType": "SHOULDER",
-            "id": 4197,
-            "name": "Berylline Pads",
-            "quality": "RARE",
-            "itemLevel": 36,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135036.jpg",
+            "id": 16739,
+            "name": "Rugwood Mantle",
+            "quality": "UNCOMMON",
+            "itemLevel": null,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135038.jpg",
             "stats": [
-              "+10 Intellect",
-              "+5 Stamina",
-              "+7 Spell Power"
+              "+11 Intellect",
+              "+7 Spell Power",
+              "+4 Spirit"
             ],
             "enchants": []
           },
@@ -1899,7 +1899,7 @@
             "id": 9959,
             "name": "Warmonger's Cloak of the Gorilla",
             "quality": "UNCOMMON",
-            "itemLevel": 45,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133772.jpg",
             "stats": [
               "+7 Intellect",
@@ -1913,7 +1913,7 @@
             "id": 10764,
             "name": "Deathchill Armor",
             "quality": "RARE",
-            "itemLevel": 43,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132747.jpg",
             "stats": [
               "+9 Intellect",
@@ -1932,7 +1932,7 @@
             "id": 6134,
             "name": "Primitive Mantle",
             "quality": "COMMON",
-            "itemLevel": 1,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133765.jpg",
             "stats": [],
             "enchants": []
@@ -1943,7 +1943,7 @@
             "id": 270042,
             "name": "Technician's Bracers",
             "quality": "UNCOMMON",
-            "itemLevel": 32,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132601.jpg",
             "stats": [
               "+4 Intellect",
@@ -1958,7 +1958,7 @@
             "id": 9390,
             "name": "Revelosh's Gloves of the Sorcerer",
             "quality": "RARE",
-            "itemLevel": 42,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132951.jpg",
             "stats": [
               "+13 Intellect",
@@ -1975,7 +1975,7 @@
             "id": 286429,
             "name": "Big-Belly Belt",
             "quality": "RARE",
-            "itemLevel": 45,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132494.jpg",
             "stats": [
               "+8 Strength",
@@ -1991,7 +1991,7 @@
             "id": 270074,
             "name": "Doomcaller's Pants",
             "quality": "UNCOMMON",
-            "itemLevel": 42,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134594.jpg",
             "stats": [
               "+9 Intellect",
@@ -2007,7 +2007,7 @@
             "id": 14599,
             "name": "Warden's Footpads",
             "quality": "UNCOMMON",
-            "itemLevel": 42,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132542.jpg",
             "stats": [
               "+7 Intellect",
@@ -2024,7 +2024,7 @@
             "id": 273030,
             "name": "Ring of Power Regulation",
             "quality": "RARE",
-            "itemLevel": 33,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133370.jpg",
             "stats": [
               "+3 Mana Regeneration per 5 sec",
@@ -2038,7 +2038,7 @@
             "id": 270081,
             "name": "Purified Ring",
             "quality": "RARE",
-            "itemLevel": 44,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133343.jpg",
             "stats": [
               "+12 Intellect",
@@ -2052,7 +2052,7 @@
             "id": 280766,
             "name": "Satchel of Potions",
             "quality": "UNCOMMON",
-            "itemLevel": 33,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133633.jpg",
             "stats": [],
             "enchants": []
@@ -2063,7 +2063,7 @@
             "id": 274615,
             "name": "Heart of the Primeval",
             "quality": "RARE",
-            "itemLevel": 40,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132852.jpg",
             "stats": [
               "+18 Frost Resistance"
@@ -2076,15 +2076,13 @@
             "id": 9413,
             "name": "The Rockpounder",
             "quality": "RARE",
-            "itemLevel": 49,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133049.jpg",
             "stats": [
               "+5 Strength",
               "+28 Critical Strike"
             ],
-            "enchants": [
-              "Windfury 2"
-            ]
+            "enchants": []
           },
           {
             "slot": "Ranged",
@@ -2092,7 +2090,7 @@
             "id": 263412,
             "name": "Totem of Charged Flames",
             "quality": "UNCOMMON",
-            "itemLevel": 10,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134919.jpg",
             "stats": [],
             "enchants": []
@@ -2134,9 +2132,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-24T13:44:04.989Z",
+        "summary": "2026-11-24T23:53:58.237Z",
         "talents": "2026-11-23T12:42:51.203Z",
-        "equipment": "2026-11-24T13:44:04.989Z",
+        "equipment": "2026-11-24T23:53:58.237Z",
         "professions": "2026-11-24T02:13:09.631Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
