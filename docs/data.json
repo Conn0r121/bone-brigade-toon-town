@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-26T03:34:54.193Z",
+  "fetchedAt": "2026-11-26T16:55:32.207Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -17,7 +17,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795588294000,
+          "lastUpdated": 1795689176000,
           "honorableKills": 5
         },
         "talents": [
@@ -282,7 +282,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-25T08:35:18.291Z",
+        "summary": "2026-11-26T16:55:32.207Z",
         "talents": "2026-11-18T20:32:01.028Z",
         "equipment": "2026-11-25T08:35:18.291Z",
         "professions": "2026-11-17T16:00:22.856Z",
@@ -628,7 +628,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795639568000,
+          "lastUpdated": 1795671143000,
           "honorableKills": 2
         },
         "talents": [
@@ -889,7 +889,7 @@
           },
           {
             "name": "Skinning",
-            "skill": 240,
+            "skill": 241,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
@@ -908,10 +908,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-26T03:34:54.193Z",
+        "summary": "2026-11-26T16:55:32.207Z",
         "talents": "2026-11-25T08:35:18.291Z",
         "equipment": "2026-11-24T23:53:58.237Z",
-        "professions": "2026-11-25T08:35:18.291Z",
+        "professions": "2026-11-26T16:55:32.207Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -923,20 +923,20 @@
         "summary": {
           "name": "Cannon",
           "surname": "Eye",
-          "level": 42,
+          "level": 43,
           "race": "Undead",
           "class": "Priest",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795648748000,
+          "lastUpdated": 1795670423000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Shadow Magic",
-            "points": 21
+            "points": 22
           },
           {
             "name": "Holy",
@@ -996,13 +996,13 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 9805,
-            "name": "Superior Cloak of Fiery Wrath",
-            "quality": "UNCOMMON",
+            "id": 10776,
+            "name": "Silky Spider Cape",
+            "quality": "RARE",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133762.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133769.jpg",
             "stats": [
-              "+7 Fire Damage"
+              "+10 Stamina"
             ],
             "enchants": []
           },
@@ -1050,30 +1050,29 @@
           {
             "slot": "Hands",
             "slotType": "HANDS",
-            "id": 273034,
-            "name": "Ephemeral Grips",
-            "quality": "RARE",
+            "id": 10003,
+            "name": "Black Mageweave Gloves",
+            "quality": "UNCOMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132958.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132939.jpg",
             "stats": [
-              "+7 Intellect",
-              "+7 Stamina",
-              "+9 Shadow Damage",
-              "+9 Arcane Damage"
+              "+15 Spell Power"
             ],
             "enchants": []
           },
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 10771,
-            "name": "Deathmage Sash",
+            "id": 274605,
+            "name": "Briny Sash",
             "quality": "RARE",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132513.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132496.jpg",
             "stats": [
-              "+15 Intellect",
-              "+7 Spell Power"
+              "+9 Intellect",
+              "+9 Spell Damage",
+              "+26 Spell Healing",
+              "+30 Bonus Armor"
             ],
             "enchants": []
           },
@@ -1096,16 +1095,15 @@
           {
             "slot": "Feet",
             "slotType": "FEET",
-            "id": 9454,
-            "name": "Acidic Walkers",
-            "quality": "RARE",
+            "id": 10359,
+            "name": "Everlast Boots",
+            "quality": "UNCOMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132539.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132541.jpg",
             "stats": [
-              "+8 Intellect",
-              "+5 Spell Power",
-              "+5 Nature Resistance",
-              "+4 Spirit"
+              "+3 Spell Damage",
+              "+10 Spell Healing",
+              "+9 Spirit"
             ],
             "enchants": []
           },
@@ -1126,16 +1124,15 @@
           {
             "slot": "Ring 2",
             "slotType": "FINGER_2",
-            "id": 9447,
-            "name": "Electrocutioner Lagnut",
-            "quality": "RARE",
+            "id": 279845,
+            "name": "Solid Gold Band",
+            "quality": "UNCOMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134066.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133345.jpg",
             "stats": [
-              "+4 Stamina",
-              "+3 Spell Damage",
-              "+9 Spell Healing",
-              "+7 Spirit"
+              "+4 Spell Damage",
+              "+11 Spell Healing",
+              "+5 Spirit"
             ],
             "enchants": []
           },
@@ -1170,13 +1167,14 @@
           {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 5216,
-            "name": "Umbral Wand of Stamina",
+            "id": 277256,
+            "name": "Dudd's Second-Favorite Wand",
             "quality": "UNCOMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135468.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135463.jpg",
             "stats": [
-              "+6 Stamina"
+              "+5 Intellect",
+              "+1 Mana Regeneration per 5 sec"
             ],
             "enchants": []
           }
@@ -1184,7 +1182,7 @@
         "professions": [
           {
             "name": "Tailoring",
-            "skill": 153,
+            "skill": 190,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
             "primary": true
@@ -1217,10 +1215,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-26T03:34:54.193Z",
-        "talents": "2026-11-25T08:35:18.291Z",
-        "equipment": "2026-11-26T03:34:54.193Z",
-        "professions": "2026-11-24T02:13:09.631Z",
+        "summary": "2026-11-26T16:55:32.207Z",
+        "talents": "2026-11-26T16:55:32.207Z",
+        "equipment": "2026-11-26T16:55:32.207Z",
+        "professions": "2026-11-26T16:55:32.207Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1834,7 +1832,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795647900000,
+          "lastUpdated": 1795711071000,
           "honorableKills": 0
         },
         "talents": [
@@ -2131,7 +2129,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-26T03:34:54.193Z",
+        "summary": "2026-11-26T16:55:32.207Z",
         "talents": "2026-11-25T08:35:18.291Z",
         "equipment": "2026-11-25T08:35:18.291Z",
         "professions": "2026-11-24T02:13:09.631Z",
@@ -2146,34 +2144,35 @@
         "summary": {
           "name": "Alex",
           "surname": "Dotcom",
-          "level": 36,
+          "level": 37,
           "race": "Orc",
           "class": "Warrior",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
-          "itemLevel": 32,
-          "lastUpdated": 1795495499000,
+          "itemLevel": null,
+          "lastUpdated": 1795708824000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Fury",
-            "points": 27
+            "points": 28
           }
         ],
         "equipment": [
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 250528,
-            "name": "Veteran's Silvered Chain Helm",
-            "quality": "RARE",
-            "itemLevel": 25,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133141.jpg",
+            "id": 7456,
+            "name": "Knight's Headguard of the Beast",
+            "quality": "UNCOMMON",
+            "itemLevel": null,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132767.jpg",
             "stats": [
-              "+10 Strength",
-              "+9 Stamina"
+              "+6 Agility",
+              "+5 Strength",
+              "+11 Stamina"
             ],
             "enchants": []
           },
@@ -2183,7 +2182,7 @@
             "id": 12019,
             "name": "Cerulean Talisman of the Beast",
             "quality": "UNCOMMON",
-            "itemLevel": 32,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133288.jpg",
             "stats": [
               "+3 Agility",
@@ -2198,7 +2197,7 @@
             "id": 9842,
             "name": "Banded Pauldrons of the Beast",
             "quality": "UNCOMMON",
-            "itemLevel": 32,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135046.jpg",
             "stats": [
               "+4 Agility",
@@ -2213,7 +2212,7 @@
             "id": 274612,
             "name": "Waterlogged Burial Shroud",
             "quality": "RARE",
-            "itemLevel": 40,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133767.jpg",
             "stats": [
               "+7 Stamina",
@@ -2228,7 +2227,7 @@
             "id": 7133,
             "name": "Brutal Hauberk",
             "quality": "RARE",
-            "itemLevel": 30,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132629.jpg",
             "stats": [
               "+5 Strength",
@@ -2242,7 +2241,7 @@
             "id": 6125,
             "name": "Brawler's Harness",
             "quality": "COMMON",
-            "itemLevel": 1,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132719.jpg",
             "stats": [],
             "enchants": []
@@ -2253,7 +2252,7 @@
             "id": 274599,
             "name": "Oathbound Bracers",
             "quality": "RARE",
-            "itemLevel": 39,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132611.jpg",
             "stats": [
               "+6 Agility",
@@ -2267,7 +2266,7 @@
             "id": 3341,
             "name": "Gauntlets of Ogre Strength",
             "quality": "UNCOMMON",
-            "itemLevel": 32,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132938.jpg",
             "stats": [
               "+3 Strength",
@@ -2281,7 +2280,7 @@
             "id": 10329,
             "name": "Scarlet Belt",
             "quality": "RARE",
-            "itemLevel": 37,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132495.jpg",
             "stats": [
               "+12 Strength",
@@ -2295,7 +2294,7 @@
             "id": 250523,
             "name": "Veteran's Silvered Chain Leggings",
             "quality": "RARE",
-            "itemLevel": 30,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134657.jpg",
             "stats": [
               "+7 Agility",
@@ -2310,7 +2309,7 @@
             "id": 9885,
             "name": "Huntsman's Boots of Strength",
             "quality": "UNCOMMON",
-            "itemLevel": 40,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132541.jpg",
             "stats": [
               "+12 Strength"
@@ -2323,7 +2322,7 @@
             "id": 9588,
             "name": "Nogg's Gold Ring",
             "quality": "RARE",
-            "itemLevel": 37,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133345.jpg",
             "stats": [
               "+10 Stamina",
@@ -2337,7 +2336,7 @@
             "id": 11997,
             "name": "Greenstone Circle of the Whale",
             "quality": "UNCOMMON",
-            "itemLevel": 38,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133350.jpg",
             "stats": [
               "+5 Stamina",
@@ -2351,7 +2350,7 @@
             "id": 274152,
             "name": "Roogug's Severed Head",
             "quality": "RARE",
-            "itemLevel": 30,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134172.jpg",
             "stats": [
               "+6 Spirit"
@@ -2364,7 +2363,7 @@
             "id": 274603,
             "name": "Dreadfrost Saber",
             "quality": "RARE",
-            "itemLevel": 40,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135714.jpg",
             "stats": [
               "+8 Stamina"
@@ -2377,7 +2376,7 @@
             "id": 16886,
             "name": "Outlaw Sabre",
             "quality": "RARE",
-            "itemLevel": 32,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135343.jpg",
             "stats": [
               "+16 Attack Power"
@@ -2390,7 +2389,7 @@
             "id": 274292,
             "name": "Houndmaster Boomerang",
             "quality": "RARE",
-            "itemLevel": 36,
+            "itemLevel": null,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135646.jpg",
             "stats": [
               "+4 Stamina",
@@ -2436,9 +2435,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-24T13:44:04.989Z",
-        "talents": "2026-11-24T13:44:04.989Z",
-        "equipment": "2026-11-24T13:44:04.989Z",
+        "summary": "2026-11-26T16:55:32.207Z",
+        "talents": "2026-11-26T16:55:32.207Z",
+        "equipment": "2026-11-26T16:55:32.207Z",
         "professions": "2026-11-16T06:30:53.316Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
