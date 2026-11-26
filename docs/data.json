@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-25T19:17:22.609Z",
+  "fetchedAt": "2026-11-26T03:34:54.193Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -304,7 +304,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795622374000,
+          "lastUpdated": 1795634765000,
           "honorableKills": 2
         },
         "talents": [
@@ -336,15 +336,15 @@
           {
             "slot": "Neck",
             "slotType": "NECK",
-            "id": 275004,
-            "name": "Chain of the Corruptor",
+            "id": 19159,
+            "name": "Woven Ivy Necklace",
             "quality": "RARE",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133306.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134196.jpg",
             "stats": [
-              "+4 Agility",
-              "+12 Stamina",
-              "+5 Spell Power"
+              "+9 Agility",
+              "+6 Strength",
+              "+10 Stamina"
             ],
             "enchants": []
           },
@@ -379,19 +379,16 @@
           {
             "slot": "Chest",
             "slotType": "CHEST",
-            "id": 4119,
-            "name": "Raptor Hunter Tunic",
+            "id": 281299,
+            "name": "Profane Ritual Robes",
             "quality": "UNCOMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132722.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132646.jpg",
             "stats": [
-              "+3 Agility",
-              "+4 Strength",
-              "+16 Stamina"
+              "+17 Agility",
+              "+9 Stamina"
             ],
-            "enchants": [
-              "Enchanted: Stamina +3 and Armor +24"
-            ]
+            "enchants": []
           },
           {
             "slot": "Shirt",
@@ -516,25 +513,41 @@
           {
             "slot": "Trinket 1",
             "slotType": "TRINKET_1",
-            "id": 280766,
-            "name": "Satchel of Potions",
+            "id": 270225,
+            "name": "Jewel of the Guard Captain",
             "quality": "UNCOMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133633.jpg",
-            "stats": [],
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134891.jpg",
+            "stats": [
+              "+7 Critical Strike"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Trinket 2",
+            "slotType": "TRINKET_2",
+            "id": 19120,
+            "name": "Rune of the Guard Captain",
+            "quality": "UNCOMMON",
+            "itemLevel": null,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134420.jpg",
+            "stats": [
+              "+7 Hit"
+            ],
             "enchants": []
           },
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 9413,
-            "name": "The Rockpounder",
+            "id": 13046,
+            "name": "Blanchard's Stout",
             "quality": "RARE",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133049.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133041.jpg",
             "stats": [
-              "+5 Strength",
-              "+28 Critical Strike"
+              "+20 Strength",
+              "+15 Stamina",
+              "+5 Fire Resistance"
             ],
             "enchants": []
           },
@@ -560,7 +573,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 220,
+            "skill": 222,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -593,10 +606,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-25T19:17:22.609Z",
+        "summary": "2026-11-26T03:34:54.193Z",
         "talents": "2026-11-25T19:17:22.609Z",
-        "equipment": "2026-11-25T08:35:18.291Z",
-        "professions": "2026-11-25T19:17:22.609Z",
+        "equipment": "2026-11-26T03:34:54.193Z",
+        "professions": "2026-11-26T03:34:54.193Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -615,7 +628,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795631677000,
+          "lastUpdated": 1795639568000,
           "honorableKills": 2
         },
         "talents": [
@@ -895,7 +908,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-25T19:17:22.609Z",
+        "summary": "2026-11-26T03:34:54.193Z",
         "talents": "2026-11-25T08:35:18.291Z",
         "equipment": "2026-11-24T23:53:58.237Z",
         "professions": "2026-11-25T08:35:18.291Z",
@@ -917,7 +930,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795621807000,
+          "lastUpdated": 1795648748000,
           "honorableKills": 0
         },
         "talents": [
@@ -996,15 +1009,16 @@
           {
             "slot": "Chest",
             "slotType": "CHEST",
-            "id": 7711,
-            "name": "Robe of Doan",
-            "quality": "UNCOMMON",
+            "id": 9623,
+            "name": "Civinad Robes",
+            "quality": "RARE",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132666.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132659.jpg",
             "stats": [
-              "+4 Stamina",
-              "+8 Spirit",
-              "+16 Fire Damage"
+              "+7 Stamina",
+              "+9 Spell Damage",
+              "+26 Spell Healing",
+              "+12 Spirit"
             ],
             "enchants": []
           },
@@ -1156,14 +1170,13 @@
           {
             "slot": "Ranged",
             "slotType": "RANGED",
-            "id": 6806,
-            "name": "Dancing Flame",
+            "id": 5216,
+            "name": "Umbral Wand of Stamina",
             "quality": "UNCOMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135466.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135468.jpg",
             "stats": [
-              "+4 Intellect",
-              "+4 Spell Power"
+              "+6 Stamina"
             ],
             "enchants": []
           }
@@ -1204,9 +1217,9 @@
         }
       },
       "updated": {
-        "summary": "2026-11-25T19:17:22.609Z",
+        "summary": "2026-11-26T03:34:54.193Z",
         "talents": "2026-11-25T08:35:18.291Z",
-        "equipment": "2026-11-25T08:35:18.291Z",
+        "equipment": "2026-11-26T03:34:54.193Z",
         "professions": "2026-11-24T02:13:09.631Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
@@ -1821,7 +1834,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795625210000,
+          "lastUpdated": 1795647900000,
           "honorableKills": 0
         },
         "talents": [
@@ -2118,7 +2131,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-25T19:17:22.609Z",
+        "summary": "2026-11-26T03:34:54.193Z",
         "talents": "2026-11-25T08:35:18.291Z",
         "equipment": "2026-11-25T08:35:18.291Z",
         "professions": "2026-11-24T02:13:09.631Z",
