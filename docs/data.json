@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-27T12:22:01.360Z",
+  "fetchedAt": "2026-11-27T23:28:13.247Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -304,7 +304,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795727363000,
+          "lastUpdated": 1795792615000,
           "honorableKills": 2
         },
         "talents": [
@@ -606,7 +606,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-27T01:44:41.469Z",
+        "summary": "2026-11-27T23:28:13.247Z",
         "talents": "2026-11-25T19:17:22.609Z",
         "equipment": "2026-11-26T03:34:54.193Z",
         "professions": "2026-11-26T03:34:54.193Z",
@@ -628,7 +628,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795751057000,
+          "lastUpdated": 1795818559000,
           "honorableKills": 2
         },
         "talents": [
@@ -882,14 +882,14 @@
         "professions": [
           {
             "name": "Leatherworking",
-            "skill": 238,
+            "skill": 250,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136247.jpg",
             "primary": true
           },
           {
             "name": "Skinning",
-            "skill": 241,
+            "skill": 244,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
@@ -908,10 +908,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-27T12:22:01.360Z",
+        "summary": "2026-11-27T23:28:13.247Z",
         "talents": "2026-11-25T08:35:18.291Z",
         "equipment": "2026-11-24T23:53:58.237Z",
-        "professions": "2026-11-26T16:55:32.207Z",
+        "professions": "2026-11-27T23:28:13.247Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -930,7 +930,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795670423000,
+          "lastUpdated": 1795816599000,
           "honorableKills": 0
         },
         "talents": [
@@ -951,15 +951,14 @@
           {
             "slot": "Head",
             "slotType": "HEAD",
-            "id": 9492,
-            "name": "Electromagnetic Gigaflux Reactivator",
+            "id": 275010,
+            "name": "Strongly Scented Hood",
             "quality": "RARE",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132995.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133164.jpg",
             "stats": [
-              "+8 Intellect",
-              "+8 Spell Power",
-              "+9 Spirit"
+              "+15 Spell Power",
+              "+21 Spirit"
             ],
             "enchants": []
           },
@@ -996,40 +995,39 @@
           {
             "slot": "Back",
             "slotType": "BACK",
-            "id": 10776,
-            "name": "Silky Spider Cape",
-            "quality": "RARE",
+            "id": 9805,
+            "name": "Superior Cloak of Fiery Wrath",
+            "quality": "UNCOMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133769.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133762.jpg",
             "stats": [
-              "+10 Stamina"
+              "+7 Fire Damage"
             ],
             "enchants": []
           },
           {
             "slot": "Chest",
             "slotType": "CHEST",
-            "id": 9623,
-            "name": "Civinad Robes",
+            "id": 10021,
+            "name": "Dreamweave Vest",
             "quality": "RARE",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132659.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132683.jpg",
             "stats": [
-              "+7 Stamina",
-              "+9 Spell Damage",
-              "+26 Spell Healing",
-              "+12 Spirit"
+              "+9 Intellect",
+              "+18 Spell Power",
+              "+14 Spirit"
             ],
             "enchants": []
           },
           {
             "slot": "Shirt",
             "slotType": "SHIRT",
-            "id": 53,
-            "name": "Neophyte's Shirt",
+            "id": 2587,
+            "name": "Gray Woolen Shirt",
             "quality": "COMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135005.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135025.jpg",
             "stats": [],
             "enchants": []
           },
@@ -1050,60 +1048,59 @@
           {
             "slot": "Hands",
             "slotType": "HANDS",
-            "id": 10003,
-            "name": "Black Mageweave Gloves",
-            "quality": "UNCOMMON",
+            "id": 10019,
+            "name": "Dreamweave Gloves",
+            "quality": "RARE",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132939.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132952.jpg",
             "stats": [
-              "+15 Spell Power"
+              "+4 Intellect",
+              "+18 Spell Power",
+              "+7 Spirit"
             ],
             "enchants": []
           },
           {
             "slot": "Waist",
             "slotType": "WAIST",
-            "id": 274605,
-            "name": "Briny Sash",
+            "id": 10771,
+            "name": "Deathmage Sash",
             "quality": "RARE",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132496.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132513.jpg",
             "stats": [
-              "+9 Intellect",
-              "+9 Spell Damage",
-              "+26 Spell Healing",
-              "+30 Bonus Armor"
+              "+15 Intellect",
+              "+7 Spell Power"
             ],
             "enchants": []
           },
           {
             "slot": "Legs",
             "slotType": "LEGS",
-            "id": 9825,
-            "name": "Durable Pants of the Physician",
+            "id": 4044,
+            "name": "Aurora Pants",
             "quality": "UNCOMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134589.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134581.jpg",
             "stats": [
-              "+5 Intellect",
-              "+9 Stamina",
-              "+3 Spell Damage",
-              "+9 Spell Healing"
+              "+11 Intellect",
+              "+10 Spirit"
             ],
             "enchants": []
           },
           {
             "slot": "Feet",
             "slotType": "FEET",
-            "id": 10359,
-            "name": "Everlast Boots",
-            "quality": "UNCOMMON",
+            "id": 254007,
+            "name": "Black Slippers",
+            "quality": "RARE",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132541.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132578.jpg",
             "stats": [
-              "+3 Spell Damage",
-              "+10 Spell Healing",
-              "+9 Spirit"
+              "+7 Intellect",
+              "+6 Stamina",
+              "+4 Spirit",
+              "+13 Shadow Damage"
             ],
             "enchants": []
           },
@@ -1152,15 +1149,25 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 274606,
-            "name": "Bloodspine Staff",
+            "id": 9419,
+            "name": "Galgann's Firehammer",
             "quality": "RARE",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135468.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133054.jpg",
+            "stats": [],
+            "enchants": []
+          },
+          {
+            "slot": "Off Hand",
+            "slotType": "OFF_HAND",
+            "id": 7610,
+            "name": "Aurora Sphere",
+            "quality": "UNCOMMON",
+            "itemLevel": null,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134121.jpg",
             "stats": [
-              "+11 Intellect",
-              "+12 Stamina",
-              "+12 Spirit"
+              "+7 Intellect",
+              "+4 Spirit"
             ],
             "enchants": []
           },
@@ -1182,7 +1189,7 @@
         "professions": [
           {
             "name": "Tailoring",
-            "skill": 190,
+            "skill": 192,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
             "primary": true
@@ -1215,10 +1222,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-26T16:55:32.207Z",
+        "summary": "2026-11-27T23:28:13.247Z",
         "talents": "2026-11-26T16:55:32.207Z",
-        "equipment": "2026-11-26T16:55:32.207Z",
-        "professions": "2026-11-26T16:55:32.207Z",
+        "equipment": "2026-11-27T23:28:13.247Z",
+        "professions": "2026-11-27T23:28:13.247Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1237,7 +1244,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795620926000,
+          "lastUpdated": 1795819236000,
           "honorableKills": 0
         },
         "talents": [
@@ -1505,7 +1512,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-25T19:17:22.609Z",
+        "summary": "2026-11-27T23:28:13.247Z",
         "talents": "2026-11-25T19:17:22.609Z",
         "equipment": "2026-11-25T19:17:22.609Z",
         "professions": "2026-11-25T19:17:22.609Z",
@@ -1825,20 +1832,20 @@
         "summary": {
           "name": "Chubarious",
           "surname": "Hubbarious",
-          "level": 45,
+          "level": 46,
           "race": "Troll",
           "class": "Shaman",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795711071000,
+          "lastUpdated": 1795820899000,
           "honorableKills": 0
         },
         "talents": [
           {
             "name": "Enhancement",
-            "points": 28
+            "points": 29
           },
           {
             "name": "Restoration",
@@ -2129,8 +2136,8 @@
         }
       },
       "updated": {
-        "summary": "2026-11-26T16:55:32.207Z",
-        "talents": "2026-11-25T08:35:18.291Z",
+        "summary": "2026-11-27T23:28:13.247Z",
+        "talents": "2026-11-27T23:28:13.247Z",
         "equipment": "2026-11-25T08:35:18.291Z",
         "professions": "2026-11-24T02:13:09.631Z",
         "media": "2026-11-10T20:19:24.488Z"
@@ -2151,7 +2158,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795761055000,
+          "lastUpdated": 1795820631000,
           "honorableKills": 1
         },
         "talents": [
@@ -2435,7 +2442,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-27T12:22:01.360Z",
+        "summary": "2026-11-27T23:28:13.247Z",
         "talents": "2026-11-27T12:22:01.360Z",
         "equipment": "2026-11-27T12:22:01.360Z",
         "professions": "2026-11-27T12:22:01.360Z",
