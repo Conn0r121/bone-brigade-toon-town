@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-26T16:55:32.207Z",
+  "fetchedAt": "2026-11-27T01:44:41.469Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -17,7 +17,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795689176000,
+          "lastUpdated": 1795741420000,
           "honorableKills": 5
         },
         "talents": [
@@ -282,7 +282,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-26T16:55:32.207Z",
+        "summary": "2026-11-27T01:44:41.469Z",
         "talents": "2026-11-18T20:32:01.028Z",
         "equipment": "2026-11-25T08:35:18.291Z",
         "professions": "2026-11-17T16:00:22.856Z",
@@ -304,7 +304,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795634765000,
+          "lastUpdated": 1795727363000,
           "honorableKills": 2
         },
         "talents": [
@@ -606,7 +606,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-26T03:34:54.193Z",
+        "summary": "2026-11-27T01:44:41.469Z",
         "talents": "2026-11-25T19:17:22.609Z",
         "equipment": "2026-11-26T03:34:54.193Z",
         "professions": "2026-11-26T03:34:54.193Z",
@@ -2151,7 +2151,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795708824000,
+          "lastUpdated": 1795713432000,
           "honorableKills": 1
         },
         "talents": [
@@ -2435,7 +2435,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-26T16:55:32.207Z",
+        "summary": "2026-11-27T01:44:41.469Z",
         "talents": "2026-11-26T16:55:32.207Z",
         "equipment": "2026-11-26T16:55:32.207Z",
         "professions": "2026-11-16T06:30:53.316Z",
