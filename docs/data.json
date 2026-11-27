@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-27T01:44:41.469Z",
+  "fetchedAt": "2026-11-27T12:22:01.360Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -17,7 +17,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795741420000,
+          "lastUpdated": 1795767668000,
           "honorableKills": 5
         },
         "talents": [
@@ -282,7 +282,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-27T01:44:41.469Z",
+        "summary": "2026-11-27T12:22:01.360Z",
         "talents": "2026-11-18T20:32:01.028Z",
         "equipment": "2026-11-25T08:35:18.291Z",
         "professions": "2026-11-17T16:00:22.856Z",
@@ -628,7 +628,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795671143000,
+          "lastUpdated": 1795751057000,
           "honorableKills": 2
         },
         "talents": [
@@ -908,7 +908,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-26T16:55:32.207Z",
+        "summary": "2026-11-27T12:22:01.360Z",
         "talents": "2026-11-25T08:35:18.291Z",
         "equipment": "2026-11-24T23:53:58.237Z",
         "professions": "2026-11-26T16:55:32.207Z",
@@ -2144,20 +2144,20 @@
         "summary": {
           "name": "Alex",
           "surname": "Dotcom",
-          "level": 37,
+          "level": 38,
           "race": "Orc",
           "class": "Warrior",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795713432000,
+          "lastUpdated": 1795761055000,
           "honorableKills": 1
         },
         "talents": [
           {
             "name": "Fury",
-            "points": 28
+            "points": 29
           }
         ],
         "equipment": [
@@ -2319,6 +2319,20 @@
           {
             "slot": "Ring 1",
             "slotType": "FINGER_1",
+            "id": 274614,
+            "name": "Knucklebone Ring",
+            "quality": "RARE",
+            "itemLevel": null,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133722.jpg",
+            "stats": [
+              "+7 Stamina",
+              "+2 Physical Damage"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Ring 2",
+            "slotType": "FINGER_2",
             "id": 9588,
             "name": "Nogg's Gold Ring",
             "quality": "RARE",
@@ -2327,20 +2341,6 @@
             "stats": [
               "+10 Stamina",
               "+3 Defense"
-            ],
-            "enchants": []
-          },
-          {
-            "slot": "Ring 2",
-            "slotType": "FINGER_2",
-            "id": 11997,
-            "name": "Greenstone Circle of the Whale",
-            "quality": "UNCOMMON",
-            "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133350.jpg",
-            "stats": [
-              "+5 Stamina",
-              "+5 Spirit"
             ],
             "enchants": []
           },
@@ -2402,7 +2402,7 @@
         "professions": [
           {
             "name": "Mining",
-            "skill": 118,
+            "skill": 119,
             "max": 150,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136248.jpg",
             "primary": true
@@ -2435,10 +2435,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-27T01:44:41.469Z",
-        "talents": "2026-11-26T16:55:32.207Z",
-        "equipment": "2026-11-26T16:55:32.207Z",
-        "professions": "2026-11-16T06:30:53.316Z",
+        "summary": "2026-11-27T12:22:01.360Z",
+        "talents": "2026-11-27T12:22:01.360Z",
+        "equipment": "2026-11-27T12:22:01.360Z",
+        "professions": "2026-11-27T12:22:01.360Z",
         "media": "2026-11-10T21:00:00.659Z"
       },
       "error": null
