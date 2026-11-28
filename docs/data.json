@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-27T23:28:13.247Z",
+  "fetchedAt": "2026-11-28T07:49:48.423Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -304,7 +304,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795792615000,
+          "lastUpdated": 1795838776000,
           "honorableKills": 2
         },
         "talents": [
@@ -573,7 +573,7 @@
           },
           {
             "name": "Herbalism",
-            "skill": 222,
+            "skill": 224,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136246.jpg",
             "primary": true
@@ -606,10 +606,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-27T23:28:13.247Z",
+        "summary": "2026-11-28T07:49:48.423Z",
         "talents": "2026-11-25T19:17:22.609Z",
         "equipment": "2026-11-26T03:34:54.193Z",
-        "professions": "2026-11-26T03:34:54.193Z",
+        "professions": "2026-11-28T07:49:48.423Z",
         "media": "2026-11-10T19:54:12.713Z"
       },
       "error": null
@@ -930,7 +930,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795816599000,
+          "lastUpdated": 1795824977000,
           "honorableKills": 0
         },
         "talents": [
@@ -1189,7 +1189,7 @@
         "professions": [
           {
             "name": "Tailoring",
-            "skill": 192,
+            "skill": 193,
             "max": 225,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/136249.jpg",
             "primary": true
@@ -1222,10 +1222,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-27T23:28:13.247Z",
+        "summary": "2026-11-28T07:49:48.423Z",
         "talents": "2026-11-26T16:55:32.207Z",
         "equipment": "2026-11-27T23:28:13.247Z",
-        "professions": "2026-11-27T23:28:13.247Z",
+        "professions": "2026-11-28T07:49:48.423Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1237,14 +1237,14 @@
         "summary": {
           "name": "Hunting",
           "surname": "Crooner",
-          "level": 37,
+          "level": 38,
           "race": "Orc",
           "class": "Hunter",
           "faction": "Horde",
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795819236000,
+          "lastUpdated": 1795829035000,
           "honorableKills": 0
         },
         "talents": [
@@ -1272,15 +1272,14 @@
           {
             "slot": "Shoulders",
             "slotType": "SHOULDER",
-            "id": 4197,
-            "name": "Berylline Pads",
-            "quality": "RARE",
+            "id": 9863,
+            "name": "Archer's Shoulderpads of the Eagle",
+            "quality": "UNCOMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135036.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135039.jpg",
             "stats": [
-              "+10 Intellect",
-              "+5 Stamina",
-              "+7 Spell Power"
+              "+7 Intellect",
+              "+7 Stamina"
             ],
             "enchants": []
           },
@@ -1443,14 +1442,27 @@
           {
             "slot": "Main Hand",
             "slotType": "MAIN_HAND",
-            "id": 274944,
-            "name": "Bloodsnout Striker",
+            "id": 16886,
+            "name": "Outlaw Sabre",
+            "quality": "RARE",
+            "itemLevel": null,
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135343.jpg",
+            "stats": [
+              "+16 Attack Power"
+            ],
+            "enchants": []
+          },
+          {
+            "slot": "Off Hand",
+            "slotType": "OFF_HAND",
+            "id": 2080,
+            "name": "Hillborne Axe of the Wolf",
             "quality": "UNCOMMON",
             "itemLevel": null,
-            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/135128.jpg",
+            "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/132402.jpg",
             "stats": [
-              "+11 Stamina",
-              "+18 Attack Power"
+              "+3 Agility",
+              "+3 Spirit"
             ],
             "enchants": []
           },
@@ -1479,14 +1491,14 @@
           },
           {
             "name": "Skinning",
-            "skill": 231,
+            "skill": 232,
             "max": 300,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/134366.jpg",
             "primary": true
           },
           {
             "name": "Cooking",
-            "skill": 9,
+            "skill": 14,
             "max": 75,
             "icon": "https://render.worldofwarcraft.com/forever-us/icons/56/133971.jpg",
             "primary": false
@@ -1512,10 +1524,10 @@
         }
       },
       "updated": {
-        "summary": "2026-11-27T23:28:13.247Z",
+        "summary": "2026-11-28T07:49:48.423Z",
         "talents": "2026-11-25T19:17:22.609Z",
-        "equipment": "2026-11-25T19:17:22.609Z",
-        "professions": "2026-11-25T19:17:22.609Z",
+        "equipment": "2026-11-28T07:49:48.423Z",
+        "professions": "2026-11-28T07:49:48.423Z",
         "media": "2026-11-10T20:19:24.488Z"
       },
       "error": null
@@ -1839,7 +1851,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795820899000,
+          "lastUpdated": 1795845083000,
           "honorableKills": 0
         },
         "talents": [
@@ -2136,7 +2148,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-27T23:28:13.247Z",
+        "summary": "2026-11-28T07:49:48.423Z",
         "talents": "2026-11-27T23:28:13.247Z",
         "equipment": "2026-11-25T08:35:18.291Z",
         "professions": "2026-11-24T02:13:09.631Z",
@@ -2158,7 +2170,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795820631000,
+          "lastUpdated": 1795847839000,
           "honorableKills": 1
         },
         "talents": [
@@ -2442,7 +2454,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-27T23:28:13.247Z",
+        "summary": "2026-11-28T07:49:48.423Z",
         "talents": "2026-11-27T12:22:01.360Z",
         "equipment": "2026-11-27T12:22:01.360Z",
         "professions": "2026-11-27T12:22:01.360Z",
