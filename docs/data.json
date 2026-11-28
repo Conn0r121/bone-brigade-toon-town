@@ -1,7 +1,7 @@
 {
   "title": "Bone Brigade Toon Town",
   "region": "us",
-  "fetchedAt": "2026-11-28T07:49:48.423Z",
+  "fetchedAt": "2026-11-28T17:33:33.490Z",
   "characters": [
     {
       "slug": "stardew-honeymelon",
@@ -2170,7 +2170,7 @@
           "guild": "The Little Buff Boys",
           "ruleset": "Normal",
           "itemLevel": null,
-          "lastUpdated": 1795847839000,
+          "lastUpdated": 1795876575000,
           "honorableKills": 1
         },
         "talents": [
@@ -2454,7 +2454,7 @@
         }
       },
       "updated": {
-        "summary": "2026-11-28T07:49:48.423Z",
+        "summary": "2026-11-28T17:33:33.490Z",
         "talents": "2026-11-27T12:22:01.360Z",
         "equipment": "2026-11-27T12:22:01.360Z",
         "professions": "2026-11-27T12:22:01.360Z",
